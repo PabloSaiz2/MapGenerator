@@ -1,0 +1,13 @@
+2
+Madrid
+Castilla
+PNE
+100 200 0 1024 0 1024
+
+50
+Barcelona
+Catalonia
+CDR
+100 200 0 1024 0 1024
+0 1
+50
