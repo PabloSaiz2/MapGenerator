@@ -19,6 +19,8 @@ public class MapGenerator implements Observable<MapGenObserver>{
 		if(indexProv<0||indexProv>=provinces.size())
 			throw new IllegalArgumentException("Invalid index");
 		provinces.get(indexProv).addAdjacency(indexAdj);
+		for(MapGenObserver observer:observers)
+			observer.onConnectionAdded(indexProv,indexAdj,provinces.get(indexProv).getxCenter(),provinces.get(indexProv).getyCenter(),provinces.get(indexAdj).getxCenter(), provinces.get(indexAdj).getyCenter());
 	}
 	public void addNation(String nation) {
 		nations.add(nation);
