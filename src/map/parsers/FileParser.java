@@ -32,7 +32,7 @@ public class FileParser {
 			int xCenter=0, yCenter=0, xStart=0, yStart=0, xEnd=0, yEnd=0;
 
 			String connectionsString;
-			int development;
+			String developmentString;
 			name = input.readLine();
 			state = input.readLine();
 			owner = input.readLine();
@@ -52,13 +52,32 @@ public class FileParser {
 			List<Pair<Integer,Integer>> parsedConnections = parseConnections(connectionsString,i);
 			for(Pair<Integer,Integer>connection:parsedConnections)
 				connections.add(connection);
-			development = Integer.parseInt(input.readLine());
-			Province currentProv = new Province(name,state,owner,development,xCenter,yCenter,xStart,xEnd,yStart,yEnd);
+			developmentString = input.readLine();
+			int devBI,devC,devI,devO,devS;
+			List<Integer> parsedDevelopments = parseDevelopments(developmentString);
+			if (parsedDevelopments.size() == 5) {
+				devBI = parsedDevelopments.get(0);
+				devC = parsedDevelopments.get(1);
+				devI = parsedDevelopments.get(2);
+				devO = parsedDevelopments.get(3);
+				devS = parsedDevelopments.get(4);
+			} else
+				throw new IllegalArgumentException("Sizes string is wrong");
+			Province currentProv = new Province(name,state,owner,devBI,devC,devI,devO,devS,xCenter,yCenter,xStart,xEnd,yStart,yEnd);
 			provinces.add(currentProv);
 		}
 		Pair<List<Province>, List<Pair<Integer, Integer>>> provincesAndConnections = new Pair<List<Province>, List<Pair<Integer, Integer>>>(
 				provinces, connections);
 		return provincesAndConnections;
+	}
+
+	private static List<Integer> parseDevelopments(String line) {
+		// TODO Auto-generated method stub
+		List<Integer> developments = new ArrayList<Integer>();
+		String[] sizes = line.trim().split(" ");
+		for (String development : sizes)
+			developments.add(Integer.parseInt(development));
+		return developments;
 	}
 
 	private static List<Pair<Integer, Integer>> parseConnections(String line,int currentProv) {

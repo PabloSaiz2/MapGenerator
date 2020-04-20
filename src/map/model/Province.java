@@ -5,13 +5,17 @@ import java.util.List;
 
 public class Province {
 	private String name,state,owner;
-	private int development,xCenter,yCenter,xStart,xEnd,yStart,yEnd;
+	private int developmentBI,developmentC,developmentI,developmentO,developmentS,xCenter,yCenter,xStart,xEnd,yStart,yEnd;
 	private List<Integer> adjacency;
-	public Province(String name,String state,String owner,int development,int xCenter,int yCenter, int xStart,int xEnd,int yStart,int yEnd) {
+	public Province(String name,String state,String owner,int developmentBI,int developmentC,int developmentI,int developmentO,int developmentS,int xCenter,int yCenter, int xStart,int xEnd,int yStart,int yEnd) {
 		this.name = name;
 		this.state = state;
 		this.owner = owner;
-		this.development = development;
+		this.developmentBI = developmentBI;
+		this.developmentC = developmentC;
+		this.developmentI = developmentI;
+		this.developmentO = developmentO;
+		this.developmentS = developmentS;
 		this.xCenter = xCenter;
 		this.yCenter = yCenter;
 		this.xStart = xStart;
@@ -38,13 +42,48 @@ public class Province {
 	public void setOwner(String owner) {
 		this.owner = owner;
 	}
-	public int getDevelopment() {
-		return development;
+	public String getDevelopmentString() {
+		return ((Integer)developmentBI).toString()+" "+((Integer)developmentC).toString()+" "+((Integer)developmentI).toString()+" "+((Integer)developmentO).toString()+" "+((Integer)developmentS).toString();
 	}
-	public void setDevelopment(int development) {
+	public int getDevelopmentBI() {
+		return developmentBI;
+	}
+	public void setDevelopmentBI(int development) {
 		if(development<0)
 			throw new IllegalArgumentException("Illegal development");
-		this.development = development;
+		this.developmentBI = development;
+	}
+	public int getDevelopmentC() {
+		return developmentC;
+	}
+	public void setDevelopmentC(int development) {
+		if(development<0)
+			throw new IllegalArgumentException("Illegal development");
+		this.developmentC = development;
+	}
+	public int getDevelopmentI() {
+		return developmentI;
+	}
+	public void setDevelopmentI(int development) {
+		if(development<0)
+			throw new IllegalArgumentException("Illegal development");
+		this.developmentI = development;
+	}
+	public int getDevelopmentO() {
+		return developmentO;
+	}
+	public void setDevelopmentO(int development) {
+		if(development<0)
+			throw new IllegalArgumentException("Illegal development");
+		this.developmentO = development;
+	}
+	public int getDevelopmentS() {
+		return developmentS;
+	}
+	public void setDevelopmentS(int development) {
+		if(development<0)
+			throw new IllegalArgumentException("Illegal development");
+		this.developmentS = development;
 	}
 	public int getxCenter() {
 		return xCenter;
@@ -109,7 +148,7 @@ public class Province {
 		return i;
 	}
 	public void addAdjacency(int index) {
-		if(index<0)
+		if(index<0||adjacency.contains(index))
 			throw new IllegalArgumentException("Illegal adjacency index");
 		adjacency.add(getIndex(index), index);
 	}
@@ -118,5 +157,19 @@ public class Province {
 		return ((Integer)xCenter).toString()+" "+((Integer)yCenter).toString()
 				+" "+((Integer)xStart).toString()+" "+((Integer)xEnd).toString()+" "
 				+((Integer)yStart).toString()+" "+((Integer)yEnd).toString();
+	}
+	public boolean removeAdjacencyIndex(int index) {
+		// TODO Auto-generated method stub
+		boolean couldRemove = adjacency.remove((Integer)index);
+		
+		for(int i = 0;i<adjacency.size();++i) {
+			if(adjacency.get(i)>index)
+				adjacency.set(i, adjacency.get(i)-1);
+				
+		}
+		return couldRemove;
+	}
+	public String toString() {
+		return name;
 	}
 }

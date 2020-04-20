@@ -23,18 +23,33 @@ public class Controller {
 	public void addProvince(Province prov) {
 		gen.addProvince(prov);
 	}
-	
+	public void removeProvince(int index) {
+		try {
+			gen.removeProvince(index);
+		}
+		catch(IndexOutOfBoundsException ex) {
+			gen.notifyError("Province index out of bounds");
+		}
+	}
 	public void addObserver(MapGenObserver o) {
 		gen.addObserver(o);
 	}
 	public void removeObserver(MapGenObserver o) {
 		gen.removeObserver(o);
 	}
+	public void addAdjacency(int indexProv,int indexAdj) {
+		try {
+		gen.addAdjacencyProvince(indexProv, indexAdj);
+		}
+		catch(IllegalArgumentException ex) {
+			gen.notifyError(ex.getMessage());
+		}
+	}
 	public void addNation(String nation) {
 		gen.addNation(nation);
 	}
-	public void loadFromFile(String filepath) {
-		try(FileReader in = new FileReader(new File(filepath)); BufferedReader reader = new BufferedReader(in)){
+	public void loadFromFile(File file) {
+		try(FileReader in = new FileReader(file); BufferedReader reader = new BufferedReader(in)){
 			Pair<List<Province>,List<Pair<Integer,Integer>>> provincesAndConnections = FileParser.parseFile(reader);
 			List<Province> provinces = provincesAndConnections.getFirst();
 			for(Province prov :provinces)
@@ -57,11 +72,26 @@ public class Controller {
 				p.println(prov.getOwner());
 				p.println(prov.getSizeString());
 				p.println(prov.getAdjacencyString());
-				p.println(prov.getDevelopment());
+				p.println(prov.getDevelopmentString());
 			}
 		}catch(IOException ex) {
 			System.out.println("Error output file");
 			gen.notifyError("Error output file");
 		}
+	}
+	public void reset() {
+		// TODO Auto-generated method stub
+		gen.reset();
+	}
+	public void setProvince(int index, Province province) {
+		// TODO Auto-generated method stub
+		try {
+			gen.setProvince(index,province);
+		}
+		catch(IllegalArgumentException ex)
+		{
+			gen.notifyError("Error setting province");
+		}
+		
 	}
 }
