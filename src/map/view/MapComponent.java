@@ -32,7 +32,7 @@ public class MapComponent extends JComponent implements MapGenObserver{
 	private static final int PROV_RADIUS = 5;
 	private static final Color _BG_COLOR = Color.WHITE;
 	private static final Color _PROVINCE_COLOR = Color.GRAY;
-	private static final Color _PROVINCE_LABEL_COLOR = Color.BLACK;
+	private static final Color _PROVINCE_LABEL_COLOR = Color.BLUE;
 	boolean onMap;
 	private Image _map;
 	private int x,y;
@@ -134,10 +134,9 @@ public class MapComponent extends JComponent implements MapGenObserver{
 		g.clearRect(0, 0, getWidth(), getHeight());
 
 		if (provinces ==null|| provinces.size() == 0) {
-			g.setColor(Color.red);
-			x = 0;
-			y = 0;
-			g.drawString("No map yet!", getWidth() / 2 - 50, getHeight() / 2);
+			//g.setColor(Color.red);
+			//g.drawString("No map yet!", getWidth() / 2 - 50, getHeight() / 2);
+			drawMap(g);
 		} else {
 			drawMap(g);
 		}
@@ -186,8 +185,8 @@ public class MapComponent extends JComponent implements MapGenObserver{
 			double factorW = (double)prov.getxCenter()/(double)_map.getWidth(this);
 			//g.fillOval((int)((getWidth()*factorW)-(PROV_RADIUS/2)), (int)((getHeight()*factorH)-(PROV_RADIUS/2)), PROV_RADIUS, PROV_RADIUS);
 			g.fillOval(prov.getxCenter()-(PROV_RADIUS/2)+x, prov.getyCenter()-(PROV_RADIUS/2)+y, PROV_RADIUS,PROV_RADIUS);
-			g.setColor(_PROVINCE_LABEL_COLOR);
 			//g.drawString(prov.getName(), (int)((getWidth()*factorW)-(PROV_RADIUS/2)), (int)((getHeight()*factorH)-(PROV_RADIUS/2)));
+			g.setColor(_PROVINCE_LABEL_COLOR);
 			g.drawString(prov.getName(), prov.getxCenter()-(PROV_RADIUS/2)+x, prov.getyCenter()-(PROV_RADIUS/2)+y);
 		}
 	}
@@ -229,6 +228,9 @@ public class MapComponent extends JComponent implements MapGenObserver{
 	public void onReset(List<Province> provinces, Set<String> nations) {
 		// TODO Auto-generated method stub
 		this.provinces = provinces;
+		connections.clear();
+		x = 0;
+		y = 0;
 		repaint();
 	}
 	@Override

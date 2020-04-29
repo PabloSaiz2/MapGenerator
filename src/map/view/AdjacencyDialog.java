@@ -52,7 +52,7 @@ public class AdjacencyDialog extends JDialog implements MapGenObserver{
 			@Override
 			public void actionPerformed(ActionEvent arg0) {
 				// TODO Auto-generated method stub
-				if(prov.getSelectedIndex()!=adj.getSelectedIndex()&&prov.getSelectedItem()!=null&&adj.getSelectedItem()!=null) {
+				if(prov.getSelectedItem()!=null&&adj.getSelectedItem()!=null) {
 					status = DialogStatus.ACCEPTED;
 					dispose();
 				}

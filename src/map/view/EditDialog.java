@@ -193,7 +193,8 @@ public class EditDialog extends JDialog implements MapGenObserver {
 				(Integer)xStart.getValue(),(Integer)xEnd.getValue(),(Integer)yStart.getValue(),(Integer)yEnd.getValue()); 
 		String adjacency = ((Province)provinces.getSelectedItem()).getAdjacencyString();
 		for(String adj:adjacency.trim().split(" ")) {
-			prov.addAdjacency(Integer.parseInt(adj));
+			if(!adj.equals(""))
+				prov.addAdjacency(Integer.parseInt(adj));
 		}
 		return prov;
 	}
