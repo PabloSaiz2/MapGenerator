@@ -487,7 +487,7 @@ Pontevedra
 Galicia
 Cerdo
 1442 415 1378 1486 468 353
-Avión;Vedra-Boqueixon;ACÑ1;Boborás;A Lama;Caldas;Deza
+Avión;Vedra-Boqueixon;Boborás;A Lama;Caldas;Deza;Ames
 6 5 1 6 5
 CL26
 Burgos
@@ -1145,7 +1145,7 @@ A Coruña
 Galicia
 Oficinistas
 1409 335 1409 1409 335 335
-ACÑ1;Vedra-Boqueixon;San;Marcos;A;Barcala
+ACÑ1;Vedra-Boqueixon;San;Marcos;A;Barcala;Ames
 19 18 1 20 20
 V21
 Valencia
@@ -1308,19 +1308,12 @@ Riders
 2321 599 2283 2347 624 555
 PL11;PL7;PL6;PL13
 1 1 1 1 1
-ACÑ5
-A Coruña
-Galicia
-Riders
-1348 392 1326 1366 412 362
-ACÑ6;ACÑ1;Villagarcía de Arousa
-1 1 1 1 1
 Vedra-Boqueixon
 A Coruña
 Galicia
 Empleados
 1432 358 1394 1461 382 321
-Tabeiro;Santiago de Compostela;San Marcos;ACÑ1;Arzúa;Deza
+Tabeiro;Santiago de Compostela;San Marcos;Arzúa;Deza;Ames
 2 1 1 2 3
 V35
 Valencia
@@ -1335,13 +1328,6 @@ Palencia
 Riders
 2363 620 2307 2406 654 575
 PL16;PL12;PL9;PL7;PL13;PL10
-1 1 1 1 1
-ACÑ6
-
-
-
-1319 393 1319 1319 393 393
-ACÑ5;Noia
 1 1 1 1 1
 V38
 Valencia
@@ -1370,13 +1356,6 @@ Palencia
 Riders
 2353 574 2318 2374 608 541
 PL15;PL12;PL11;PL14;PL6;PL10
-1 1 1 1 1
-ACÑ1
-A Coruña
-Galicia
-Riders
-1377 360 1329 1417 403 313
-Tabeiro;Santiago de Compostela;ACÑ5;Vedra-Boqueixon;Noia;A Barcala;Caldas
 1 1 1 1 1
 V39
 Valencia
@@ -2190,6 +2169,13 @@ Riders
 3592 1021 3567 3620 1050 986
 
 1 1 1 1 1
+Ames
+A Coruña
+Galicia
+Vacuno
+1377 360 1329 1417 403 313
+Tabeiro;Santiago de Compostela;Vedra-Boqueixon;Noia;A Barcala;Caldas;Rianxo
+16 15 1 16 19
 AS26
 Asturias
 Asturias
@@ -3161,7 +3147,7 @@ A Coruña
 Galicia
 Pesca
 1331 362 1255 1365 420 336
-Finisterre;ACÑ6;ACÑ1;A Barcala
+Finisterre;ACÑ6;A Barcala;Ames
 5 4 1 5 5
 V2
 Castellon
@@ -3644,7 +3630,7 @@ Pontevedra
 Galicia
 Lácteo
 1389 425 1350 1432 463 375
-Tabeiro;Pontevedra;ACÑ1;A Lama;O Salnès;Villagarcía de Arousa
+Tabeiro;Pontevedra;A Lama;O Salnès;Villagarcía de Arousa;Ames
 10 7 1 9 9
 AR80
 Teruel
@@ -3938,7 +3924,7 @@ A Coruña
 Galicia
 Vacuno
 1360 317 1302 1400 349 273
-Finisterre;Santiago de Compostela;ACÑ1;San Marcos;Santa Comba;Noia
+Finisterre;Santiago de Compostela;San Marcos;Santa Comba;Noia;Ames
 2 2 1 2 2
 Saint-Girons
 France
@@ -4024,6 +4010,13 @@ Pesca
 1643 95 1608 1676 130 58
 Burela-Xove;Muras-Orol;Ortegal
 4 3 1 5 5
+Rianxo
+A Coruña
+Galicia
+Pesca
+1348 392 1326 1366 412 362
+ACÑ6;Villagarcía de Arousa;Ames
+2 2 1 3 3
 SG17
 Segovia
 Segovia
@@ -4402,6 +4395,13 @@ Riders
 3008 344 2942 3070 397 278
 Navarra1;Navarra 20;Navarra 22;Navarra 21;Navarra 5;Navarra 2;Navarra 3
 1 1 1 1 1
+Ribeira
+A Coruña
+Galicia
+Pesca
+1319 393 1319 1319 393 393
+ACÑ5;Noia;Rianxo
+14 9 1 14 12
 Ribadavia
 Ourense
 Galicia
@@ -4484,7 +4484,7 @@ Pontevedra
 Galicia
 Pesca
 1358 412 1329 1390 435 383
-ACÑ5;Caldas;O Salnès
+Caldas;O Salnès;Rianxo
 11 9 1 12 9
 Navarra 11_HE
 Navarra
