@@ -1,4 +1,4 @@
-﻿1562
+﻿1561
 1;1001;El Hierro Oeste;Fruta;1;1;1;1;1;5;Santa Cruz de Tenerife
 2;1002;Valverde;Pescado;1;1;1;1;3;7;Santa Cruz de Tenerife
 3;1003;Aridane;Hostelería;2;2;1;4;4;13;Santa Cruz de Tenerife
@@ -90,7 +90,7 @@
 11;3011;Moguer;Fruta;4;3;1;6;6;20;Huelva
 12;3012;San Juan del Puerto;Operarios;3;2;1;4;6;16;Huelva
 13;3013;Bonares;Operarios;3;3;1;5;5;17;Huelva
-14;3014;El Condado;Fruta;4;4;1;6;8;23;Huelva
+14;3014;La Palma del Condado;Fruta;4;4;1;6;8;23;Huelva
 15;3015;Almonte;Fruta;4;6;1;6;7;24;Huelva
 16;3016;Valverde del Camino;Operarios;1;2;1;2;3;9;Huelva
 17;3017;Minas;Minería;2;1;1;3;3;10;Huelva
@@ -212,7 +212,7 @@
 17;6017;Posadas;Olivar;2;2;1;3;3;11;Córdoba
 18;6018;Villaviciosa de Córdoba;Operarios;1;1;1;1;1;5;Córdoba
 19;6019;Palma del Río;Cítricos;1;2;1;5;3;12;Córdoba
-20;6020;Villarubia;Transportistas;3;4;1;6;3;17;Córdoba
+20;6020;Villarubia del Carmen;Transportistas;3;4;1;6;3;17;Córdoba
 21;6021;Verdad;Técnicos;3;4;1;5;5;18;Córdoba
 22;6022;Córdoba Central;Empleados;30;30;;32;33;125;Córdoba
 23;6023;Levante;Hostelería;20;18;;25;26;89;Córdoba
@@ -323,7 +323,7 @@
 20;9020;Cenes de la Vega;Empleados;2;2;1;2;3;10;Granada
 21;9021;Alfanevada;Cerdo;1;1;1;1;1;5;Granada
 22;9022;Beiro-Norte;Empleados;13;12;1;15;19;60;Granada
-23;9023;Ronda;Hosteleria;10;11;;12;16;49;Granada
+23;9023;Camino de Ronda;Hosteleria;10;11;;12;16;49;Granada
 24;9024;Albaicín;Estudiantes;4;3;;4;4;15;Granada
 25;9025;Genil;Transportistas;6;7;;7;7;27;Granada
 26;9026;Zaidín;Empleados;9;9;;11;12;41;Granada
@@ -351,7 +351,7 @@
 4;10004;Andarax;Cítricos;2;1;1;3;2;9;Almería
 5;10005;Fiñana;Olivar;1;1;1;1;1;5;Almería
 6;10006;Tabernas;Cerdo;1;1;1;1;2;6;Almería
-7;10007;Alto Almanzora;Mecánicos;1;1;1;2;1;6;Almería
+7;10007;Alto Almanzora;Mecaánicos;1;1;1;2;1;6;Almería
 8;10008;Macael;Minería;1;1;1;3;2;8;Almería
 9;10009;Cantoria;Cítricos;1;2;1;3;2;9;Almería
 10;10010;Olula del Río;Operarios;2;1;1;2;2;8;Almería
@@ -417,7 +417,7 @@
 41;12041;Cijara;Agua;2;1;1;2;2;8;Badajoz
 1;13001;Valencia de Alcántara;Mecánicos;1;1;1;2;1;6;Cáceres
 2;13002;Villas de Alcántara;Cerdo;1;1;1;1;1;5;Cáceres
-3;13003;San Pedro;Cerdo;1;1;1;1;1;5;Cáceres
+3;13003;Salorino-Herreruela;Cerdo;1;0;1;1;0;3;Cáceres
 4;13004;Alcántara;Cerdo;1;1;1;1;1;5;Cáceres
 5;13005;Brozas;Cereal;1;1;1;1;1;5;Cáceres
 6;13006;Aliseda;Cerdo;1;1;1;1;1;5;Cáceres
@@ -504,14 +504,14 @@
 18;15018;Chinchilla;Empleados;1;1;1;1;1;5;Albacete
 19;15019;Albacete Sur;Empleados;18;16;;17;20;71;Albacete
 20;15020;Albacete Norte;Oficinistas;19;20;;24;24;87;Albacete
-21;15021;Tarazona;Viña;1;1;1;1;1;5;Albacete
+21;15021;Tarazona de la Mancha;Viña;1;1;1;1;1;5;Albacete
 22;15022;Madrigueras;Viña;1;1;1;1;2;6;Albacete
 23;15023;Casas-Ibañez;Mecánicos;2;1;1;2;2;8;Albacete
 24;15024;Alcalá del Júcar;Viña;1;1;1;1;1;5;Albacete
 1;16001;Lagartera;Cereal;1;1;1;1;1;5;Toledo
 2;16002;Oropesa;Dependientes;1;1;1;1;1;5;Toledo
 3;16003;Velada;Cereal;1;1;1;1;1;5;Toledo
-4;16004;Alberche;Cereal;1;1;1;2;2;7;Toledo
+4;16004;El Puente del Arzobispo;Cereal;1;1;1;2;2;7;Toledo
 5;16005;Belvis;Olivar;1;1;1;1;1;5;Toledo
 6;16006;Alcaudete de la Jara;Cereal;1;1;1;1;1;5;Toledo
 7;16007;Hontanar;Vacuno;1;1;1;1;1;5;Toledo
@@ -550,7 +550,7 @@
 40;16040;Mora;Olivar;2;1;1;2;3;9;Toledo
 41;16041;Yepes;Viña;2;1;1;2;2;8;Toledo
 42;16042;Ocaña;Vacuno;3;2;1;4;4;14;Toledo
-43;16043;Villarubia;Vacuno;1;1;1;1;1;5;Toledo
+43;16043;Villarubia de Santiago;Vacuno;1;1;1;1;1;5;Toledo
 1;17001;Leganiel;Cerdo;1;1;1;1;1;5;Cuenca
 2;17002;Huete-Priego;Cereal;2;1;1;1;2;7;Cuenca
 3;17003;Tarancón;Cerdo;2;2;1;5;4;14;Cuenca
@@ -632,7 +632,7 @@
 32;19032;Puente Tocinos;Operarios;5;5;1;6;7;24;Murcia
 33;19033;San Andrés;Dependientes;6;6;;5;5;22;Murcia
 34;19034;Vistabella;Oficinistas;11;9;;11;14;45;Murcia
-35;19035;El Carmen;Empleados;12;10;;15;18;55;Murcia
+35;19035;Carmen-Infante;Empleados;12;10;;15;18;55;Murcia
 36;19036;Los Dolores;Taxistas;4;4;1;4;5;18;Murcia
 37;19037;Barrio del Progreso;Transportistas;7;7;1;7;7;29;Murcia
 38;19038;Huerta Metropolitana;Empleados;4;4;1;4;4;17;Murcia
@@ -662,7 +662,7 @@
 8;20008;Miguel Hernández;Universitarios;4;4;;3;3;14;Alicante
 9;20009;Santa Pola;Hostelería;5;5;1;5;5;21;Alicante
 10;20010;Diputación-Asís;Empleados;21;17;1;25;25;89;Alicante
-11;20011;San Blas;Operarios;19;17;1;21;23;81;Alicante
+11;20011;Jaime I;Operarios;19;17;1;21;23;81;Alicante
 12;20012;San Antón;Oficinistas;24;24;;20;24;92;Alicante
 13;20013;Albufereta;Hostelería;14;17;;11;17;59;Alicante
 14;20014;El Campello;Hostelería;6;6;1;5;5;23;Alicante
@@ -719,7 +719,7 @@
 32;21032;Quatre Carreres;Estibadores;20;16;;19;27;82;Valencia
 33;21033;Jesús-Patraix;Operarios;26;20;;27;33;106;Valencia
 34;21034;L'Olivareta;Dependientes;10;10;;12;14;46;Valencia
-35;21035;Ciutat Vella;Oficinistas;28;33;;23;30;114;Valencia
+35;21035;La Ciutat Vella;Oficinistas;28;33;;23;30;114;Valencia
 36;21036;Camins al Grau;Hostelería;15;14;;14;15;58;Valencia
 37;21037;Algirós;Dependientes;13;13;;14;14;54;Valencia
 38;21038;Benimaclet;Universitarios;11;9;;7;8;35;Valencia
@@ -731,135 +731,7 @@
 44;21044;El Puig;Cítricos;5;5;1;6;7;24;Valencia
 45;21045;Puçol;Operarios;3;3;1;4;4;15;Valencia
 46;21046;Puerto de Sagunto;Técnicos;12;11;1;10;11;45;Valencia
-47;21047;Sagunto;Cítricos;10;9;1;12;10;42;Valencia
-1;44001;Rianxo;Pesca;2;2;1;3;3;11;A Coruña
-2;44002;Ribeira;Pesca;14;9;1;14;12;50;A Coruña
-3;44003;Noia;Pesca;5;4;1;5;5;20;A Coruña
-4;44004;Ames;Vacuno;16;15;1;16;19;67;A Coruña
-5;44005;Vedra-Boqueixon;Empleados;2;1;1;2;3;9;A Coruña
-6;44006;Santiago de Compostela;Oficinistas;19;18;1;20;20;78;A Coruña
-7;44007;San Marcos;Audiovisual;4;2;1;2;4;13;A Coruña
-8;44008;A Barcala;Vacuno;2;2;1;2;2;9;A Coruña
-9;44009;Finisterre;Dependientes;12;11;1;11;11;46;A Coruña
-10;44010;Soneira;Vacuno;5;3;1;4;4;17;A Coruña
-11;44011;Santa Comba;Vacuno;2;2;1;3;2;10;A Coruña
-12;44012;Ponteceso;Pesca;3;2;1;6;5;17;A Coruña
-13;44013;Coristanco;Cerdo;1;1;1;2;1;6;A Coruña
-14;44014;Carballo;Operarios;11;8;1;9;10;39;A Coruña
-15;44015;Ordes;Lácteo;8;6;1;8;8;31;A Coruña
-16;44016;Frades;Vacuno;1;1;1;2;2;7;A Coruña
-17;44017;Arzúa;Aves de Corral;4;3;1;4;4;16;A Coruña
-18;44018;Melida;Dependientes;3;2;1;2;2;10;A Coruña
-19;44019;Curtis;Lácteo;3;2;1;4;4;14;A Coruña
-20;44020;Betanzos;Profesionales;4;3;1;3;3;14;A Coruña
-21;44021;Miño;Pesca;3;1;1;3;3;11;A Coruña
-1;23001;Formentera;Hostelería;3;2;1;2;3;11;Mallorca
-2;23002;San Antoni;Hostelería;10;12;1;10;11;44;Mallorca
-3;23003;Ibiza;Hostelería;11;12;;11;11;45;Mallorca
-4;23004;Santa Eulària desRiu;Hostelería;8;8;1;9;9;35;Mallorca
-5;23005;Calviá;Hostelería;21;22;1;22;22;88;Mallorca
-6;23006;Pollença;Hostelería;4;4;1;4;4;17;Mallorca
-7;23007;Alcudia;Cereal;10;12;1;11;10;44;Mallorca
-8;23008;Maria de la Salut;Cereal;3;3;2;3;3;14;Mallorca
-9;23009;Inca;Operarios;8;6;1;7;7;29;Mallorca
-10;23010;Lloseta;Operarios;1;1;1;2;2;7;Mallorca
-11;23011;Binissalem;Lácteo;4;3;1;4;4;16;Mallorca
-12;23012;Marratxi;Energía;9;8;1;10;11;39;Mallorca
-13;23013;Lllevant;Hostelería;31;34;;24;32;121;Mallorca
-14;23014;Pedro Garau;Empleados;21;19;;22;21;83;Mallorca
-15;23015;Canavall-Bons Aires;Dependientes;23;24;;23;24;94;Mallorca
-16;23016;Poniente;Estibadores;13;13;;14;15;55;Mallorca
-17;23017;Llucmajor;Hostelería;11;12;1;11;14;49;Mallorca
-18;23018;Cabrera;Pesca;0;0;0;0;1;1;Mallorca
-19;23019;Campos;Hostelería;7;7;1;8;8;31;Mallorca
-20;23020;Sant Llorenç des Cardassar;Cereal;4;6;1;6;5;22;Mallorca
-21;23021;Manacor;Hostelería;9;10;1;8;9;37;Mallorca
-22;23022;Ciutadella;Hostelería;10;10;1;9;9;39;Mallorca
-23;23023;Mahón;Lácteo;9;9;1;10;10;39;Mallorca
-22;44022;Sada;Transportistas;5;3;1;5;5;19;A Coruña
-23;44023;Oleiros;Empleados;8;5;1;8;8;30;A Coruña
-24;44024;Cambre;Vacuno;5;3;1;5;4;18;A Coruña
-25;44025;Culleredo;Operarios;7;5;1;7;7;27;A Coruña
-26;44026;Arteixo;Operarios;6;5;1;9;7;28;A Coruña
-27;44027;Oza-Viña;Dependientes;30;25;1;25;26;107;A Coruña
-28;44028;Riazor-Ensanche;Oficinistas;27;23;;25;27;102;A Coruña
-29;44029;Monte Alto;Estibadores;6;5;;7;5;23;A Coruña
-30;44030;As Pontes de García Rodríguez;Energía;3;2;1;3;3;12;A Coruña
-31;44031;Fene;Operarios;9;6;1;10;8;34;A Coruña
-32;44032;Ferrol;Operarios;17;12;1;15;15;60;A Coruña
-33;44033;Narón;Transportistas;9;7;1;9;9;35;A Coruña
-34;44034;San Sadurniño;Pesca;2;1;1;3;3;10;A Coruña
-35;44035;Ortegal;Pesca;4;3;1;4;4;16;A Coruña
-1;48001;Llodio;Profesionales;4;4;1;4;4;17;Álava
-2;48002;Ayala;Vacuno;2;1;1;1;1;6;Álava
-3;48003;Amurrio;Operarios;2;2;1;3;2;10;Álava
-4;48004;Añana;Transportistas;2;1;1;2;2;8;Álava
-5;48005;Santa Cruz de Campezo;Vacuno;1;0;1;1;0;3;Álava
-6;48006;Rioja Alavesa;Viña;2;2;1;3;3;11;Álava
-7;48007;Salvatierra;Cereal;1;1;1;2;2;7;Álava
-8;48008;Alegría ;Cereal;1;1;1;1;1;5;Álava
-9;48009;Zuia;Lácteo;4;2;1;3;4;14;Álava
-10;48010;Vitoria Grande;Operarios;30;22;1;28;32;113;Álava
-11;48011;Vitoria Central;Oficinistas;35;27;;26;28;116;Álava
-1;25001;Piedrahita;Aves de Corral;1;1;1;1;1;5;Ávila
-2;25002;El Barco de Ávila;Empleados;1;1;1;1;1;5;Ávila
-3;25003;Gil García;Vacuno;1;1;1;1;1;5;Ávila
-4;25004;Candeleda;Ovino;1;1;1;1;1;5;Ávila
-5;25005;Arenas de San Pedro;Hostelería;3;3;1;2;5;14;Ávila
-6;25006;Sierra de Gredos;Hostelería;1;1;1;1;1;5;Ávila
-7;25007;Piedralaves;Vacuno;2;2;1;2;2;9;Ávila
-8;25008;Alberche;Vacuno;2;2;1;3;3;11;Ávila
-9;25009;Solosancho;Cereal;1;1;1;1;1;5;Ávila
-10;25010;Gemuño;Cereal;1;1;1;1;1;5;Ávila
-11;25011;Ávila;Dependientes;12;12;1;12;12;49;Ávila
-12;25012;Arevalillo;Ovino;1;1;1;1;1;5;Ávila
-13;25013;Fontilveros;Cereal;1;1;1;1;1;5;Ávila
-14;25014;Las Berlanas;Cereal;1;1;1;1;1;5;Ávila
-15;25015;Ojos Albos;Aves de Corral;1;1;1;1;1;5;Ávila
-16;25016;Madrigal de las Altas Torres;Cereal;1;1;1;1;2;6;Ávila
-17;25017;Nava de Arévalo;Cereal;1;1;1;1;2;6;Ávila
-18;25018;Arévalo;Cereal;2;1;1;2;2;8;Ávila
-1;32001;Villarcayo;Hostelería;2;3;1;2;2;10;Burgos
-2;32002;Medina de Pomar;Cereal;2;3;1;3;3;12;Burgos
-3;32003;Santa Gadea del Cid;Cereal;1;1;1;1;0;4;Burgos
-4;32004;Miranda de Ebro;Operarios;7;7;1;8;9;32;Burgos
-5;32005;Treviño;Cereal;1;0;1;1;0;3;Burgos
-6;32006;Pancorbo;Aves de Corral;1;0;1;1;1;4;Burgos
-7;32007;Briviesca;Cereal;1;1;1;2;1;6;Burgos
-8;32008;Rojas;Cereal;1;0;1;1;0;3;Burgos
-9;32009;Poza de la Sal;Energía;0;0;1;1;0;2;Burgos
-10;32010;Oña;Leguminosa;1;1;1;1;1;5;Burgos
-11;32011;Santa María del Invierno;Cereal;0;0;1;1;1;3;Burgos
-12;32012;Merindad ;Mecánicos;1;1;1;0;0;3;Burgos
-13;32013;Valle de Sedano;Hostelería;0;0;1;1;1;3;Burgos
-14;32014;Villadiego;Cereal;2;1;1;2;2;8;Burgos
-15;32015;Quintanadueñas;Cereal;1;1;1;1;2;6;Burgos
-16;32016;Estépar;Empleados;1;0;1;1;0;3;Burgos
-17;32017;Arcos de la Llana;Empleados;1;0;1;1;1;4;Burgos
-18;32018;Villalbilla;Técnicos;0;1;1;1;1;4;Burgos
-19;32019;San Amaro;Universitarios;8;7;1;7;10;33;Burgos
-20;32020;Arco de Santa María;Hostelería;5;6;;5;5;21;Burgos
-21;32021;San Julián;Técnicos;14;11;1;12;12;50;Burgos
-22;32022;Gamonal;Operarios;12;9;1;14;17;53;Burgos
-23;32023;Orbaneja;Aves de Corral;1;0;1;1;1;4;Burgos
-24;32024;Quintanilla;Cereal;0;0;1;1;1;3;Burgos
-25;32025;Belorado;Cereal;1;1;1;1;1;5;Burgos
-26;32026;Pradoluengo;Dependientes;1;1;1;1;1;5;Burgos
-27;32027;Campolara ;Cereal;0;0;1;1;1;3;Burgos
-28;32028;Salas de los Infantes;Vacuno;1;1;1;1;1;5;Burgos
-29;32029;Quintanar de la Sierra;Madera;1;1;1;1;1;5;Burgos
-30;32030;Villahoz;Cereal;1;1;1;1;1;5;Burgos
-31;32031;Villamanzo;Cereal;1;0;1;1;1;4;Burgos
-32;32032;Lerma;Mecánicos;1;1;1;1;2;6;Burgos
-33;32033;Sotillo de la Ribera;Cereal;1;0;1;1;1;4;Burgos
-34;32034;Caleruega;Cereal;1;0;1;1;1;4;Burgos
-35;32035;Roa;Viña;1;1;1;1;1;5;Burgos
-36;32036;Castrillo de la Vega;Cereal;1;0;1;1;0;3;Burgos
-37;32037;Adrada de Haza;Leguminosa;1;0;1;1;1;4;Burgos
-38;32038;Vadocondes;Cereal;1;0;1;1;1;4;Burgos
-39;32039;Aranda de Duero;Operarios;5;6;1;9;6;27;Burgos
-40;32040;Gumiel de Izán;Viña;1;0;1;1;0;3;Burgos
-41;32041;La Viña;Cereal;1;0;1;1;1;4;Burgos
+47;21047;Sagunto;Citrcos;10;9;1;12;10;42;Valencia
 1;22001;La Vall d'Uxió;Cítricos;18;22;1;20;19;80;Castellón
 2;22002;Onda;Cítricos;6;5;1;7;7;26;Castellón
 3;22003;Villarreal;Operarios;10;11;1;12;11;45;Castellón
@@ -881,47 +753,152 @@
 19;22019;Villafranca del Cid;Operarios;1;1;1;1;1;5;Castellón
 20;22020;Morella;Energía;2;1;1;2;2;8;Castellón
 21;22021;Rosell;Cerdo;1;1;1;1;1;5;Castellón
-1;50001;Mutriku;Energía;1;1;1;1;1;5;Guipúzcoa
-2;50002;Zarauz;Turismo;27;21;1;21;21;91;Guipúzcoa
-3;50003;Eibar;Operarios;6;5;1;6;8;26;Guipúzcoa
-4;50004;Mondragón;Técnicos;8;9;1;8;10;36;Guipúzcoa
-5;50005;Vergara;Operarios;7;6;1;6;7;27;Guipúzcoa
-6;50006;Goierri;Técnicos;15;14;1;17;15;62;Guipúzcoa
-7;50007;Tolosa;Vacuno;10;9;1;9;13;42;Guipúzcoa
-8;50008;Andoáin;Técnicos;10;9;1;10;9;39;Guipúzcoa
-9;50009;Hernani-Errentería;Empleados;18;14;1;15;17;65;Guipúzcoa
-10;50010;La Concha;Hostelería;25;25;;17;17;84;Guipúzcoa
-11;50011;Intxaurrondo;Turismo;27;20;;20;21;88;Guipúzcoa
-12;50012;Lezo;Energía;3;3;1;3;3;13;Guipúzcoa
-13;50013;Hondarribia;Pesca;3;3;1;4;5;16;Guipúzcoa
-14;50014;Irún;Transportistas;15;14;1;15;16;61;Guipúzcoa
-1;37001;Canfranc;Madera;1;1;1;1;1;5;Huesca
-2;37002;Bailo;Lácteo;1;0;1;1;0;3;Huesca
-3;37003;Jaca;Turismo;2;3;1;2;3;11;Huesca
-4;37004;Sabiñabigo;Operarios;2;1;1;3;3;10;Huesca
-5;37005;Ordesa;Turismo;1;1;1;1;1;5;Huesca
-6;37006;Ainsa;Agua;1;0;1;1;1;4;Huesca
-7;37007;Benasque;Aves de Corral;1;1;1;1;1;5;Huesca
-8;37008;Graus;Cereal;2;1;1;1;2;7;Huesca
-9;37009;Ayerbe;Cerdo;1;0;1;1;0;3;Huesca
-10;37010;Almudévar;Transportistas;1;1;1;1;1;5;Huesca
-11;37011;Huesca;Operarios;10;12;1;12;14;49;Huesca
-12;37012;La Sotonera;Cereal;1;1;1;1;0;4;Huesca
-13;37013;Novales;Cerdo;1;0;1;1;0;3;Huesca
-14;37014;Guara;Cerdo;0;1;1;1;0;3;Huesca
-15;37015;Salas Altas;Cereal;1;0;1;1;0;3;Huesca
-16;37016;Barbastro;Cerdo;1;1;1;1;0;4;Huesca
-17;37017;El Grado;Viña;1;0;1;1;0;3;Huesca
-18;37018;Monzón;Operarios;4;3;1;4;5;17;Huesca
-19;37019;Binaced;Cereal;1;0;1;1;0;3;Huesca
-20;37020;Alcolea;Cerdo;1;0;1;1;1;4;Huesca
-21;37021;Ballovar;Cerdo;2;2;1;2;2;9;Huesca
-22;37022;Fraga;Aves de Corral;3;3;1;3;4;14;Huesca
-23;37023;Tamarite;Vacuno;2;1;1;3;2;9;Huesca
-24;37024;Binéfar;Vacuno;2;2;1;2;2;9;Huesca
-25;37025;Valfarta;Cerdo;1;0;1;1;0;3;Huesca
-26;37026;Sariñena;Cereal;1;1;1;1;1;5;Huesca
-27;37027;Lanaja;Cerdo;2;2;1;3;3;11;Huesca
+1;23001;Formentera;Hostelería;3;2;1;2;3;11;Mallorca
+2;23002;San Antoni;Hostelería;10;12;1;10;11;44;Mallorca
+3;23003;Ibiza;Hostelería;11;12;;11;11;45;Mallorca
+4;23004;Santa Eulària desRiu;Hostelería;8;8;1;9;9;35;Mallorca
+5;23005;Calviá;Hostelería;21;22;1;22;22;88;Mallorca
+6;23006;Pollença;Hostelería;4;4;1;4;4;17;Mallorca
+7;23007;Alcudia;Cereal;10;12;1;11;10;44;Mallorca
+8;23008;Maria de la Salut;Cereal;3;3;2;3;3;14;Mallorca
+9;23009;Inca;Operarios;8;6;1;7;7;29;Mallorca
+10;23010;Lloseta;Operarios;1;1;1;2;2;7;Mallorca
+11;23011;Binissalem;Lácteo;4;3;1;4;4;16;Mallorca
+12;23012;Marratxi;Energía;9;8;1;10;11;39;Mallorca
+13;23013;Lllevant;Hostelería;31;34;;24;32;121;Mallorca
+14;23014;Pedro Garau;Empleados;21;19;;22;21;83;Mallorca
+15;23015;Canavall-Bons Aires;Dependientes;23;24;;23;24;94;Mallorca
+16;23016;Poniente;Estibadorees;13;13;;14;15;55;Mallorca
+17;23017;Llucmajor;Hostelería;11;12;1;11;14;49;Mallorca
+18;23018;Cabrera;Pesca;0;0;0;0;1;1;Mallorca
+19;23019;Campos;Hostelería;7;7;1;8;8;31;Mallorca
+20;23020;Sant Llorenç des Cardassar;Cereal;4;6;1;6;5;22;Mallorca
+21;23021;Manacor;Hostelería;9;10;1;8;9;37;Mallorca
+22;23022;Ciutadella;Hostelería;10;10;1;9;9;39;Mallorca
+23;23023;Mahón;Lácteo;9;9;1;10;10;39;Mallorca
+1;24001;Argañán;Cerdo;1;1;1;1;1;5;Salamanca
+2;24002;Ciudad Rodrigo;Hostelería;3;2;1;3;3;12;Salamanca
+3;24003;Tenebrón;Vacuno;1;1;1;1;1;5;Salamanca
+4;24004;Lumbrales;Vacuno;1;1;1;1;2;6;Salamanca
+5;24005;Vitigudino;Vacuno;2;1;1;2;1;7;Salamanca
+6;24006;Barruecopardo;Vacuno;1;1;1;1;1;5;Salamanca
+7;24007;Aldeadávila;Energía;1;1;1;1;1;5;Salamanca
+8;24008;Sierra de Francia;Vacuno;1;1;1;2;2;7;Salamanca
+9;24009;Béjar;Operarios;2;2;1;3;3;11;Salamanca
+10;24010;Guijuelo;Cerdo;1;2;1;2;2;8;Salamanca
+11;24011;Ledesma;Vacuno;2;1;1;2;1;7;Salamanca
+12;24012;Carrascal;Cereal;1;1;1;2;2;7;Salamanca
+13;24013;Calzada de Don Diego;Cereal;1;1;1;1;1;5;Salamanca
+14;24014;Puente Romano;Universitarios;17;12;;10;12;51;Salamanca
+15;24015;Oeste ;Hostelería;12;11;;11;11;45;Salamanca
+16;24016;Garrido;Oficinistas;12;11;;10;12;45;Salamanca
+17;24017;Santa Marta del Tormes;Dependientes;4;4;1;3;4;16;Salamanca
+18;24018;Calvarrasa;Vacuno;1;1;1;1;3;7;Salamanca
+19;24019;Carbajosa;Mecánicos;2;2;1;2;2;9;Salamanca
+20;24020;Alba de Tormes;Cereal;2;2;1;2;2;9;Salamanca
+21;24021;Navales;Cereal;1;1;1;1;1;5;Salamanca
+22;24022;Peñaranda de Bracamonte;Cereal;2;1;1;2;2;8;Salamanca
+23;24023;Las Villas;Técnicos;1;1;1;1;1;5;Salamanca
+24;24024;Cantalapiedra;Cereal;1;1;1;1;1;5;Salamanca
+25;24025;Armuña Alta;Hortalizas;1;1;1;1;1;5;Salamanca
+26;24026;Villamayor;Minería;2;1;1;3;3;10;Salamanca
+1;25001;Piedrahita;Aves de Corral;1;1;1;1;1;5;Ávila
+2;25002;El Barco de Ávila;Empleados;1;1;1;1;1;5;Ávila
+3;25003;Gil García;Vacuno;1;1;1;1;1;5;Ávila
+4;25004;Candeleda;Ovino;1;1;1;1;1;5;Ávila
+5;25005;Arenas de San Pedro;Hostelería;3;3;1;2;5;14;Ávila
+6;25006;Sierra de Gredos;Hostelería;1;1;1;1;1;5;Ávila
+7;25007;Piedralaves;Vacuno;2;2;1;2;2;9;Ávila
+8;25008;Alberche;Vacuno;2;2;1;3;3;11;Ávila
+9;25009;Solosancho;Cereal;1;1;1;1;1;5;Ávila
+10;25010;Gemuño;Cereal;1;1;1;1;1;5;Ávila
+11;25011;Ávila;Dependientes;12;12;1;12;12;49;Ávila
+12;25012;Arevalillo;Ovino;1;1;1;1;1;5;Ávila
+13;25013;Fontilveros;Cereal;1;1;1;1;1;5;Ávila
+14;25014;Las Berlanas;Cereal;1;1;1;1;1;5;Ávila
+15;25015;Ojos Albos;Aves de Corral;1;1;1;1;1;5;Ávila
+16;25016;Madrigal de las Altas Torres;Cereal;1;1;1;1;2;6;Ávila
+17;25017;Nava de Arévalo;Cereal;1;1;1;1;2;6;Ávila
+18;25018;Arévalo;Cereal;2;1;1;2;2;8;Ávila
+1;26001;Cuéllar;Hotalizas;2;2;1;2;2;9;Segovia
+2;26002;Coca;Madera;1;1;1;2;2;7;Segovia
+3;26003;Nava de la Asunción;Cereal;2;1;1;2;2;8;Segovia
+4;26004;Garcillán;Cereal;1;1;1;1;1;5;Segovia
+5;26005;El Espinar;Madera;2;2;1;4;3;12;Segovia
+6;26006;Segovia;Operarios;9;10;1;10;10;40;Segovia
+7;26007;San Ildefonso;Madera;2;1;1;3;3;10;Segovia
+8;26008;La Lastrilla;Oficinistas;2;1;1;1;2;7;Segovia
+9;26009;Navafría;Madera;1;1;1;1;1;5;Segovia
+10;26010;Arcones;Aves de Corral;1;1;1;1;1;5;Segovia
+11;26011;Riaza-Ayllón;Cereal;1;1;1;1;1;5;Segovia
+12;26012;Montejo de la Vega;Agua;1;1;1;1;1;5;Segovia
+13;26013;Sepúlveda;Cerdo;1;1;1;1;2;6;Segovia
+14;26014;Cantalejo;Cereal;1;1;1;1;2;6;Segovia
+15;26015;Turégano;Cereal;1;1;1;1;1;5;Segovia
+16;26016;Carbonero el Mayor;Cerdo;1;1;1;1;1;5;Segovia
+17;26017;Olombrada;Cereal;1;1;1;1;1;5;Segovia
+18;26018;Sacramenia;Cereal;1;1;1;1;1;5;Segovia
+1;27001;Bermillo;Vacuno;2;2;1;2;2;9;Zamora
+2;27002;Carbajáles de Alba;Transportistas;2;1;1;1;1;6;Zamora
+3;27003;Tábara;Vacuno;1;1;1;1;1;5;Zamora
+4;27004;Alcañices;Lácteo;2;1;1;1;2;7;Zamora
+5;27005;Morales del Vino;Lácteo;2;2;1;1;2;8;Zamora
+6;27006;Fuentesaúco;Viña;2;1;1;1;2;7;Zamora
+7;27007;Toro;Viña;2;2;1;2;2;9;Zamora
+8;27008;Zamora;Dependientes;14;14;1;12;15;56;Zamora
+9;27009;Cubillos;Cereal;1;1;1;1;1;5;Zamora
+10;27010;Morales de Toro;Viña;1;1;1;1;2;6;Zamora
+11;27011;Villalpando;Cereal;1;1;1;2;2;7;Zamora
+12;27012;Barcial del Barco;Viña;1;1;1;1;1;5;Zamora
+13;27013;Benavente;Mecánicos;3;3;1;4;4;15;Zamora
+14;27014;Camarzana de Tera;Cerdo;1;1;1;1;1;5;Zamora
+15;27015;Sanabria;Lácteo;1;1;1;1;1;5;Zamora
+1;28001;Villalón de Campos;Cereal;1;1;1;1;1;5;Valladolid
+2;28002;Vega de Ruiponce;Vacuno;1;1;1;1;1;5;Valladolid
+3;28003;Medina de Rioseco;Cereal;1;1;1;2;2;7;Valladolid
+4;28004;Castromonte;Cereal;1;1;1;1;1;5;Valladolid
+5;28005;Villanubla;Empleados;1;1;1;1;1;5;Valladolid
+6;28006;Castronuño;Energía;1;1;1;1;1;5;Valladolid
+7;28007;Villalar;Cereal;1;1;1;1;1;5;Valladolid
+8;28008;Tordesillas ;Dependientes;2;1;1;2;2;8;Valladolid
+9;28009;Alaejos;Cereal;1;1;1;1;1;5;Valladolid
+10;28010;Medina del Campo;Operarios;3;4;1;4;4;16;Valladolid
+11;28011;Velascálvaro;Cereal;1;1;1;1;1;5;Valladolid
+12;28012;Lomoviejo;Cereal;1;1;1;1;1;5;Valladolid
+13;28013;Olmedo;Cereal;1;1;1;1;2;6;Valladolid
+14;28014;Íscar;Cereal;2;2;1;3;3;11;Valladolid
+15;28015;Matapozuelos;Aves de Corral;1;2;1;2;1;7;Valladolid
+16;28016;Portillo;Cereal;2;2;1;3;3;11;Valladolid
+17;28017;Laguna de Duero;Operarios;5;3;1;5;5;19;Valladolid
+18;28018;Cigales;Cereal;1;1;1;2;2;7;Valladolid
+19;28019;Tudela de Duero;Hortalizas;2;1;1;2;2;8;Valladolid
+20;28020;Encomienda-Simancas;Empleados;5;6;1;6;6;24;Valladolid
+21;28021;Girón ;Transportistas;6;6;0;6;6;24;Valladolid
+22;28022;Barrio España;Empleados;3;3;0;3;3;12;Valladolid
+23;28023;Redondilla;Universitarios;14;15;;16;17;62;Valladolid
+24;28024;Sagrado Corazón;Oficinistas;20;21;;19;26;86;Valladolid
+25;28025;Pajarillos-Delicias;Operarios;19;17;1;22;23;82;Valladolid
+26;28026;Cistérniga;Dependientes;2;2;1;1;1;7;Valladolid
+27;28027;Villavaquerín;Cereal;1;1;1;1;1;5;Valladolid
+28;28028;Fombellida;Cereal;1;1;1;1;1;5;Valladolid
+29;28029;Pesquera;Viña;1;1;1;1;1;5;Valladolid
+30;28030;Peñafiel;Dependientes;1;1;1;1;1;5;Valladolid
+31;28031;Campaspero;Cereal;2;1;1;2;1;7;Valladolid
+1;29001;San Esteban de Gormaz;Operarios;1;1;1;1;0;4;Soria
+2;29002;Burgo de Osma;Cereal;1;1;1;2;2;7;Soria
+3;29003;San Lorenzo de Yagüe;Madera;1;1;1;1;1;5;Soria
+4;29004;Berlanga;Cerdo;1;0;1;1;0;3;Soria
+5;29005;Almazán;Cereal;1;1;1;2;1;6;Soria
+6;29006;Medinaceli;Cerdo;1;0;1;1;1;4;Soria
+7;29007;Almazul;Cerdo;1;0;1;1;0;3;Soria
+8;29008;Ólvega-Agreda;Operarios;1;1;1;2;2;7;Soria
+9;29009;Gómara;Cerdo;1;0;1;1;0;3;Soria
+10;29010;San Pedro Manrique;Cerdo;1;1;1;1;1;5;Soria
+11;29011;El Valle;Madera;1;0;1;0;0;2;Soria
+12;29012;Vinuesa;Madera;2;2;1;3;3;11;Soria
+13;29013;Garray;Cerdo;1;0;1;1;0;3;Soria
+14;29014;Soria;Dependientes;7;7;1;8;9;32;Soria
+15;29015;Golmayo;Cereal;1;1;1;1;1;5;Soria
 1;30001;Fabero;Minería;6;4;1;7;6;24;León
 2;30002;Carracedelo;Madera;4;4;1;4;4;17;León
 3;30003;Ponferrada;Operarios;12;13;1;14;14;54;León
@@ -930,7 +907,7 @@
 6;30006;La Robla;Energía;2;2;1;3;2;10;León
 7;30007;Boñar;Madera;2;1;1;2;2;8;León
 8;30008;Riaño;Hostelería;2;1;1;1;1;6;León
-9;30009;Cabrera;Minería;1;1;1;2;1;6;León
+9;30009;Encinedo-Luyego;Minería;1;1;1;2;1;6;León
 10;30010;Astorga;Dependientes;3;3;1;2;3;12;León
 11;30011;Carrizo de la Ribera;Cereal;2;1;1;2;2;8;León
 12;30012;Villarejo de Órbigo;Cereal;1;1;1;2;2;7;León
@@ -954,42 +931,65 @@
 30;30030;Villaquilambre;Técnicos;3;4;1;4;3;15;León
 31;30031;Garrafe de Torio;Madera;1;0;1;1;1;4;León
 32;30032;Valdefresno;Cereal;1;0;1;1;1;4;León
-1;34001;Haro;Viña;2;2;1;3;4;12;Logroño
-2;34002;Santo Domingo de la Calzada;Cereal;3;2;1;4;4;14;Logroño
-3;34003;Ezcaray;Hostelería;1;1;1;1;1;5;Logroño
-4;34004;Nájera;Operarios;3;2;1;5;3;14;Logroño
-5;34005;Cameros;Madera;1;1;1;1;1;5;Logroño
-6;34006;Murillo;Cereal;3;3;1;4;5;16;Logroño
-7;34007;Lardero;Viña;2;2;1;4;9;18;Logroño
-8;34008;Logroño Oeste;Dependientes;14;19;1;14;15;63;Logroño
-9;34009;Logroño Este;Empleados;16;14;1;19;22;72;Logroño
-10;34010;Arnedo;Operarios;4;4;1;6;6;21;Logroño
-11;34011;Calahorra;Viña;5;5;1;6;5;22;Logroño
-12;34012;Alfaro;Viña;6;4;1;7;7;25;Logroño
-13;34013;Cervera del Río Alhama;Viña;1;1;1;1;1;5;Logroño
-1;45001;Viveiro;Pesca;4;3;1;5;5;18;Lugo
-2;45002;Burela-Xove;Pesca;6;3;1;6;5;21;Lugo
-3;45003;Foz;Turismo;1;2;1;2;2;8;Lugo
-4;45004;Mondoñedo;Profesionales;1;1;1;1;1;5;Lugo
-5;45005;Ribadeo;Dependientes;3;4;1;3;3;14;Lugo
-6;45006;Muras-Orol;Técnicos;1;0;1;1;0;3;Lugo
-7;45007;Vilalba;Vacuno;6;4;1;5;6;22;Lugo
-8;45008;Castro de Rei;;1;1;1;1;1;5;Lugo
-9;45009;Meira;Aves de Corral;1;1;1;2;2;7;Lugo
-10;45010;A Pontenova;Vacuno;1;0;1;1;0;3;Lugo
-11;45011;Guitiriz;Vacuno;2;2;1;2;2;9;Lugo
-12;45012;Ulloa;Vacuno;3;1;1;2;2;9;Lugo
-13;45013;Guntín;Hostelería;2;2;1;1;1;7;Lugo
-14;45014;Outeiro de Rei;Oficinistas;3;1;1;2;5;12;Lugo
-15;45015;Lugo;Dependientes;21;20;1;19;23;84;Lugo
-16;45016;O Corgo;Transportistas;1;0;1;1;1;4;Lugo
-17;45017;Castroverde;Lácteo;1;1;1;1;2;6;Lugo
-18;45018;A Fonsagrada;Vacuno;1;1;1;2;1;6;Lugo
-19;45019;Os Ancares;Lácteo;2;2;1;2;2;9;Lugo
-20;45020;Quiroga;Viña;1;1;1;1;1;5;Lugo
-21;45021;O Inicio;Vacuno;1;1;1;2;1;6;Lugo
-22;45022;Sarria;Lácteo;4;3;1;4;5;17;Lugo
-23;45023;Monforte de Lemos;Operarios;4;4;1;5;5;19;Lugo
+1;31001;Cervera de Pisuegra;Hostelería;3;3;1;3;4;14;Palencia
+2;31002;Aguilar de Campoo;Operarios;1;1;1;2;2;7;Palencia
+3;31003;Pomar;Cereal;1;1;1;1;1;5;Palencia
+4;31004;Herrera de Pìsuegra;Cereal;1;1;1;2;2;7;Palencia
+5;31005;Valdavia;Cereal;1;1;1;1;1;5;Palencia
+6;31006;Saldaña;Leguminosa;1;1;1;1;1;5;Palencia
+7;31007;Arconada;Cereal;1;1;1;1;1;5;Palencia
+8;31008;Carrión de los Condes;Cereal;1;1;1;1;1;5;Palencia
+9;31009;Villada;Cereal;1;1;1;1;1;5;Palencia
+10;31010;Villarramiel;Cereal;1;1;1;1;1;5;Palencia
+11;31011;Paredes de la Nava;Mecánicos;1;1;1;1;1;5;Palencia
+12;31012;Becerril de Campos;Cereal;1;1;1;1;2;6;Palencia
+13;31013;Manquillos;Leguminosa;1;1;1;1;1;5;Palencia
+14;31014;Frómista;Cereal;2;1;1;2;1;7;Palencia
+15;31015;Ave María;Dependientes;9;11;;7;9;36;Palencia
+16;31016;El Carmen;Transportistas;9;6;;11;10;36;Palencia
+17;31017;Torquemada;Cereal;1;1;1;1;1;5;Palencia
+18;31018;Venta de Baños;Operarios;3;2;1;4;4;14;Palencia
+1;32001;Villarcayo;Hostelería;2;3;1;2;2;10;Burgos
+2;32002;Medina de Pomar;Cereal;2;3;1;3;3;12;Burgos
+3;32003;Santa Gadea del Cid;Cereal;1;1;1;1;0;4;Burgos
+4;32004;Miranda de Ebro;Operarios;7;7;1;8;9;32;Burgos
+5;32005;Treviño;Cereal;1;0;1;1;0;3;Burgos
+6;32006;Pancorbo;Aves de Corral;1;0;1;1;1;4;Burgos
+7;32007;Briviesca;Cereal;1;1;1;2;1;6;Burgos
+8;32008;Rojas;Cereal;1;0;1;1;0;3;Burgos
+9;32009;Poza de la Sal;Energía;0;0;1;1;0;2;Burgos
+10;32010;Oña;Leguminosa;1;1;1;1;1;5;Burgos
+11;32011;Santa María del Invierno;Cereal;0;0;1;1;1;3;Burgos
+12;32012;Merindad ;Mecánicos;1;1;1;0;0;3;Burgos
+13;32013;Valle de Sedano;Hostelería;0;0;1;1;1;3;Burgos
+14;32014;Villadiego;Cereal;2;1;1;2;2;8;Burgos
+15;32015;Quintanadueñas;Cereal;1;1;1;1;2;6;Burgos
+16;32016;Estépar;Empleados;1;0;1;1;0;3;Burgos
+17;32017;Arcos de la Llana;Empleados;1;0;1;1;1;4;Burgos
+18;32018;Villalbilla de Burgos;Técnicos;0;1;1;1;1;4;Burgos
+19;32019;Las Huelgas;Universitarios;8;7;1;7;10;33;Burgos
+20;32020;Arco de Santa María;Hostelería;5;6;;5;5;21;Burgos
+21;32021;San Julián;Técnicos;14;11;1;12;12;50;Burgos
+22;32022;Gamonal;Operarios;12;9;1;14;17;53;Burgos
+23;32023;Orbaneja;Aves de Corral;1;0;1;1;1;4;Burgos
+24;32024;Quintanilla;Cereal;0;0;1;1;1;3;Burgos
+25;32025;Belorado;Cereal;1;1;1;1;1;5;Burgos
+26;32026;Pradoluengo;Dependientes;1;1;1;1;1;5;Burgos
+27;32027;Campolara ;Cereal;0;0;1;1;1;3;Burgos
+28;32028;Salas de los Infantes;Vacuno;1;1;1;1;1;5;Burgos
+29;32029;Quintanar de la Sierra;Madera;1;1;1;1;1;5;Burgos
+30;32030;Villahoz;Cereal;1;1;1;1;1;5;Burgos
+31;32031;Villamanzo;Cereal;1;0;1;1;1;4;Burgos
+32;32032;Lerma;Mecánicos;1;1;1;1;2;6;Burgos
+33;32033;Sotillo de la Ribera;Cereal;1;0;1;1;1;4;Burgos
+34;32034;Caleruega;Cereal;1;0;1;1;1;4;Burgos
+35;32035;Roa;Viña;1;1;1;1;1;5;Burgos
+36;32036;Castrillo de la Vega;Cereal;1;0;1;1;0;3;Burgos
+37;32037;Adrada de Haza;Leguminosa;1;0;1;1;1;4;Burgos
+38;32038;Vadocondes;Cereal;1;0;1;1;1;4;Burgos
+39;32039;Aranda de Duero;Operarios;5;6;1;9;6;27;Burgos
+40;32040;Gumiel de Izán;Viña;1;0;1;1;0;3;Burgos
+41;32041;La Viña;Cereal;1;0;1;1;1;4;Burgos
 1;33001;San Martín de Valdeiglesias;Viña;3;3;1;3;5;15;Madrid
 2;33002;Navalcarnero;Viña;7;5;1;6;7;26;Madrid
 3;33003;Valdemorillo;Cerdo;1;1;1;2;2;7;Madrid
@@ -1069,7 +1069,7 @@
 77;33077;Tetúan;Hostelería;34;32;;33;36;135;Madrid
 78;33078;Chamartín;Hostelería;15;16;;16;15;62;Madrid
 79;33079;Fuencarral;Finanzas;17;15;;16;16;64;Madrid
-80;33080;El Pilar;;49;34;;37;37;157;Madrid
+80;33080;Barrio del Pilar;;49;34;;37;37;157;Madrid
 81;33081;Hortaleza;Empleados;45;41;;43;43;172;Madrid
 82;33082;Barajas;Transportistas;11;9;;10;10;40;Madrid
 83;33083;Canillejas;Empleados;12;10;;11;10;43;Madrid
@@ -1077,100 +1077,100 @@
 85;33085;Ciudad Lineal;Audiovisual;53;45;;52;51;201;Madrid
 86;33086;Moratalaz;;25;17;;25;21;88;Madrid
 87;33087;Vicálvaro;Transportistas;19;12;1;14;17;63;Madrid
-24;45024;Chantada;Lácteo;4;2;1;5;5;17;Lugo
-1;43001;Avión;Lácteo;1;0;1;1;1;4;Ourense
-2;43002;Boborás;Vacuno;1;0;1;1;1;4;Ourense
-3;43003;O Carballiño;Operarios;3;2;1;4;4;14;Ourense
-4;43004;San Cristovo de Cea;Madera;2;1;1;2;2;8;Ourense
-5;43005;Ribadavia;Vacuno;3;2;1;3;3;12;Ourense
-6;43006;Cartelle;Lácteo;1;0;1;1;1;4;Ourense
-7;43007;Celanova-Bande;Patatas;6;3;1;5;5;20;Ourense
-8;43008;San Ciprán de Viñas;Operarios;5;3;1;7;5;21;Ourense
-9;43009;Ourense Norte;Hostelería;12;12;;9;12;45;Ourense
-10;43010;Ourense Sur;Dependientes;14;13;1;10;9;47;Ourense
-11;43011;O Pereiro de Aguiar;Vacuno;2;2;1;3;4;12;Ourense
-12;43012;Allariz.Maceda;Viña;3;2;1;4;4;14;Ourense
-13;43013;Xinzo de Limia;Cereal;2;2;1;3;3;11;Ourense
-14;43014;Oimbra;Hortalizas;3;2;1;2;2;10;Ourense
-15;43015;Verín;Agua;4;2;1;3;4;14;Ourense
-16;43016;Viana;Vacuno;2;2;1;2;2;9;Ourense
-17;43017;Caldelas;Viña;1;0;1;1;0;3;Ourense
-18;43018;Trives;Turismo;1;1;1;0;1;4;Ourense
-19;43019;Valdeorras;Viña;6;4;1;6;7;24;Ourense
-1;46001;Navia;Lácteo;7;6;1;8;8;30;Oviedo
-2;46002;Grandas de Salime;Hidroeléctrica;1;1;1;0;1;4;Oviedo
-3;46003;Cangas del Narcea;Minería;4;3;1;4;5;17;Oviedo
-4;46004;Valdés-Tineo;Lácteo;5;5;1;5;5;21;Oviedo
-5;46005;Cudillero;Pesca;1;1;1;1;1;5;Oviedo
-6;46006;Pravia-Salas;Lácteo;3;2;1;3;3;12;Oviedo
-7;46007;Castrillón;Técnicos;8;5;1;7;8;29;Oviedo
-8;46008;Avilés;Operarios;28;25;1;26;26;106;Oviedo
-9;46009;Llanera;Operarios;3;2;1;3;3;12;Oviedo
-10;46010;Oviedo Oeste;Oficinistas;30;23;;23;26;102;Oviedo
-11;46011;Oviedo Este;Dependientes;28;24;;25;24;101;Oviedo
-12;46012;Lena;Turismo;2;3;1;2;2;10;Oviedo
-13;46013;Grado;Hidroeléctrica;2;2;1;2;3;10;Oviedo
-14;46014;Quirós;Lácteo;2;1;1;1;1;6;Oviedo
-15;46015;Laviana;Turismo;5;5;1;4;4;19;Oviedo
-16;46016;San Martín del Rey Aurelio;Hostelería;3;4;1;3;3;14;Oviedo
-17;46017;Langreo;Técnicos;9;7;1;11;9;37;Oviedo
-18;46018;Mieres ;Universitarios;9;9;1;9;9;37;Oviedo
-19;46019;Siero;Lácteo;14;10;1;11;12;48;Oviedo
-20;46020;La Calzada-Sur;Empleados;23;16;1;22;20;82;Oviedo
-21;46021;Llano-Poniente;Estibadores;37;31;;31;32;131;Oviedo
-22;46022;La Arena;Profesionales;12;10;;9;11;42;Oviedo
-23;46023;Villaviciosa;Licoreros;8;8;1;10;10;37;Oviedo
-24;46024;Llanes-Ribadesella;Turismo;5;5;1;4;4;19;Oviedo
-25;46025;Cangas de Onís;Vacuno;3;1;1;3;2;10;Oviedo
-26;46026;Ribadeva;Pesca;1;1;1;1;1;5;Oviedo
-1;31001;Cervera de Pisuegra;Hostelería;3;3;1;3;4;14;Palencia
-2;31002;Aguilar de Campoo;Operarios;1;1;1;2;2;7;Palencia
-3;31003;Pomar;Cereal;1;1;1;1;1;5;Palencia
-4;31004;Herrera de Pìsuegra;Cereal;1;1;1;2;2;7;Palencia
-5;31005;Valdavia;Cereal;1;1;1;1;1;5;Palencia
-6;31006;Saldaña;Leguminosa;1;1;1;1;1;5;Palencia
-7;31007;Arconada;Cereal;1;1;1;1;1;5;Palencia
-8;31008;Carrión de los Condes;Cereal;1;1;1;1;1;5;Palencia
-9;31009;Villada;Cereal;1;1;1;1;1;5;Palencia
-10;31010;Villarramiel;Cereal;1;1;1;1;1;5;Palencia
-11;31011;Paredes de la Nava;Mecánicos;1;1;1;1;1;5;Palencia
-12;31012;Becerril de Campos;Cereal;1;1;1;1;2;6;Palencia
-13;31013;Manquillos;Leguminosa;1;1;1;1;1;5;Palencia
-14;31014;Frómista;Cereal;2;1;1;2;1;7;Palencia
-15;31015;Ave María;Dependientes;9;11;;7;9;36;Palencia
-16;31016;El Carmen;Transportistas;9;6;;11;10;36;Palencia
-17;31017;Torquemada;Cereal;1;1;1;1;1;5;Palencia
-18;31018;Venta de Baños;Operarios;3;2;1;4;4;14;Palencia
-1;48001;Baztan;Vacuno;1;1;1;2;2;7;Pamplona
-2;48002;Lesaka;Operarios;4;2;1;3;3;13;Pamplona
-3;48003;Leitza-Ultzamaldea;Lácteo;3;3;1;3;3;13;Pamplona
-4;48004;Corredor de Alsasua;Vacuno;5;4;1;5;5;20;Pamplona
-5;48005;Yerri;Cereal;3;1;1;2;3;10;Pamplona
-6;48006;Estella;Hostelería;3;3;1;2;4;13;Pamplona
-7;48007;Montejurra;Cereal;2;1;1;4;4;12;Pamplona
-8;48008;Viana;Operarios;1;1;1;2;2;7;Pamplona
-9;48009;Noáin;Transportistas;11;6;1;8;8;34;Pamplona
-10;48010;Puente la Reina;Cereal;2;1;1;2;1;7;Pamplona
-11;48011;Tafalla;Operarios;2;2;1;3;2;10;Pamplona
-12;48012;Olite-Sangüesa;Vacuno;6;4;1;4;5;20;Pamplona
-13;48013;Auñamendi-Zaraitzu;Vacuno;2;1;1;2;2;8;Pamplona
-14;48014;Lodosa;Hortalizas;3;3;1;4;4;15;Pamplona
-15;48015;Peralta;Viña;6;5;1;5;6;23;Pamplona
-16;48016;Caparroso;Hortalizas;5;2;1;4;3;15;Pamplona
-17;48017;Tudela;Hortalizas;15;11;1;16;12;55;Pamplona
-18;48018;Cintruénigo;Hortalizas;9;5;1;7;7;29;Pamplona
-19;48019;Barañain;Operarios;9;12;1;12;11;45;Pamplona
-20;48020;Ansoain-Berriozar;Operarios;7;7;1;6;8;29;Pamplona
-21;48021;Arga;Oficinistas;29;22;;25;24;100;Pamplona
-22;48022;Ciudadela;Hostelería;25;25;;23;29;102;Pamplona
-23;48023;Burlada;Dependientes;6;6;1;6;6;25;Pamplona
-1;42001;O Baixo Miño;Viña;7;6;1;7;9;30;Pontevedra
-2;42002;Nigrán;Turismo;9;10;1;8;8;36;Pontevedra
-3;42003;Tuy;Dependientes;4;4;1;3;3;15;Pontevedra
-4;42004;O Porriño;Operarios;5;3;1;5;5;19;Pontevedra
-5;42005;Vigo Sur;Estibadores;37;30;1;33;34;135;Pontevedra
-6;42006;Vigo Norte;Oficinistas;38;35;1;32;37;143;Pontevedra
-7;42007;Mos;Transportistas;3;3;1;3;3;13;Pontevedra
+1;34001;Haro;Viña;2;2;1;3;4;12;Logroño
+2;34002;Santo Domingo de la Calzada;Cereal;3;2;1;4;4;14;Logroño
+3;34003;Ezcaray;Hostelería;1;1;1;1;1;5;Logroño
+4;34004;Nájera;Operarios;3;2;1;5;3;14;Logroño
+5;34005;Cameros;Madera;1;1;1;1;1;5;Logroño
+6;34006;Murillo;Cereal;3;3;1;4;5;16;Logroño
+7;34007;Lardero;Viña;2;2;1;4;9;18;Logroño
+8;34008;Logroño Oeste;Dependientes;14;19;1;14;15;63;Logroño
+9;34009;Logroño Este;Empleados;16;14;1;19;22;72;Logroño
+10;34010;Arnedo;Operarios;4;4;1;6;6;21;Logroño
+11;34011;Calahorra;Viña;5;5;1;6;5;22;Logroño
+12;34012;Alfaro;Viña;6;4;1;7;7;25;Logroño
+13;34013;Cervera del Río Alhama;Viña;1;1;1;1;1;5;Logroño
+1;35001;Albarracín;Hostelería;1;1;1;1;1;5;Teruel
+2;35002;Villel;Aves de Corral;1;0;1;1;1;4;Teruel
+3;35003;Teruel;Hostelería;8;7;1;6;8;30;Teruel
+4;35004;Cella;Técnicos;2;1;1;3;2;9;Teruel
+5;35005;Jiloca;Cereal;2;2;1;2;2;9;Teruel
+6;35006;Orrios;Cerdo;1;0;1;1;0;3;Teruel
+7;35007;Utrillas;Operarios;1;1;1;2;2;7;Teruel
+8;35008;Arcos de las Salinas;Madera;1;0;1;1;0;3;Teruel
+9;35009;Sarrión;Hostelería;1;1;1;0;0;3;Teruel
+10;35010;Mora de Rubielos;Hostelería;1;1;1;0;1;4;Teruel
+11;35011;Cantavieja;Cerdo;1;1;1;2;2;7;Teruel
+12;35012;Matarraña;Cereal;1;1;1;2;2;7;Teruel
+13;35013;Calanda;Cerdo;2;2;1;2;2;9;Teruel
+14;35014;Alcañiz;Oficinistas;4;3;1;3;3;14;Teruel
+15;35015;Andorra;Cereal;1;1;1;2;2;7;Teruel
+16;35016;Bajo Martín;Cerdo;1;1;1;2;1;6;Teruel
+1;36001;Ateca;Fruta;1;1;1;2;2;7;Zaragoza
+2;36002;Villalenga;Viña;1;0;1;1;1;4;Zaragoza
+3;36003;Calcena;Cerdo;1;0;1;1;0;3;Zaragoza
+4;36004;Illueca;Operarios;3;1;1;2;2;9;Zaragoza
+5;36005;Calatayud;Hostelería;5;4;1;5;6;21;Zaragoza
+6;36006;Orera;Viña;1;0;1;1;1;4;Zaragoza
+7;36007;Maluenda;Fruta;1;1;1;1;1;5;Zaragoza
+8;36008;Daroca;Viña;1;1;1;1;2;6;Zaragoza
+9;36009;Cariñena;Viña;2;1;1;2;3;9;Zaragoza
+10;36010;Lécera;Empleados;0;1;1;1;0;3;Zaragoza
+11;36011;Belchite;Olivar;1;1;1;1;0;4;Zaragoza
+12;36012;Tarazona;Técnicos;2;2;1;3;3;11;Zaragoza
+13;36013;Campo de Borja;Viña;3;2;1;3;3;12;Zaragoza
+14;36014;Alagón;Operarios;4;4;1;5;6;20;Zaragoza
+15;36015;Épila;Cereal;2;2;1;3;2;10;Zaragoza
+16;36016;La Almunia;Fruta;4;3;1;4;5;17;Zaragoza
+17;36017;Muel;Mecánicos;1;1;1;1;0;4;Zaragoza
+18;36018;Cadrete;Cerdo;3;2;1;3;3;12;Zaragoza
+19;36019;Fuentes de Ebro;Cereal;1;1;1;1;1;5;Zaragoza
+20;36020;Garrapinillos;Técnicos;2;1;1;2;2;8;Zaragoza
+21;36021;Casablanca;Dependientes;10;5;;8;11;34;Zaragoza
+22;36022;San José;Empleados;34;28;;35;39;136;Zaragoza
+23;36023;Romareda;Universitarios;12;12;;12;15;51;Zaragoza
+24;36024;Valdefierro;Transportistas;11;7;;10;10;38;Zaragoza
+25;36025;El Pilar;Oficinistas;22;25;;23;26;96;Zaragoza
+26;36026;Delicias;Empleados;29;30;;29;31;119;Zaragoza
+27;36027;Rey Fernando;Hostelería;36;29;;31;33;129;Zaragoza
+28;36028;Santa Isabel;Operarios;3;3;1;4;3;14;Zaragoza
+29;36029;Utebo;Hortalizas;4;3;1;6;7;21;Zaragoza
+30;36030;Alfajarín;Cerdo;1;0;1;3;2;7;Zaragoza
+31;36031;Villanueva de Gállego;Cereal;2;1;1;2;2;8;Zaragoza
+32;36032;Zuera;Aves de Corral;2;1;1;2;2;8;Zaragoza
+33;36033;Ejea de los Caballeros;Cereal;5;6;1;7;7;26;Zaragoza
+34;36034;Luna;Vacuno;1;1;1;1;1;5;Zaragoza
+35;36035;Jacetania Baja;Madera;1;1;1;1;1;5;Zaragoza
+36;36036;Quinto;Cerdo;2;1;1;3;2;9;Zaragoza
+37;36037;Caspe;Operarios;2;1;1;2;2;8;Zaragoza
+38;36038;Fabara;Cerdo;1;1;1;1;2;6;Zaragoza
+1;37001;Canfranc;Madera;1;1;1;1;1;5;Huesca
+2;37002;Bailo;Lácteo;1;0;1;1;0;3;Huesca
+3;37003;Jaca;Turismo;2;3;1;2;3;11;Huesca
+4;37004;Sabiñabigo;Operarios;2;1;1;3;3;10;Huesca
+5;37005;Ordesa;Turismo;1;1;1;1;1;5;Huesca
+6;37006;Ainsa;Agua;1;0;1;1;1;4;Huesca
+7;37007;Benasque;Aves de Corral;1;1;1;1;1;5;Huesca
+8;37008;Graus;Cereal;2;1;1;1;2;7;Huesca
+9;37009;Ayerbe;Cerdo;1;0;1;1;0;3;Huesca
+10;37010;Almudévar;Transportistas;1;1;1;1;1;5;Huesca
+11;37011;Huesca;Operarios;10;12;1;12;14;49;Huesca
+12;37012;La Sotonera;Cereal;1;1;1;1;0;4;Huesca
+13;37013;Novales;Cerdo;1;0;1;1;0;3;Huesca
+14;37014;Guara;Cerdo;0;1;1;1;0;3;Huesca
+15;37015;Salas Altas;Cereal;1;0;1;1;0;3;Huesca
+16;37016;Barbastro;Cerdo;1;1;1;1;0;4;Huesca
+17;37017;El Grado;Viña;1;0;1;1;0;3;Huesca
+18;37018;Monzón;Operarios;4;3;1;4;5;17;Huesca
+19;37019;Binaced;Cereal;1;0;1;1;0;3;Huesca
+20;37020;Alcolea;Cerdo;1;0;1;1;1;4;Huesca
+21;37021;Ballovar;Cerdo;2;2;1;2;2;9;Huesca
+22;37022;Fraga;Aves de Corral;3;3;1;3;4;14;Huesca
+23;37023;Tamarite;Vacuno;2;1;1;3;2;9;Huesca
+24;37024;Binéfar;Vacuno;2;2;1;2;2;9;Huesca
+25;37025;Valfarta;Cerdo;1;0;1;1;0;3;Huesca
+26;37026;Sariñena;Cereal;1;1;1;1;1;5;Huesca
+27;37027;Lanaja;Cerdo;2;2;1;3;3;11;Huesca
 1;38001;Montsia;Arroz;16;10;1;17;16;60;Tarragona
 2;38002;Deltebre;Arroz;6;6;1;7;5;25;Tarragona
 3;38003;Tortosa;Hostelería;7;7;1;7;7;29;Tarragona
@@ -1349,6 +1349,13 @@
 27;41027;Campdevànol;Cerdo;1;1;1;1;1;5;Girona
 28;41028;Ribes de Freser;Cerdo;1;1;1;1;1;5;Girona
 29;41029;Puigcerdà;Turismo;3;3;1;2;3;12;Girona
+1;42001;O Baixo Miño;Viña;7;6;1;7;9;30;Pontevedra
+2;42002;Nigrán;Turismo;9;10;1;8;8;36;Pontevedra
+3;42003;Tuy;Dependientes;4;4;1;3;3;15;Pontevedra
+4;42004;O Porriño;Operarios;5;3;1;5;5;19;Pontevedra
+5;42005;Vigo Sur;Estibadores;37;30;1;33;34;135;Pontevedra
+6;42006;Vigo Norte;Oficinistas;38;35;1;32;37;143;Pontevedra
+7;42007;Mos;Transportistas;3;3;1;3;3;13;Pontevedra
 8;42008;Ponteareas;Vacuno;10;8;1;9;9;37;Pontevedra
 9;42009;A Cañiza;Lácteo;2;2;1;4;3;12;Pontevedra
 10;42010;Redondela;Transportistas;8;6;1;7;7;29;Pontevedra
@@ -1360,32 +1367,110 @@
 16;42016;Caldas;Lácteo;10;7;1;9;9;36;Pontevedra
 17;42017;Tabeiro;Cerdo;6;5;1;6;5;23;Pontevedra
 18;42018;Deza;Vacuno;10;10;1;9;10;40;Pontevedra
-1;24001;Argañán;Cerdo;1;1;1;1;1;5;Salamanca
-2;24002;Ciudad Rodrigo;Hostelería;3;2;1;3;3;12;Salamanca
-3;24003;Tenebrón;Vacuno;1;1;1;1;1;5;Salamanca
-4;24004;Lumbrales;Vacuno;1;1;1;1;2;6;Salamanca
-5;24005;Vitigudino;Vacuno;2;1;1;2;1;7;Salamanca
-6;24006;Barruecopardo;Vacuno;1;1;1;1;1;5;Salamanca
-7;24007;Aldeadávila;Energía;1;1;1;1;1;5;Salamanca
-8;24008;Sierra de Francia;Vacuno;1;1;1;2;2;7;Salamanca
-9;24009;Béjar;Operarios;2;2;1;3;3;11;Salamanca
-10;24010;Guijuelo;Cerdo;1;2;1;2;2;8;Salamanca
-11;24011;Ledesma;Vacuno;2;1;1;2;1;7;Salamanca
-12;24012;Carrascal;Cereal;1;1;1;2;2;7;Salamanca
-13;24013;Calzada de Don Diego;Cereal;1;1;1;1;1;5;Salamanca
-14;24014;Puente Romano;Universitarios;17;12;;10;12;51;Salamanca
-15;24015;Oeste ;Hostelería;12;11;;11;11;45;Salamanca
-16;24016;Garrido;Oficinistas;12;11;;10;12;45;Salamanca
-17;24017;Santa Marta del Tormes;Dependientes;4;4;1;3;4;16;Salamanca
-18;24018;Calvarrasa;Vacuno;1;1;1;1;3;7;Salamanca
-19;24019;Carbajosa;Mecánicos;2;2;1;2;2;9;Salamanca
-20;24020;Alba de Tormes;Cereal;2;2;1;2;2;9;Salamanca
-21;24021;Navales;Cereal;1;1;1;1;1;5;Salamanca
-22;24022;Peñaranda de Bracamonte;Cereal;2;1;1;2;2;8;Salamanca
-23;24023;Las Villas;Técnicos;1;1;1;1;1;5;Salamanca
-24;24024;Cantalapiedra;Cereal;1;1;1;1;1;5;Salamanca
-25;24025;Armuña Alta;Hortalizas;1;1;1;1;1;5;Salamanca
-26;24026;Villamayor;Minería;2;1;1;3;3;10;Salamanca
+1;43001;Avión;Lácteo;1;0;1;1;1;4;Ourense
+2;43002;Boborás;Vacuno;1;0;1;1;1;4;Ourense
+3;43003;O Carballiño;Operarios;3;2;1;4;4;14;Ourense
+4;43004;San Cristovo de Cea;Madera;2;1;1;2;2;8;Ourense
+5;43005;Ribadavia;Vacuno;3;2;1;3;3;12;Ourense
+6;43006;Cartelle;Lácteo;1;0;1;1;1;4;Ourense
+7;43007;Celanova-Bande;Patatas;6;3;1;5;5;20;Ourense
+8;43008;San Ciprán de Viñas;Operarios;5;3;1;7;5;21;Ourense
+9;43009;Ourense Norte;Hostelería;12;12;;9;12;45;Ourense
+10;43010;Ourense Sur;Dependientes;14;13;1;10;9;47;Ourense
+11;43011;O Pereiro de Aguiar;Vacuno;2;2;1;3;4;12;Ourense
+12;43012;Allariz.Maceda;Viña;3;2;1;4;4;14;Ourense
+13;43013;Xinzo de Limia;Cereal;2;2;1;3;3;11;Ourense
+14;43014;Oimbra;Hortalizas;3;2;1;2;2;10;Ourense
+15;43015;Verín;Agua;4;2;1;3;4;14;Ourense
+16;43016;Viana do Bolo;Vacuno;2;2;1;2;2;9;Ourense
+17;43017;Caldelas;Viña;1;0;1;1;0;3;Ourense
+18;43018;Trives;Turismo;1;1;1;0;1;4;Ourense
+19;43019;Valdeorras;Viña;6;4;1;6;7;24;Ourense
+1;44001;Rianxo;Pesca;2;2;1;3;3;11;A Coruña
+2;44002;Ribeira;Pesca;14;9;1;14;12;50;A Coruña
+3;44003;Noia;Pesca;5;4;1;5;5;20;A Coruña
+4;44004;Ames;Vacuno;16;15;1;16;19;67;A Coruña
+5;44005;Vedra-Boqueixon;Empleados;2;1;1;2;3;9;A Coruña
+6;44006;Santiago de Compostela;Oficinistas;19;18;1;20;20;78;A Coruña
+7;44007;Sabugueira;Audiovisual;4;2;1;2;4;13;A Coruña
+8;44008;A Barcala;Vacuno;2;2;1;2;2;9;A Coruña
+9;44009;Finisterre;Dependientes;12;11;1;11;11;46;A Coruña
+10;44010;Soneira;Vacuno;5;3;1;4;4;17;A Coruña
+11;44011;Santa Comba;Vacuno;2;2;1;3;2;10;A Coruña
+12;44012;Ponteceso;Pesca;3;2;1;6;5;17;A Coruña
+13;44013;Coristanco;Cerdo;1;1;1;2;1;6;A Coruña
+14;44014;Carballo;Operarios;11;8;1;9;10;39;A Coruña
+15;44015;Ordes;Lácteo;8;6;1;8;8;31;A Coruña
+16;44016;Frades;Vacuno;1;1;1;2;2;7;A Coruña
+17;44017;Arzúa;Aves de Corral;4;3;1;4;4;16;A Coruña
+18;44018;Melida;Dependientes;3;2;1;2;2;10;A Coruña
+19;44019;Curtis;Lácteo;3;2;1;4;4;14;A Coruña
+20;44020;Betanzos;Profesionales;4;3;1;3;3;14;A Coruña
+21;44021;Miño;Pesca;3;1;1;3;3;11;A Coruña
+22;44022;Sada;Transportistas;5;3;1;5;5;19;A Coruña
+23;44023;Oleiros;Empleados;8;5;1;8;8;30;A Coruña
+24;44024;Cambre;Vacuno;5;3;1;5;4;18;A Coruña
+25;44025;Culleredo;Operarios;7;5;1;7;7;27;A Coruña
+26;44026;Arteixo;Operarios;6;5;1;9;7;28;A Coruña
+27;44027;Oza-Viña;Dependientes;30;25;1;25;26;107;A Coruña
+28;44028;Riazor-Ensanche;Oficinistas;27;23;;25;27;102;A Coruña
+29;44029;Monte Alto;Estibadores;6;5;;7;5;23;A Coruña
+30;44030;As Pontes de García Rodríguez;Energía;3;2;1;3;3;12;A Coruña
+31;44031;Fene;Operarios;9;6;1;10;8;34;A Coruña
+32;44032;Ferrol;Operarios;17;12;1;15;15;60;A Coruña
+33;44033;Narón;Transportistas;9;7;1;9;9;35;A Coruña
+34;44034;San Sadurniño;Pesca;2;1;1;3;3;10;A Coruña
+35;44035;Ortegal;Pesca;4;3;1;4;4;16;A Coruña
+1;45001;Viveiro;Pesca;4;3;1;5;5;18;Lugo
+2;45002;Burela-Xove;Pesca;6;3;1;6;5;21;Lugo
+3;45003;Foz;Turismo;1;2;1;2;2;8;Lugo
+4;45004;Mondoñedo;Profesionales;1;1;1;1;1;5;Lugo
+5;45005;Ribadeo;Dependientes;3;4;1;3;3;14;Lugo
+6;45006;Muras-Orol;Técnicos;1;0;1;1;0;3;Lugo
+7;45007;Vilalba;Vacuno;6;4;1;5;6;22;Lugo
+8;45008;Castro de Rei;;1;1;1;1;1;5;Lugo
+9;45009;Meira;Aves de Corral;1;1;1;2;2;7;Lugo
+10;45010;A Pontenova;Vacuno;1;0;1;1;0;3;Lugo
+11;45011;Guitiriz;Vacuno;2;2;1;2;2;9;Lugo
+12;45012;Ulloa;Vacuno;3;1;1;2;2;9;Lugo
+13;45013;Guntín;Hostelería;2;2;1;1;1;7;Lugo
+14;45014;Outeiro de Rei;Oficinistas;3;1;1;2;5;12;Lugo
+15;45015;Lugo;Dependientes;21;20;1;19;23;84;Lugo
+16;45016;O Corgo;Transportistas;1;0;1;1;1;4;Lugo
+17;45017;Castroverde;Lácteo;1;1;1;1;2;6;Lugo
+18;45018;A Fonsagrada;Vacuno;1;1;1;2;1;6;Lugo
+19;45019;Os Ancares;Lácteo;2;2;1;2;2;9;Lugo
+20;45020;Quiroga;Viña;1;1;1;1;1;5;Lugo
+21;45021;O Inicio;Vacuno;1;1;1;2;1;6;Lugo
+22;45022;Sarria;Lácteo;4;3;1;4;5;17;Lugo
+23;45023;Monforte de Lemos;Operarios;4;4;1;5;5;19;Lugo
+24;45024;Chantada;Lácteo;4;2;1;5;5;17;Lugo
+1;46001;Navia;Lácteo;7;6;1;8;8;30;Oviedo
+2;46002;Grandas de Salime;Hidroeléctrica;1;1;1;0;1;4;Oviedo
+3;46003;Cangas del Narcea;Minería;4;3;1;4;5;17;Oviedo
+4;46004;Valdés-Tineo;Lácteo;5;5;1;5;5;21;Oviedo
+5;46005;Cudillero;Pesca;1;1;1;1;1;5;Oviedo
+6;46006;Pravia-Salas;Lácteo;3;2;1;3;3;12;Oviedo
+7;46007;Castrillón;Técnicos;8;5;1;7;8;29;Oviedo
+8;46008;Avilés;Operarios;28;25;1;26;26;106;Oviedo
+9;46009;Llanera;Operarios;3;2;1;3;3;12;Oviedo
+10;46010;Oviedo Oeste;Oficinistas;30;23;;23;26;102;Oviedo
+11;46011;Oviedo Este;Dependientes;28;24;;25;24;101;Oviedo
+12;46012;Lena;Turismo;2;3;1;2;2;10;Oviedo
+13;46013;Grado;Hidroeléctrica;2;2;1;2;3;10;Oviedo
+14;46014;Quirós;Lácteo;2;1;1;1;1;6;Oviedo
+15;46015;Laviana;Turismo;5;5;1;4;4;19;Oviedo
+16;46016;San Martín del Rey Aurelio;Hostelería;3;4;1;3;3;14;Oviedo
+17;46017;Langreo;Técnicos;9;7;1;11;9;37;Oviedo
+18;46018;Mieres ;Universitarios;9;9;1;9;9;37;Oviedo
+19;46019;Siero;Lácteo;14;10;1;11;12;48;Oviedo
+20;46020;La Calzada-Sur;Empleados;23;16;1;22;20;82;Oviedo
+21;46021;Llano-Poniente;Estibadores;37;31;;31;32;131;Oviedo
+22;46022;La Arena;Profesionales;12;10;;9;11;42;Oviedo
+23;46023;Villaviciosa;Licoreros;8;8;1;10;10;37;Oviedo
+24;46024;Llanes-Ribadesella;Turismo;5;5;1;4;4;19;Oviedo
+25;46025;Cangas de Onís;Vacuno;3;1;1;3;2;10;Oviedo
+26;46026;Ribadeva;Pesca;1;1;1;1;1;5;Oviedo
 1;47001;Liébana;Turismo;3;2;1;2;2;10;Santander
 2;47002;San Vicente de la Barquera;Turismo;2;2;1;1;1;7;Santander
 3;47003;Cabezón de la Sal;Operarios;4;3;1;5;5;18;Santander
@@ -1404,86 +1489,17 @@
 16;47016;Marqués de Valdecilla;Oficinistas;19;17;;19;19;74;Santander
 17;47017;Sardinero;Finanzas;17;15;;12;14;58;Santander
 18;47018;Valdenoja;Universitarios;4;4;;3;5;16;Santander
-1;26001;Cuéllar;Hotalizas;2;2;1;2;2;9;Segovia
-2;26002;Coca;Madera;1;1;1;2;2;7;Segovia
-3;26003;Nava de la Asunción;Cereal;2;1;1;2;2;8;Segovia
-4;26004;Garcillán;Cereal;1;1;1;1;1;5;Segovia
-5;26005;El Espinar;Madera;2;2;1;4;3;12;Segovia
-6;26006;Segovia;Operarios;9;10;1;10;10;40;Segovia
-7;26007;San Ildefonso;Madera;2;1;1;3;3;10;Segovia
-8;26008;La Lastrilla;Oficinistas;2;1;1;1;2;7;Segovia
-9;26009;Navafría;Madera;1;1;1;1;1;5;Segovia
-10;26010;Arcones;Aves de Corral;1;1;1;1;1;5;Segovia
-11;26011;Riaza-Ayllón;Cereal;1;1;1;1;1;5;Segovia
-12;26012;Montejo de la Vega;Agua;1;1;1;1;1;5;Segovia
-13;26013;Sepúlveda;Cerdo;1;1;1;1;2;6;Segovia
-14;26014;Cantalejo;Cereal;1;1;1;1;2;6;Segovia
-15;26015;Turégano;Cereal;1;1;1;1;1;5;Segovia
-16;26016;Carbonero el Mayor;Cerdo;1;1;1;1;1;5;Segovia
-17;26017;Olombrada;Cereal;1;1;1;1;1;5;Segovia
-18;26018;Sacramenia;Cereal;1;1;1;1;1;5;Segovia
-1;29001;San Esteban de Gormaz;Operarios;1;1;1;1;0;4;Soria
-2;29002;Burgo de Osma;Cereal;1;1;1;2;2;7;Soria
-3;29003;San Lorenzo de Yagüe;Madera;1;1;1;1;1;5;Soria
-4;29004;Berlanga;Cerdo;1;0;1;1;0;3;Soria
-5;29005;Almazán;Cereal;1;1;1;2;1;6;Soria
-6;29006;Medinaceli;Cerdo;1;0;1;1;1;4;Soria
-7;29007;Almazul;Cerdo;1;0;1;1;0;3;Soria
-8;29008;Ólvega-Agreda;Operarios;1;1;1;2;2;7;Soria
-9;29009;Gómara;Cerdo;1;0;1;1;0;3;Soria
-10;29010;San Pedro Manrique;Cerdo;1;1;1;1;1;5;Soria
-11;29011;El Valle;Madera;1;0;1;0;0;2;Soria
-12;29012;Vinuesa;Madera;2;2;1;3;3;11;Soria
-13;29013;Garray;Cerdo;1;0;1;1;0;3;Soria
-14;29014;Soria;Dependientes;7;7;1;8;9;32;Soria
-15;29015;Golmayo;Cereal;1;1;1;1;1;5;Soria
-1;35001;Albarracín;Hostelería;1;1;1;1;1;5;Teruel
-2;35002;Villel;Aves de Corral;1;0;1;1;1;4;Teruel
-3;35003;Teruel;Hostelería;8;7;1;6;8;30;Teruel
-4;35004;Cella;Técnicos;2;1;1;3;2;9;Teruel
-5;35005;Jiloca;Cereal;2;2;1;2;2;9;Teruel
-6;35006;Orrios;Cerdo;1;0;1;1;0;3;Teruel
-7;35007;Utrillas;Operarios;1;1;1;2;2;7;Teruel
-8;35008;Arcos de las Salinas;Madera;1;0;1;1;0;3;Teruel
-9;35009;Sarrión;Hostelería;1;1;1;0;0;3;Teruel
-10;35010;Mora de Rubielos;Hostelería;1;1;1;0;1;4;Teruel
-11;35011;Cantavieja;Cerdo;1;1;1;2;2;7;Teruel
-12;35012;Matarraña;Cereal;1;1;1;2;2;7;Teruel
-13;35013;Calanda;Cerdo;2;2;1;2;2;9;Teruel
-14;35014;Alcañiz;Oficinistas;4;3;1;3;3;14;Teruel
-15;35015;Andorra;Cereal;1;1;1;2;2;7;Teruel
-16;35016;Bajo Martín;Cerdo;1;1;1;2;1;6;Teruel
-1;28001;Villalón de Campos;Cereal;1;1;1;1;1;5;Valladolid
-2;28002;Vega de Ruiponce;Vacuno;1;1;1;1;1;5;Valladolid
-3;28003;Medina de Rioseco;Cereal;1;1;1;2;2;7;Valladolid
-4;28004;Castromonte;Cereal;1;1;1;1;1;5;Valladolid
-5;28005;Villanubla;Empleados;1;1;1;1;1;5;Valladolid
-6;28006;Castronuño;Energía;1;1;1;1;1;5;Valladolid
-7;28007;Villalar;Cereal;1;1;1;1;1;5;Valladolid
-8;28008;Tordesillas ;Dependientes;2;1;1;2;2;8;Valladolid
-9;28009;Alaejos;Cereal;1;1;1;1;1;5;Valladolid
-10;28010;Medina del Campo;Operarios;3;4;1;4;4;16;Valladolid
-11;28011;Velascálvaro;Cereal;1;1;1;1;1;5;Valladolid
-12;28012;Lomoviejo;Cereal;1;1;1;1;1;5;Valladolid
-13;28013;Olmedo;Cereal;1;1;1;1;2;6;Valladolid
-14;28014;Íscar;Cereal;2;2;1;3;3;11;Valladolid
-15;28015;Matapozuelos;Aves de Corral;1;2;1;2;1;7;Valladolid
-16;28016;Portillo;Cereal;2;2;1;3;3;11;Valladolid
-17;28017;Laguna de Duero;Operarios;5;3;1;5;5;19;Valladolid
-18;28018;Tudela de Duero;Hortalizas;2;1;1;2;2;8;Valladolid
-19;28019;Encomienda-Simancas;Empleados;5;6;1;6;6;24;Valladolid
-20;28020;Girón ;Transportistas;6;6;0;6;6;24;Valladolid
-21;28021;España;Empleados;3;3;0;3;3;12;Valladolid
-22;28022;Redondilla;Universitarios;14;15;0;16;17;62;Valladolid
-23;28023;Centro;Oficinistas;20;21;0;19;26;86;Valladolid
-24;28024;Pajarillos-Delicias;Operarios;19;17;1;22;23;82;Valladolid
-25;28025;Cigales;Cereal;1;1;1;2;2;7;Valladolid
-26;28026;Cistérniga;Dependientes;2;2;1;1;1;7;Valladolid
-27;28027;Villavaquerín;Cereal;1;1;1;1;1;5;Valladolid
-28;28028;Fombellida;Cereal;1;1;1;1;1;5;Valladolid
-29;28029;Pesquera;Viña;1;1;1;1;1;5;Valladolid
-30;28030;Peñafiel;Dependientes;1;1;1;1;1;5;Valladolid
-31;28031;Campaspero;Cereal;2;1;1;2;1;7;Valladolid
+1;48001;Llodio;Profesionales;4;4;1;4;4;17;Álava
+2;48002;Ayala;Vacuno;2;1;1;1;1;6;Álava
+3;48003;Amurrio;Operarios;2;2;1;3;2;10;Álava
+4;48004;Añana;Transportistas;2;1;1;2;2;8;Álava
+5;48005;Santa Cruz de Campezo;Vacuno;1;0;1;1;0;3;Álava
+6;48006;Rioja Alavesa;Viña;2;2;1;3;3;11;Álava
+7;48007;Salvatierra;Cereal;1;1;1;2;2;7;Álava
+8;48008;Alegría ;Cereal;1;1;1;1;1;5;Álava
+9;48009;Zuia;Lácteo;4;2;1;3;4;14;Álava
+10;48010;Vitoria Grande;Operarios;30;22;1;28;32;113;Álava
+11;48011;Vitoria Central;Oficinistas;35;27;;26;28;116;Álava
 1;49001;Balmaseda;Operarios;2;2;1;3;2;10;Vizcaya
 2;49002;Zalla-Güenes;Vacuno;4;3;1;5;5;18;Vizcaya
 3;49003;Santurzi;Estibadores;17;17;1;20;19;74;Vizcaya
@@ -1507,56 +1523,2683 @@
 21;49021;Bermeo;Pesca;3;3;1;4;4;15;Vizcaya
 22;49022;Gernika;Vacuno;7;5;1;6;7;26;Vizcaya
 23;49023;Plentzia;Turismo;14;13;1;11;15;54;Vizcaya
-1;27001;Bermillo;Vacuno;2;2;1;2;2;9;Zamora
-2;27002;Carbajáles de Alba;Transportistas;2;1;1;1;1;6;Zamora
-3;27003;Tábara;Vacuno;1;1;1;1;1;5;Zamora
-4;27004;Alcañices;Lácteo;2;1;1;1;2;7;Zamora
-5;27005;Morales del Vino;Lácteo;2;2;1;1;2;8;Zamora
-6;27006;Fuentesaúco;Viña;2;1;1;1;2;7;Zamora
-7;27007;Toro;Viña;2;2;1;2;2;9;Zamora
-8;27008;Zamora;Dependientes;14;14;1;12;15;56;Zamora
-9;27009;Cubillos;Cereal;1;1;1;1;1;5;Zamora
-10;27010;Morales de Toro;Viña;1;1;1;1;2;6;Zamora
-11;27011;Villalpando;Cereal;1;1;1;2;2;7;Zamora
-12;27012;Barcial del Barco;Viña;1;1;1;1;1;5;Zamora
-13;27013;Benavente;Mecánicos;3;3;1;4;4;15;Zamora
-14;27014;Camarzana de Tera;Cerdo;1;1;1;1;1;5;Zamora
-15;27015;Sanabria;Lácteo;1;1;1;1;1;5;Zamora
-1;36001;Ateca;Fruta;1;1;1;2;2;7;Zaragoza
-2;36002;Villalenga;Viña;1;0;1;1;1;4;Zaragoza
-3;36003;Calcena;Cerdo;1;0;1;1;0;3;Zaragoza
-4;36004;Illueca;Operarios;3;1;1;2;2;9;Zaragoza
-5;36005;Calatayud;Hostelería;5;4;1;5;6;21;Zaragoza
-6;36006;Orera;Viña;1;0;1;1;1;4;Zaragoza
-7;36007;Maluenda;Fruta;1;1;1;1;1;5;Zaragoza
-8;36008;Daroca;Viña;1;1;1;1;2;6;Zaragoza
-9;36009;Cariñena;Viña;2;1;1;2;3;9;Zaragoza
-10;36010;Lécera;Empleados;0;1;1;1;0;3;Zaragoza
-11;36011;Belchite;Olivar;1;1;1;1;0;4;Zaragoza
-12;36012;Tarazona;Técnicos;2;2;1;3;3;11;Zaragoza
-13;36013;Campo de Borja;Viña;3;2;1;3;3;12;Zaragoza
-14;36014;Alagón;Operarios;4;4;1;5;6;20;Zaragoza
-15;36015;Épila;Cereal;2;2;1;3;2;10;Zaragoza
-16;36016;La Almunia;Fruta;4;3;1;4;5;17;Zaragoza
-17;36017;Muel;Mecánicos;1;1;1;1;0;4;Zaragoza
-18;36018;Cadrete;Cerdo;3;2;1;3;3;12;Zaragoza
-19;36019;Fuentes de Ebro;Cereal;1;1;1;1;1;5;Zaragoza
-20;36020;Garrapinillos;Técnicos;2;1;1;2;2;8;Zaragoza
-21;36021;Casablanca;Dependientes;10;5;;8;11;34;Zaragoza
-22;36022;San José;Empleados;34;28;;35;39;136;Zaragoza
-23;36023;Romareda;Universitarios;12;12;;12;15;51;Zaragoza
-24;36024;Valdefierro;Transportistas;11;7;;10;10;38;Zaragoza
-25;36025;El Pilar;Oficinistas;22;25;;23;26;96;Zaragoza
-26;36026;Delicias;Empleados;29;30;;29;31;119;Zaragoza
-27;36027;Rey Fernando;Hostelería;36;29;;31;33;129;Zaragoza
-28;36028;Santa Isabel;Operarios;3;3;1;4;3;14;Zaragoza
-29;36029;Utebo;Hortalizas;4;3;1;6;7;21;Zaragoza
-30;36030;Alfajarín;Cerdo;1;0;1;3;2;7;Zaragoza
-31;36031;Villanueva de Gállego;Cereal;2;1;1;2;2;8;Zaragoza
-32;36032;Zuera;Aves de Corral;2;1;1;2;2;8;Zaragoza
-33;36033;Ejea de los Caballeros;Cereal;5;6;1;7;7;26;Zaragoza
-34;36034;Luna;Vacuno;1;1;1;1;1;5;Zaragoza
-35;36035;Jacetania Baja;Madera;1;1;1;1;1;5;Zaragoza
-36;36036;Quinto;Cerdo;2;1;1;3;2;9;Zaragoza
-37;36037;Caspe;Operarios;2;1;1;2;2;8;Zaragoza
-38;36038;Fabara;Cerdo;1;1;1;1;2;6;Zaragoza
+1;50001;Mutriku;Energía;1;1;1;1;1;5;Guipúzcoa
+2;50002;Zarauz;Turismo;27;21;1;21;21;91;Guipúzcoa
+3;50003;Eibar;Operarios;6;5;1;6;8;26;Guipúzcoa
+4;50004;Mondragón;Técnicos;8;9;1;8;10;36;Guipúzcoa
+5;50005;Vergara;Operarios;7;6;1;6;7;27;Guipúzcoa
+6;50006;Goierri;Técnicos;15;14;1;17;15;62;Guipúzcoa
+7;50007;Tolosa;Vacuno;10;9;1;9;13;42;Guipúzcoa
+8;50008;Andoáin;Técnicos;10;9;1;10;9;39;Guipúzcoa
+9;50009;Hernani-Errentería;Empleados;18;14;1;15;17;65;Guipúzcoa
+10;50010;La Concha;Hostelería;25;25;;17;17;84;Guipúzcoa
+11;50011;Intxaurrondo;Turismo;27;20;;20;21;88;Guipúzcoa
+12;50012;Lezo;Energía;3;3;1;3;3;13;Guipúzcoa
+13;50013;Hondarribia;Pesca;3;3;1;4;5;16;Guipúzcoa
+14;50014;Irún;Transportistas;15;14;1;15;16;61;Guipúzcoa
+1;48001;Baztan;Vacuno;1;1;1;2;2;7;Pamplona
+2;48002;Lesaka;Operarios;4;2;1;3;3;13;Pamplona
+3;48003;Leitza-Ultzamaldea;Lácteo;3;3;1;3;3;13;Pamplona
+4;48004;Corredor de Alsasua;Vacuno;5;4;1;5;5;20;Pamplona
+5;48005;Yerri;Cereal;3;1;1;2;3;10;Pamplona
+6;48006;Estella;Hostelería;3;3;1;2;4;13;Pamplona
+7;48007;Montejurra;Cereal;2;1;1;4;4;12;Pamplona
+8;48008;Viana;Operarios;1;1;1;2;2;7;Pamplona
+9;48009;Noáin;Transportistas;11;6;1;8;8;34;Pamplona
+10;48010;Puente la Reina;Cereal;2;1;1;2;1;7;Pamplona
+11;48011;Tafalla;Operarios;2;2;1;3;2;10;Pamplona
+12;48012;Olite-Sangüesa;Vacuno;6;4;1;4;5;20;Pamplona
+13;48013;Auñamendi-Zaraitzu;Vacuno;2;1;1;2;2;8;Pamplona
+14;48014;Lodosa;Hortalizas;3;3;1;4;4;15;Pamplona
+15;48015;Peralta;Viña;6;5;1;5;6;23;Pamplona
+16;48016;Caparroso;Hortalizas;5;2;1;4;3;15;Pamplona
+17;48017;Tudela;Hortalizas;15;11;1;16;12;55;Pamplona
+18;48018;Cintruénigo;Hortalizas;9;5;1;7;7;29;Pamplona
+19;48019;Barañain;Operarios;9;12;1;12;11;45;Pamplona
+20;48020;Ansoain-Berriozar;Operarios;7;7;1;6;8;29;Pamplona
+21;48021;Arga;Oficinistas;29;22;;25;24;100;Pamplona
+22;48022;Ciudadela;Hostelería;25;25;;23;29;102;Pamplona
+23;48023;Burlada;Dependientes;6;6;1;6;6;25;Pamplona
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;

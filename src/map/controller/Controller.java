@@ -153,7 +153,7 @@ public class Controller {
 		// TODO Auto-generated method stub
 		gen.changeStateOwner(state,owner);
 	}
-	public void setSelectedProvince(int selectedIndex) {
+	public void setSelectedProvince(String selectedIndex) {
 		// TODO Auto-generated method stub
 		gen.setSelectedProvince(selectedIndex);
 	}

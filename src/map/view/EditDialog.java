@@ -87,7 +87,7 @@ public class EditDialog extends JDialog implements MapGenObserver {
 			public void actionPerformed(ActionEvent arg0) {
 				// TODO Auto-generated method stub
 				setFields();
-				ctrl.setSelectedProvince(provinces.getSelectedIndex());
+				ctrl.setSelectedProvince(((Province)provinces.getSelectedItem()).getName());
 			}
 
 			

@@ -170,17 +170,19 @@ public class MapGenerator implements Observable<MapGenObserver> {
 		}
 	}
 
-	public void setSelectedProvince(int selectedIndex) {
+	public void setSelectedProvince(String selectedIndex) {
 		// TODO Auto-generated method stub
-		if (selectedIndex != -1) {
+		if(!selectedIndex.equals("")) {
 			for (MapGenObserver observer : observers) {
 				observer.onSelection(provinces.get(selectedIndex));
 			}
-		} else {
+		}
+		else {
 			for (MapGenObserver observer : observers) {
 				observer.onSelection(null);
 			}
 		}
+		
 
 	}
 

@@ -98,10 +98,10 @@ public class ControlPanel extends JPanel implements MapGenObserver {
 				EditDialog dialog = new EditDialog(framedWindowEdit,_ctrl);
 				if(dialog.getStatus().equals(DialogStatus.ACCEPTED)) {
 					_ctrl.setProvince(dialog.getIndex(),dialog.getProvince());
-					_ctrl.setSelectedProvince(-1);
+					_ctrl.setSelectedProvince("");
 				}
 				else if(dialog.getStatus().equals(DialogStatus.CANCEL)) {
-					_ctrl.setSelectedProvince(-1);
+					_ctrl.setSelectedProvince("");
 				}
 			}
 			
