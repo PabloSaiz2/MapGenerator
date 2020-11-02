@@ -1,4 +1,4 @@
-652
+653
 O Carballiño
 Ourense
 Galicia
@@ -41,6 +41,13 @@ Riders
 2313 753 2305 2320 765 742
 VLL20;VLL16;VLL21;VLL18
 1 1 1 1 1
+Nueva Montaña
+Cantabria
+Cantabria
+Estibadores
+2526 191 2511 2535 200 172
+
+3 4 1 4 4
 VLL18
 Valladolid
 Valladolid
@@ -111,6 +118,13 @@ Riders
 2339 851 2294 2368 884 815
 VLL11;VLL9;VLL27;SG8
 1 1 1 1 1
+Valdenoja
+Cantabria
+Cantabria
+Universitarios
+2535 182 2527 2541 189 172
+
+4 4 0 3 5
 Portugalete_HE
 Bizkaia
 Euskadi
@@ -146,6 +160,13 @@ Operarios
 2750 265 2740 2755 271 256
 
 10 7 1 9 9
+Bembibre
+León
+León
+Minería
+1931 431 1870 1996 497 378
+Fabero;Ponferrada;Villablino;La Robla;Cabrera;Astorga;Carrizo de la Ribera
+6 5 1 7 7
 Guitiriz
 Lugo
 Galicia
@@ -235,7 +256,7 @@ Bizkaia
 Euskadi
 Riders
 2696 270 2670 2750 310 236
-EK4;EK6;CR1;CL1;EK28;EK32;EK34;EK35
+EK4;EK6;CL1;EK28;EK32;EK34;EK35;Castro Urdiales
 1 1 1 1 1
 EK2_HE
 Araba
@@ -263,7 +284,7 @@ Bizkaia
 Euskadi
 Riders
 2637 272 2612 2690 300 230
-EK3;CR1;CR2;CR3;CL1;Villaverde de Trucios
+EK3;CL1;Asón;Laredo;Castro Urdiales;Villaverde de Trucios
 1 1 1 1 1
 CL18
 Burgos
@@ -335,6 +356,13 @@ Riders
 2688 628 2626 2746 695 556
 CL14;LR11;CL12;CL30;CL31;S8
 1 1 1 1 1
+El Astillero
+Cantabria
+Cantabria
+Operarios
+2554 193 2520 2581 217 174
+Medio Cudeyo;Santoña;Piélagos;Camargo
+7 5 1 5 7
 CL12
 Burgos
 Burgos
@@ -424,7 +452,7 @@ Lugo
 Galicia
 Lácteo
 1765 360 1678 1830 453 270
-Castroverde;O Corgo;AS11;LN4;A Fonsagrada;Quiroga;O Inicio;Sarria
+Castroverde;O Corgo;A Fonsagrada;Quiroga;O Inicio;Sarria;Cangas del Narcea;Fabero
 2 2 1 2 2
 SG7
 Segovia
@@ -475,6 +503,13 @@ Riders
 2524 762 2494 2550 776 740
 CL10;CL7;CL8;CL9;CL28
 1 1 1 1 1
+Llano-Poniente
+Asturias
+Asturias
+Estibadores
+2102 153 2094 2108 160 143
+La Calzada-Sur;La Arena
+37 31 0 31 32
 CL28
 Burgos
 Burgos
@@ -545,6 +580,13 @@ Riders
 2732 441 2706 2757 458 412
 EK1;CL16;LR12
 1 1 1 1 1
+Almanza
+León
+León
+Cereal
+2250 451 2210 2287 508 369
+PL2;PL5;Riaño;Sahagún;Burgo Ranero
+1 1 1 1 1
 AVL9
 Ávila
 Ávila
@@ -587,12 +629,19 @@ Hostelería
 3150 1270 3093 3206 1300 1224
 AR66;AR68
 10 10 1 9 9
+AS17
+Asturias
+Asturias
+Riders
+2074 245 2048 2112 270 204
+Oviedo Este;Lena;Laviana;Langreo
+1 1 1 1 1
 BG1
 Burgos
 Burgos
 Riders
 2463 416 2400 2493 457 367
-CR4;CL4;CL3;PL1
+CL4;CL3;PL1;Reinosa
 1 1 1 1 1
 CL39
 Burgos
@@ -769,6 +818,20 @@ Viña
 1589 559 1533 1648 619 511
 Cartelle;Celanova-Bande;San Ciprán de Viñas;O Pereiro de Aguiar;Xinzo de Limia;Oimbra;Caldelas
 3 2 1 4 4
+Santa María
+León
+León
+Cereal
+2071 541 2027 2130 600 478
+Villarejo de Órbigo;La Bañeza;Villadangos;Alija del Infantado;Laguna de Negrillos;Villaturiel
+1 1 1 1 1
+Torrelavega
+Cantabria
+Cantabria
+Dependientes
+2476 260 2437 2515 323 186
+Liébana;Cabezón de la Sal;Reinosa;Asón;Medio Cudeyo;Piélagos
+21 21 1 21 24
 CL41
 Burgos
 Burgos
@@ -790,6 +853,13 @@ Riders
 2562 550 2551 2571 554 540
 CL38;CL37;CL31
 1 1 1 1 1
+Riaño
+León
+León
+Hostelería
+2254 338 2193 2328 421 236
+PL2;Laviana;Llanes-Ribadesella;Liébana;Boñar;Burgo Ranero;Almanza
+2 1 1 1 1
 Beja
 Portugal
 None
@@ -818,6 +888,13 @@ Riders
 1180 1652 1030 1760 1720 1615
 
 0 0 0 0 0
+San Andrés del Rabanedo
+León
+León
+Dependientes
+2091 448 2066 2111 462 422
+La Robla;Villadangos;Santo Domingo;San Marcos de León;Sariegos
+6 5 1 5 6
 IB12
 Islas Baleares
 Valencia
@@ -888,19 +965,33 @@ Riders
 4204 1526 4192 4215 1533 1505
 
 1 1 1 1 1
+Santo Domingo
+León
+León
+Oficinistas
+2119 457 2106 2126 464 447
+Bernesga;San Marcos de León;San Andrés del Rabanedo;Valdefresno
+10 10 0 9 11
+La Arena
+Asturias
+Asturias
+Profesionales
+2112 156 2103 2121 164 141
+Siero;La Calzada-Sur;Llano-Poniente;Villaviciosa
+12 10 0 9 11
 CL2
 Burgos
 Burgos
 Riders
 2566 354 2485 2618 440 272
-CL18;CL17;CR3;CR4;CL1;CL3
+CL18;CL17;CL1;CL3;Reinosa;Asón
 1 1 1 1 1
 CL1
 Burgos
 Burgos
 Riders
 2651 343 2578 2743 435 260
-EK1;EK3;EK4;CL17;CL16;CL2;CR3;EK35;EK36
+EK1;EK3;EK4;CL17;CL16;CL2;EK35;EK36;Asón
 1 1 1 1 1
 CL4
 Burgos
@@ -914,7 +1005,7 @@ Burgos
 Burgos
 Riders
 2524 434 2433 2580 480 364
-CL19;CL21;BG1;CL2;CL4;CR4
+CL19;CL21;BG1;CL2;CL4;Reinosa
 1 1 1 1 1
 CL6
 Burgos
@@ -1124,7 +1215,7 @@ Lugo
 Galicia
 Dependientes
 1743 154 1700 1789 200 116
-Foz;AS7;Mondoñedo;A Pontenova
+Foz;Mondoñedo;A Pontenova;Navia
 3 4 1 3 3
 PL17
 Palencia
@@ -1133,6 +1224,20 @@ Riders
 2355 656 2340 2367 672 642
 PL16;PL8;PL7
 1 1 1 1 1
+San Martín del Rey Aurelio
+Asturias
+Asturias
+Hostelería
+2113 232 2090 2142 260 205
+Laviana;Langreo;Siero;Villaviciosa
+3 4 1 3 3
+Marqués de Valdecilla
+Cantabria
+Cantabria
+Oficinistas
+2535 189 2526 2541 193 180
+
+19 17 0 19 19
 Rosell
 Castellón
 Valencia
@@ -1145,8 +1250,15 @@ A Coruña
 Galicia
 Oficinistas
 1409 335 1409 1409 335 335
-ACÑ1;Vedra-Boqueixon;San;Marcos;A;Barcala;Ames
+Vedra-Boqueixon;Ames;San Marcos;A Barcala
 19 18 1 20 20
+Villarejo de Órbigo
+León
+León
+Cereal
+2020 498 1989 2043 523 469
+Astorga;Carrizo de la Ribera;La Bañeza;Villadangos;Santa María
+1 1 1 2 2
 V21
 Valencia
 Valencia
@@ -1167,6 +1279,13 @@ Valencia
 Riders
 3313 1673 3281 3354 1711 1643
 
+1 1 1 1 1
+Sariegos
+León
+León
+Oficinistas
+2098 437 2078 2114 448 414
+La Robla;San Marcos de León;San Andrés del Rabanedo;Garrafe de Torio
 1 1 1 1 1
 V22
 Valencia
@@ -1238,6 +1357,13 @@ Riders
 3831 1621 3820 3842 1634 1610
 
 1 1 1 1 1
+Navia
+Asturias
+Asturias
+Lácteo
+1820 161 1740 1890 220 125
+Ribadeo;A Pontenova;Grandas de Salime;Cangas del Narcea;Valdés-Tineo
+7 6 1 8 8
 IB19
 Islas Baleares
 Valencia
@@ -1252,6 +1378,13 @@ Empleados
 2750 259 2743 2757 264 252
 EK29
 2 2 0 2 2
+Lena
+Asturias
+Asturias
+Turismo
+2045 256 1990 2075 280 188
+Llanera;Oviedo Oeste;Grado;Quirós;Laviana;Mieres
+2 3 1 2 2
 V30
 Valencia
 Valencia
@@ -1371,6 +1504,13 @@ Riders
 2396 554 2352 2434 601 487
 CL4;PL15;PL11;PL13;PL9;PL3
 1 1 1 1 1
+Medio Cudeyo
+Cantabria
+Cantabria
+Vacuno
+2535 234 2494 2586 264 202
+Torrelavega;Asón;Santoña;Laredo;Piélagos;El Astillero
+4 4 1 4 5
 Ponteareas
 Pontevedra
 Galicia
@@ -1378,13 +1518,6 @@ Vacuno
 1416 560 1361 1456 607 508
 Redondela;Tuy;O Porriño;Mos;A Cañiza;A Lama
 10 8 1 9 9
-LN332
-León
-León
-Riders
-2124 484 2086 2158 512 455
-LN23;LN30;LN10;LN21;LN28
-1 1 1 1 1
 Mondoñedo
 Lugo
 Galicia
@@ -1392,6 +1525,13 @@ Profesionales
 1700 170 1668 1727 200 129
 Burela-Xove;Foz;Ribadeo;Vilalba;Meira
 1 1 1 1 1
+Laviana
+Asturias
+Asturias
+Turismo
+2160 274 2057 2242 326 224
+Lena;Quirós;San Martín del Rey Aurelio;Mieres;Villaviciosa;Llanes-Ribadesella;Boñar;Riaño
+5 5 1 4 4
 EK20_HE
 Araba
 Euskadi
@@ -1460,7 +1600,7 @@ Bizkaia
 Euskadi
 Riders
 2702 237 2681 2726 253 214
-Portugalete;EK3;CR1;EK32
+Portugalete;EK3;EK32;Castro Urdiales
 1 1 1 1 1
 Muras-Orol
 Lugo
@@ -1511,6 +1651,13 @@ Dependientes
 1538 327 1485 1567 362 286
 Guitiriz;Arzúa;Curtis;Ulloa;Deza
 3 2 1 2 2
+Sardinero
+Cantabria
+Cantabria
+Finanzas
+2540 186 2536 2547 191 178
+
+17 15 0 12 14
 V45
 Valencia
 Valencia
@@ -1518,6 +1665,13 @@ Riders
 3275 1575 3233 3316 1610 1515
 
 1 1 1 1 1
+Reinosa
+Cantabria
+Cantabria
+Operarios
+2472 357 2428 2532 413 282
+BG1;CL2;CL3;PL2;PL1;Liébana;Torrelavega;Asón
+5 4 1 5 5
 V44
 Valencia
 Valencia
@@ -1587,6 +1741,13 @@ Euskadi
 Riders
 2848 273 2836 2858 284 260
 EK14;EK16;EK18;EK37
+1 1 1 1 1
+Villaturiel
+León
+León
+Cereal
+2124 484 2086 2158 512 455
+Villadangos;Santa María;Valencia de Don Juan;Bernesga;Valdefresno
 1 1 1 1 1
 EK14_HE
 Bizkaia
@@ -1663,7 +1824,7 @@ Lugo
 Galicia
 Viña
 1721 474 1640 1775 539 390
-Os Ancares;O Inicio;LN4;Monforte de Lemos;Caldelas;Trives;Valdeorras
+Os Ancares;O Inicio;Monforte de Lemos;Caldelas;Trives;Valdeorras;Fabero
 1 1 1 1 1
 M1
 Madrid
@@ -1679,6 +1840,13 @@ Riders
 2510 1224 2456 2556 1260 1199
 M1;M3
 1 1 1 1 1
+Valdés-Tineo
+Asturias
+Asturias
+Lácteo
+1907 185 1861 1970 282 126
+Navia;Cangas del Narcea;Cudillero;Pravia-Salas;Grado
+5 5 1 5 5
 M3
 Madrid
 Madrid
@@ -1735,6 +1903,34 @@ Riders
 2654 1202 2614 2697 1247 1147
 M5;M7;M10
 1 1 1 1 1
+Ribadeva
+Asturias
+Asturias
+Pesca
+2354 226 2324 2370 248 190
+Llanes-Ribadesella;Cangas de Onís;Liébana;San Vicente de la Barquera
+1 1 1 1 1
+Villaviciosa
+Asturias
+Asturias
+Licoreros
+2173 200 2110 2236 253 141
+Laviana;San Martín del Rey Aurelio;Siero;La Arena;Llanes-Ribadesella;Cangas de Onís
+8 8 1 10 10
+Carracedelo
+León
+León
+Madera
+1830 471 1746 1874 520 430
+Valdeorras;Fabero;Ponferrada;Cabrera
+4 4 1 4 4
+Alija del Infantado
+León
+León
+Cereal
+2073 598 2023 2123 639 575
+Z2;Z10;Z9;Santa Elena;Santa María;Valderas;Laguna de Negrillos
+1 1 1 1 1
 Castro Daire
 Portugal
 None
@@ -1742,20 +1938,6 @@ Riders
 1601 872 1304 1932 946 835
 
 0 0 0 0 0
-CR2
-Cantabria
-Cantabria
-Riders
-2615 236 2568 2654 263 185
-EK4;CR1;CR3;CR9;CR10
-1 1 1 1 1
-CR1
-Cantabria
-Cantabria
-Riders
-2660 227 2625 2693 246 196
-EK3;EK4;EK28;CR2
-1 1 1 1 1
 EK30_HE
 Bizkaia
 Euskadi
@@ -1763,26 +1945,12 @@ Riders
 2723 223 2710 2735 239 210
 Portugalete;Sestao;EK21;Erandio
 1 1 1 1 1
-CR4
-Cantabria
-Cantabria
-Riders
-2472 357 2428 2532 413 282
-BG1;CL2;CL3;CR3;CR5;CR8;PL2;PL1
-1 1 1 1 1
 EK31_HE
 Bizkaia
 Euskadi
 Riders
 2762 263 2749 2781 284 252
 EK5;EK29;EK16;EK34
-1 1 1 1 1
-CR3
-Cantabria
-Cantabria
-Riders
-2561 270 2485 2630 324 237
-EK4;CL2;CL1;CR2;CR4;CR8;CR9
 1 1 1 1 1
 EK32_HE
 Bizkaia
@@ -1798,13 +1966,6 @@ Riders
 2737 261 2723 2747 270 241
 
 1 1 1 1 1
-CR5
-Cantabria
-Cantabria
-Riders
-2380 286 2288 2476 357 227
-CR4;CR7;CR8;AS14;CR14;AS26;PL2;LN1
-1 1 1 1 1
 EK34_HE
 Bizkaia
 Euskadi
@@ -1812,26 +1973,12 @@ Riders
 2750 272 2714 2764 283 255
 EK3;EK5;EK31
 1 1 1 1 1
-CR8
-Cantabria
-Cantabria
-Riders
-2476 260 2437 2515 323 186
-CR4;CR3;CR5;CR7;CR9;CR12
-1 1 1 1 1
 EK35_HE
 Araba
 Euskadi
 Riders
 2706 315 2681 2732 351 283
 EK3;EK6;CL1
-1 1 1 1 1
-CR7
-Cantabria
-Cantabria
-Riders
-2443 232 2405 2481 282 197
-CR5;CR8;CR14
 1 1 1 1 1
 EK36_HE
 Araba
@@ -1846,13 +1993,6 @@ Euskadi
 Riders
 2894 270 2846 2950 322 222
 EK22;EK10;EK12;EK13;EK18
-1 1 1 1 1
-CR9
-Cantabria
-Cantabria
-Riders
-2535 234 2494 2586 264 202
-CR2;CR3;CR8;CR10;CR11;CR12
 1 1 1 1 1
 EK38_HE
 Bizkaia
@@ -1875,6 +2015,13 @@ Riders
 2834 824 2745 2910 884 763
 S5;S4;S12
 1 1 1 1 1
+Asón
+Cantabria
+Cantabria
+Lácteo
+2561 270 2485 2630 324 237
+EK4;CL2;CL1;Reinosa;Torrelavega;Medio Cudeyo;Laredo
+1 0 1 2 2
 S10
 Soria
 Soria
@@ -1894,7 +2041,7 @@ Palencia
 Palencia
 Riders
 2421 399 2367 2463 435 360
-BG1;CR4;PL2;PL3
+BG1;PL2;PL3;Reinosa
 1 1 1 1 1
 Boborás
 Ourense
@@ -1936,14 +2083,14 @@ Palencia
 Palencia
 Riders
 2354 370 2242 2446 432 305
-CR4;CR5;PL1;PL3;PL5;PL4;LN1;LN12
+PL1;PL3;PL5;PL4;Liébana;Reinosa;Riaño;Almanza
 1 1 1 1 1
 PL5
 Palencia
 Palencia
 Riders
 2301 478 2254 2380 547 393
-PL15;PL14;PL2;PL6;PL4;LN12;LN11
+PL15;PL14;PL2;PL6;PL4;Sahagún;Almanza
 1 1 1 1 1
 PL4
 Palencia
@@ -1964,7 +2111,7 @@ Palencia
 Palencia
 Riders
 2286 566 2220 2336 635 495
-PL12;PL14;PL13;PL5;PL7;LN11;VLL1
+PL12;PL14;PL13;PL5;PL7;VLL1;Sahagún
 1 1 1 1 1
 PL9
 Palencia
@@ -1987,6 +2134,13 @@ Riders
 2413 688 2302 2512 741 619
 VLL16;VLL15;CL5;CL8;CL7;PL16;PL17;PL7;PL9
 1 1 1 1 1
+Santa Elena
+León
+León
+Empleados
+1998 574 1920 2052 618 530
+Z2;Cabrera;La Bañeza;Alija del Infantado
+1 1 1 1 1
 VLL29
 Valladolid
 Valladolid
@@ -2000,13 +2154,6 @@ Valladolid
 Riders
 2258 868 2231 2280 890 838
 VLL26;VLL9;VLL7
-1 1 1 1 1
-AS19
-Asturias
-Asturias
-Riders
-2113 232 2090 2142 260 205
-AS2;AS3;AS13;AS18
 1 1 1 1 1
 VLL27
 Valladolid
@@ -2022,26 +2169,12 @@ Riders
 2248 824 2197 2277 863 772
 VLL29;VLL28;VLL27;VLL7;VLL6;VLL4;VLL23
 1 1 1 1 1
-AS17
-Asturias
-Asturias
-Riders
-2074 245 2048 2112 270 204
-AS13;AS16;AS18;AS25
-1 1 1 1 1
 VLL25
 Valladolid
 Valladolid
 Riders
 2344 786 2326 2362 802 762
 VLL18;VLL11;VLL24
-1 1 1 1 1
-AS18
-Asturias
-Asturias
-Riders
-2092 230 2070 2114 255 205
-AS19;AS17;AS3
 1 1 1 1 1
 VLL24
 Valladolid
@@ -2057,26 +2190,12 @@ Vacuno
 1578 349 1514 1623 412 286
 Guitiriz;Guntín;Melida;Chantada;Deza
 3 1 1 2 2
-AS15
-Asturias
-Asturias
-Riders
-1983 232 1923 2036 271 181
-AS6;AS12;AS16;AS22;AS23
-1 1 1 1 1
 VLL23
 Valladolid
 Valladolid
 Riders
 2284 784 2225 2309 814 729
 VLL17;VLL16;VLL11;VLL27;VLL26;VLL4;VLL21;VLL30;VLL31
-1 1 1 1 1
-AS16
-Asturias
-Asturias
-Riders
-2045 256 1990 2075 280 188
-AS17;AS15;AS4;AS12;AS13;AS24
 1 1 1 1 1
 VLL22
 Valladolid
@@ -2085,26 +2204,12 @@ Riders
 2307 766 2297 2312 772 753
 VLL30;VLL20;VLL21
 1 1 1 1 1
-AS13
-Asturias
-Asturias
-Riders
-2160 274 2057 2242 326 224
-AS19;AS17;AS16;AS2;AS12;AS14;LN1;LN2
-1 1 1 1 1
 VLL21
 Valladolid
 Valladolid
 Riders
 2303 756 2288 2312 783 743
 VLL19;VLL23;VLL22;VLL20
-1 1 1 1 1
-AS14
-Asturias
-Asturias
-Riders
-2270 240 2204 2383 287 186
-CR5;AS13;AS1;AS2;AS26;LN1
 1 1 1 1 1
 VLL20
 Valladolid
@@ -2113,27 +2218,13 @@ Riders
 2309 759 2300 2315 764 751
 VLL19;VLL22;VLL21
 1 1 1 1 1
-AS11
+Quirós
 Asturias
 Asturias
-Riders
-1871 282 1777 1951 356 182
-Os Ancares;AS6;AS7;AS10;AS12;LN3;LN4;A Fonsagrada
-1 1 1 1 1
-AS12
-Asturias
-Asturias
-Riders
+Lácteo
 2003 286 1924 2103 341 242
-AS15;AS16;AS13;AS11;LN3
-1 1 1 1 1
-AS10
-Asturias
-Asturias
-Riders
-1806 220 1762 1850 280 178
-AS11;AS7;A Fonsagrada
-1 1 1 1 1
+Cangas del Narcea;Lena;Grado;Laviana;Villablino
+2 1 1 1 1
 San Marcos
 A Coruña
 Galicia
@@ -2169,6 +2260,13 @@ Riders
 3592 1021 3567 3620 1050 986
 
 1 1 1 1 1
+Fabero
+León
+León
+Minería
+1861 396 1720 1954 454 306
+Os Ancares;Quiroga;Cangas del Narcea;Carracedelo;Ponferrada;Bembibre;Villablino
+6 4 1 7 6
 Ames
 A Coruña
 Galicia
@@ -2176,13 +2274,6 @@ Vacuno
 1377 360 1329 1417 403 313
 Tabeiro;Santiago de Compostela;Vedra-Boqueixon;Noia;A Barcala;Caldas;Rianxo
 16 15 1 16 19
-AS26
-Asturias
-Asturias
-Riders
-2354 226 2324 2370 248 190
-CR5;AS14;AS1;CR14
-1 1 1 1 1
 Sarria
 Lugo
 Galicia
@@ -2190,20 +2281,6 @@ Lácteo
 1669 375 1599 1739 425 327
 O Corgo;Os Ancares;Guntín;O Inicio;Chantada
 4 3 1 4 5
-AS24
-Asturias
-Asturias
-Riders
-2052 210 2036 2060 223 192
-AS16;AS4;AS25
-1 1 1 1 1
-AS25
-Asturias
-Asturias
-Riders
-2065 210 2052 2074 220 193
-AS17;AS24;AS3;AS4
-1 1 1 1 1
 VLL31
 Valladolid
 Valladolid
@@ -2211,40 +2288,12 @@ Riders
 2310 788 2290 2327 802 771
 VLL11;VLL24;VLL23;VLL30
 1 1 1 1 1
-AS22
-Asturias
-Asturias
-Riders
-2010 171 1977 2048 207 120
-AS15;AS4;AS8;AS9;AS23
-1 1 1 1 1
 VLL30
 Valladolid
 Valladolid
 Riders
 2310 776 2282 2326 785 741
 VLL18;VLL24;VLL23;VLL22;VLL31
-1 1 1 1 1
-AS23
-Asturias
-Asturias
-Riders
-1973 183 1924 2005 220 132
-AS15;AS22;AS6;AS8
-1 1 1 1 1
-AS20
-Asturias
-Asturias
-Riders
-2095 156 2083 2111 165 137
-AS3;AS21;AS9
-1 1 1 1 1
-AS21
-Asturias
-Asturias
-Riders
-2112 156 2103 2121 164 141
-AS20;AS3;AS2
 1 1 1 1 1
 A Cañiza
 Pontevedra
@@ -2267,6 +2316,13 @@ Riders
 3550 345 3503 3653 441 166
 
 0 0 0 0 0
+Ponferrada
+León
+León
+Operarios
+1881 483 1832 1921 524 431
+Fabero;Carracedelo;Bembibre;Cabrera
+12 13 1 14 14
 LR12
 La Rioja
 Brieva de Cameros
@@ -2294,6 +2350,13 @@ Aragón
 Riders
 3342 602 3327 3354 616 586
 AR13;AR17;AR19
+1 1 1 1 1
+Sahagún
+León
+León
+Dependientes
+2225 537 2173 2276 581 464
+PL5;PL6;VLL1;Valencia de Don Juan;Burgo Ranero;Almanza
 1 1 1 1 1
 AR19
 Huesca
@@ -2342,7 +2405,7 @@ Lugo
 Galicia
 Vacuno
 1744 204 1716 1770 230 172
-Ribadeo;AS7;Meira;A Fonsagrada
+Ribadeo;Meira;A Fonsagrada;Navia
 1 0 1 1 0
 AR15
 Huesca
@@ -2386,6 +2449,20 @@ Riders
 3418 781 3346 3466 854 677
 AR12;AR10;AR29;AR41;AR42
 1 1 1 1 1
+Castrillón
+Asturias
+Asturias
+Técnicos
+2010 171 1977 2048 207 120
+Cudillero;Pravia-Salas;Avilés;Llanera;Grado
+8 5 1 7 8
+Astorga
+León
+León
+Dependientes
+1981 495 1932 2016 538 452
+Bembibre;Cabrera;Carrizo de la Ribera;Villarejo de Órbigo;La Bañeza
+3 3 1 2 3
 SL16
 Salamanca
 Salamanca
@@ -2519,6 +2596,13 @@ Riders
 3265 472 3208 3316 518 413
 AR14;AR15;AR1;AR30
 1 1 1 1 1
+Cabrera
+León
+León
+Pesca
+1897 535 1802 1988 591 455
+Z1;Z2;Valdeorras;Carracedelo;Ponferrada;Bembibre;Astorga;La Bañeza;Santa Elena
+0 0 0 0 1
 AR9
 Huesca
 Aragón
@@ -2610,6 +2694,13 @@ Riders
 3440 635 3408 3482 702 570
 AR19;AR29;AR27;AR23;AR24;AR20
 1 1 1 1 1
+Laredo
+Cantabria
+Cantabria
+Pesca
+2615 236 2568 2654 263 185
+EK4;Asón;Medio Cudeyo;Santoña;Castro Urdiales
+7 5 1 6 7
 AR20
 Huesca
 Aragón
@@ -2617,6 +2708,13 @@ Riders
 3412 560 3340 3481 613 500
 AR19;AR16;AR17;AR2;AR21;AR22
 1 1 1 1 1
+Villadangos
+León
+León
+Transportistas
+2080 477 2020 2118 513 433
+La Robla;Carrizo de la Ribera;Villarejo de Órbigo;Santa María;Villaturiel;San Andrés del Rabanedo
+2 2 1 2 2
 IB2
 Islas Baleares
 Valencia
@@ -2673,13 +2771,6 @@ Riders
 2900 655 2821 2981 722 590
 S10;LR2;LR3;S2;S9
 1 1 1 1 1
-AS1
-Asturias
-Asturias
-Riders
-2290 207 2208 2371 230 168
-AS14;AS26;AS2
-1 1 1 1 1
 IB7
 Islas Baleares
 Valencia
@@ -2694,26 +2785,12 @@ Riders
 2984 724 2930 3024 785 648
 S10;S1;LR2;AR33;AR34;S3
 1 1 1 1 1
-AS2
-Asturias
-Asturias
-Riders
-2173 200 2110 2236 253 141
-AS19;AS13;AS14;AS21;AS1;AS3
-1 1 1 1 1
 S3
 Soria
 Soria
 Riders
 2930 804 2845 2994 908 743
 S10;S12;S2;AR35;AR36;S4
-1 1 1 1 1
-AS3
-Asturias
-Asturias
-Riders
-2094 190 2060 2131 224 146
-AS19;AS18;AS25;AS20;AS21;AS2;AS4;AS9
 1 1 1 1 1
 IB9
 Islas Baleares
@@ -2729,13 +2806,6 @@ Riders
 2883 910 2770 2970 961 832
 S11;S3;AR36;S5
 1 1 1 1 1
-AS4
-Asturias
-Asturias
-Riders
-2051 185 2025 2085 210 154
-AS16;AS24;AS25;AS22;AS3;AS9
-1 1 1 1 1
 S5
 Soria
 Soria
@@ -2750,26 +2820,12 @@ Riders
 2663 806 2581 2745 886 676
 CL12;CL11;CL10;SG1;SG2;S15;S5;S7
 1 1 1 1 1
-AS6
-Asturias
-Asturias
-Riders
-1907 185 1861 1970 282 126
-AS15;AS11;AS23;AS7;AS8
-1 1 1 1 1
 S7
 Soria
 Soria
 Riders
 2696 742 2670 2732 774 708
 CL12;S6;S8
-1 1 1 1 1
-AS7
-Asturias
-Asturias
-Riders
-1820 161 1740 1890 220 125
-Ribadeo;AS11;AS10;A Pontenova;AS6
 1 1 1 1 1
 S8
 Soria
@@ -2778,26 +2834,12 @@ Riders
 2751 695 2667 2817 768 600
 CL13;CL12;S13;S12;LR11;S7;S9;LR3
 1 1 1 1 1
-AS8
-Asturias
-Asturias
-Riders
-1972 145 1936 2002 167 122
-AS22;AS23;AS6
-1 1 1 1 1
 S9
 Soria
 Soria
 Riders
 2827 667 2777 2887 712 627
 S10;S13;S1;S8;LR3
-1 1 1 1 1
-AS9
-Asturias
-Asturias
-Riders
-2060 141 2031 2097 174 103
-AS22;AS20;AS3;AS4
 1 1 1 1 1
 AR38
 Zaragoza
@@ -2813,6 +2855,13 @@ Vacuno
 1594 505 1550 1638 544 455
 Allariz.Maceda;San Cristovo de Cea;Chantada;Ourense Norte;Ourense Sur;Caldelas
 2 2 1 3 4
+Llanera
+Asturias
+Asturias
+Operarios
+2051 185 2025 2085 210 154
+Castrillón;Avilés;Oviedo Oeste;Oviedo Este;Lena;Siero
+3 2 1 3 3
 AR39
 Zaragoza
 Aragón
@@ -2876,12 +2925,33 @@ Riders
 3160 594 3094 3245 710 448
 AR32;AR30;Navarra 10;Navarra 14;AR46;AR48
 1 1 1 1 1
+LN20
+León
+León
+Riders
+2010 536 1957 2051 566 490
+Cabrera;Astorga;Villarejo de Órbigo;Santa Elena;Santa María
+1 1 1 1 1
 Alentejo Sur
 Portugal
 None
 Riders
 1388 2150 1164 1620 2242 2026
 
+1 1 1 1 1
+Cangas de Onís
+Asturias
+Asturias
+Vacuno
+2290 207 2208 2371 230 168
+Villaviciosa;Llanes-Ribadesella;Ribadeva
+3 1 1 3 2
+Laguna de Negrillos
+León
+León
+Aves de Corral
+2109 558 2084 2126 602 516
+Santa María;Alija del Infantado;Valderas;Valencia de Don Juan
 1 1 1 1 1
 SL18
 Salamanca
@@ -2918,6 +2988,13 @@ Riders
 1273 1345 1063 1761 1410 1326
 
 0 0 0 0 0
+Carrizo de la Ribera
+León
+León
+Cereal
+1999 448 1934 2069 508 393
+Bembibre;La Robla;Astorga;Villarejo de Órbigo;Villadangos
+2 1 1 2 2
 AR45
 Zaragoza
 Aragón
@@ -3058,6 +3135,13 @@ Riders
 2241 896 2192 2274 937 834
 AVL1;VLL28;VLL26;VLL6;VLL8
 1 1 1 1 1
+Pravia-Salas
+Asturias
+Asturias
+Lácteo
+1973 183 1924 2005 220 132
+Valdés-Tineo;Cudillero;Castrillón;Grado
+3 2 1 3 3
 AR58
 Zaragoza
 Aragón
@@ -3086,6 +3170,13 @@ Riders
 3301 815 3278 3315 850 781
 AR41;AR40;AR58;AR88
 1 1 1 1 1
+Boñar
+León
+León
+Madera
+2165 345 2083 2224 400 287
+Laviana;Villablino;La Robla;Riaño;Burgo Ranero;Garrafe de Torio
+2 1 1 2 2
 AR54
 Zaragoza
 Aragón
@@ -3147,7 +3238,7 @@ A Coruña
 Galicia
 Pesca
 1331 362 1255 1365 420 336
-Finisterre;ACÑ6;A Barcala;Ames
+Finisterre;Ames;A Barcala;Ribeira
 5 4 1 5 5
 V2
 Castellon
@@ -3259,14 +3350,14 @@ Valladolid
 Valladolid
 Riders
 2221 598 2173 2272 650 542
-PL7;PL6;VLL2;VLL3;LN11;LN10
+PL7;PL6;VLL2;VLL3;Valencia de Don Juan;Sahagún
 1 1 1 1 1
 VLL2
 Valladolid
 Valladolid
 Riders
 2176 621 2138 2211 670 564
-VLL1;VLL3;Z9;LN9;LN10
+VLL1;VLL3;Z9;Valderas;Valencia de Don Juan
 1 1 1 1 1
 AR60
 Zaragoza
@@ -3289,6 +3380,13 @@ Riders
 2226 759 2145 2296 816 692
 VLL17;VLL29;VLL26;VLL23;VLL3;VLL5;Z8
 1 1 1 1 1
+La Calzada-Sur
+Asturias
+Asturias
+Empleados
+2095 156 2083 2111 165 137
+Avilés;Siero;Llano-Poniente;La Arena
+23 16 1 22 20
 VLL5
 Valladolid
 Valladolid
@@ -3297,12 +3395,19 @@ Riders
 VLL29;VLL6;VLL4;Z7;Z8
 1 1 1 1 1
 Ortegal
-
-
+A Coruña
+Galicia
 Pesca
 1586 97 1514 1648 137 26
 Muras-Orol;Narón;As Pontes de García Rodríguez;Viveiro
 4 3 1 4 4
+Cudillero
+Asturias
+Asturias
+Pesca
+1972 145 1936 2002 167 122
+Valdés-Tineo;Pravia-Salas;Castrillón
+1 1 1 1 1
 A Lama
 Pontevedra
 Galicia
@@ -3331,47 +3436,12 @@ Riders
 1471 1188 1228 1780 1260 1185
 
 0 0 0 0 0
-CR19
-Cantabria
-Cantabria
-Riders
-2535 189 2526 2541 193 180
-
-1 1 1 1 1
-CR18
-Cantabria
-Cantabria
-Riders
-2540 186 2536 2547 191 178
-
-1 1 1 1 1
-CR17
-Cantabria
-Cantabria
-Riders
-2535 182 2527 2541 189 172
-
-1 1 1 1 1
-CR16
-Cantabria
-Cantabria
-Riders
-2526 191 2511 2535 200 172
-
-1 1 1 1 1
 AR78
 Teruel
 Aragón
 Riders
 3232 1108 3170 3291 1195 1011
 AR69;AR64;AR70;AR71;AR77;AR79
-1 1 1 1 1
-CR15
-Cantabria
-Cantabria
-Riders
-2523 203 2512 2536 212 190
-CR11;CR12
 1 1 1 1 1
 Viana
 Ourense
@@ -3387,12 +3457,12 @@ Riders
 3164 1121 3090 3226 1191 1038
 AR65;AR66;AR64;AR78;AR80
 1 1 1 1 1
-CR14
-Cantabria
-Cantabria
-Riders
-2395 226 2356 2432 258 187
-CR5;CR7;AS26
+Burgo Ranero
+León
+León
+Cereal
+2185 429 2121 2240 537 354
+Boñar;Riaño;Valencia de Don Juan;Sahagún;Almanza;Garrafe de Torio;Valdefresno
 1 1 1 1 1
 AR76
 Teruel
@@ -3408,13 +3478,6 @@ Riders
 3918 402 3867 4053 510 166
 
 0 0 0 0 0
-CR12
-Cantabria
-Cantabria
-Riders
-2506 213 2471 2543 233 177
-CR8;CR9;CR15;CR11
-1 1 1 1 1
 AR77
 Teruel
 Aragón
@@ -3422,26 +3485,12 @@ Riders
 3258 1012 3190 3350 1127 908
 AR39;AR64;AR78;AR76;AR71;AR75
 1 1 1 1 1
-CR11
-Cantabria
-Cantabria
-Riders
-2554 193 2520 2581 217 174
-CR9;CR15;CR12;CR10
-1 1 1 1 1
 AR74
 Teruel
 Aragón
 Riders
 3412 942 3360 3474 978 894
 AR43;AR42;AR72;AR73;AR75
-1 1 1 1 1
-CR10
-Cantabria
-Cantabria
-Riders
-2587 202 2550 2633 236 164
-CR2;CR9;CR11
 1 1 1 1 1
 AR75
 Teruel
@@ -3492,6 +3541,27 @@ Operarios
 3397 1152 3367 3426 1186 1124
 V1;AR71
 1 1 1 1 1
+Garrafe de Torio
+León
+León
+Madera
+2126 410 2095 2147 437 374
+La Robla;Boñar;Burgo Ranero;Sariegos;Villaquilambre
+1 0 1 1 1
+Oviedo Este
+Asturias
+Asturias
+Dependientes
+2065 210 2052 2074 220 193
+Llanera;Oviedo Oeste;Mieres;Siero
+28 24 0 25 24
+La Robla
+León
+León
+Energía
+2065 397 1958 2138 471 329
+Bembibre;Villablino;Boñar;Carrizo de la Ribera;Villadangos;San Andrés del Rabanedo;Sariegos;Garrafe de Torio
+2 2 1 3 2
 O Porriño
 Pontevedra
 Galicia
@@ -3505,13 +3575,6 @@ Aragón
 Riders
 3192 757 3161 3222 784 725
 AR49;AR48
-1 1 1 1 1
-LN1
-León
-León
-Riders
-2254 338 2193 2328 421 236
-CR5;PL2;AS13;AS14;LN2;LN12;LN13
 1 1 1 1 1
 AR88
 Zaragoza
@@ -3527,13 +3590,6 @@ Riders
 3222 771 3210 3237 787 760
 AR63
 1 1 1 1 1
-LN3
-León
-León
-Riders
-2003 335 1888 2121 403 283
-AS11;AS12;LN2;LN4;LN17;LN15
-1 1 1 1 1
 Mos
 Pontevedra
 Galicia
@@ -3548,26 +3604,12 @@ Riders
 3213 745 3190 3233 762 718
 AR44;AR60
 1 1 1 1 1
-LN2
-León
-León
-Riders
-2165 345 2083 2224 400 287
-AS13;LN1;LN3;LN15;LN14;LN13
-1 1 1 1 1
 AR83
 Zaragoza
 Aragón
 Riders
 3228 762 3221 3234 767 753
 
-1 1 1 1 1
-LN5
-León
-León
-Riders
-1830 471 1746 1874 520 430
-LN4;LN6;LN18;Valdeorras
 1 1 1 1 1
 AR84
 Zaragoza
@@ -3576,26 +3618,12 @@ Riders
 3232 768 3228 3237 773 762
 AR63
 1 1 1 1 1
-LN4
-León
-León
-Riders
-1861 396 1720 1954 454 306
-Os Ancares;Quiroga;AS11;LN3;LN5;LN17;LN18
-1 1 1 1 1
 AR81
 Zaragoza
 Aragón
 Riders
 3252 757 3242 3268 770 747
 AR58;AR60
-1 1 1 1 1
-LN7
-León
-León
-Riders
-1998 574 1920 2052 618 530
-LN6;LN8;LN20;Z2
 1 1 1 1 1
 O Baixo Miño
 Pontevedra
@@ -3611,40 +3639,26 @@ Riders
 3237 764 3230 3243 767 755
 
 1 1 1 1 1
-LN6
-León
-León
-Riders
-1897 535 1802 1988 591 455
-LN5;LN7;LN18;LN19;LN20;LN17;Z1;Z2;Valdeorras
-1 1 1 1 1
-LN9
-León
-León
-Riders
-2135 606 2102 2161 648 559
-VLL2;LN8;LN10;LN22;Z9
-1 1 1 1 1
 Caldas
 Pontevedra
 Galicia
 Lácteo
 1389 425 1350 1432 463 375
-Tabeiro;Pontevedra;A Lama;O Salnès;Villagarcía de Arousa;Ames
+Tabeiro;Pontevedra;Ames;A Lama;O Salnès;Villagarcía de Arousa
 10 7 1 9 9
+Villaquilambre
+León
+León
+Técnicos
+2121 439 2109 2135 456 421
+San Marcos de León;Garrafe de Torio;Valdefresno
+3 4 1 4 3
 AR80
 Teruel
 Aragón
 Riders
 3186 1181 3164 3204 1198 1161
 AR69;AR66;AR79
-1 1 1 1 1
-LN8
-León
-León
-Riders
-2073 598 2023 2123 639 575
-LN7;LN9;LN22;LN21;Z2;Z10;Z9
 1 1 1 1 1
 Fene
 A Coruña
@@ -3660,34 +3674,13 @@ Estibadores
 1452 174 1445 1457 180 165
 Riazor-Ensanche;Oza-Viña
 6 5 0 7 5
-LN12
-León
-León
-Riders
-2250 451 2210 2287 508 369
-PL2;PL5;LN1;LN11;LN13
-1 1 1 1 1
-LN11
-León
-León
-Riders
-2225 537 2173 2276 581 464
-PL5;PL6;VLL1;LN12;LN10;LN13
-1 1 1 1 1
-LN10
-León
-León
-Riders
-2150 537 2104 2192 592 475
-LN332;VLL1;VLL2;LN9;LN11;LN22;LN13
-1 1 1 1 1
-LN16
-León
-León
-Riders
-1999 448 1934 2069 508 393
-LN15;LN31;LN19;LN17;LN23
-1 1 1 1 1
+Camargo
+Cantabria
+Cantabria
+Operarios
+2523 203 2512 2536 212 190
+Piélagos;El Astillero
+7 5 1 6 6
 Oza-Viña
 A Coruña
 Galicia
@@ -3695,48 +3688,13 @@ Dependientes
 1449 187 1428 1458 200 172
 Arteixo;Riazor-Ensanche;Culleredo;Monte Alto;Oleiros
 30 25 1 25 26
-LN15
+Villablino
 León
 León
-Riders
-2065 397 1958 2138 471 329
-LN3;LN2;LN16;LN14;LN17;LN23;LN24;LN25
-1 1 1 1 1
-LN14
-León
-León
-Riders
-2126 410 2095 2147 437 374
-LN2;LN15;LN13;LN25;LN27
-1 1 1 1 1
-LN13
-León
-León
-Riders
-2185 429 2121 2240 537 354
-LN1;LN2;LN12;LN11;LN10;LN14;LN30
-1 1 1 1 1
-LN19
-León
-León
-Riders
-1981 495 1932 2016 538 452
-LN6;LN16;LN20;LN17;LN31
-1 1 1 1 1
-LN18
-León
-León
-Riders
-1881 483 1832 1921 524 431
-LN5;LN4;LN6;LN17
-1 1 1 1 1
-LN17
-León
-León
-Riders
-1931 431 1870 1996 497 378
-LN3;LN4;LN6;LN16;LN15;LN19;LN18
-1 1 1 1 1
+Minería
+2003 335 1888 2121 403 283
+Cangas del Narcea;Quirós;Fabero;Bembibre;La Robla;Boñar
+2 2 1 3 3
 Vitoria Central_HE
 Araba
 Euskadi
@@ -3756,14 +3714,21 @@ Zamora
 Zamora
 Riders
 1835 606 1729 1930 677 535
-Viana;LN6;Z2;Z3;Valdeorras
+Viana;Z2;Z3;Valdeorras;Cabrera
 1 1 1 1 1
+Valencia de Don Juan
+León
+León
+Operarios
+2150 537 2104 2192 592 475
+VLL1;VLL2;Valderas;Laguna de Negrillos;Villaturiel;Sahagún;Burgo Ranero
+1 2 1 2 2
 Z2
 Zamora
 Zamora
 Riders
 1980 639 1870 2076 690 560
-LN7;LN6;LN8;Z1;Z10;Z12;Z11;Z3
+Z1;Z10;Z12;Z11;Z3;Cabrera;Santa Elena;Alija del Infantado
 1 1 1 1 1
 Z3
 Zamora
@@ -3819,7 +3784,7 @@ Zamora
 Zamora
 Riders
 2127 696 2034 2183 774 605
-VLL2;VLL3;LN9;LN8;Z8;Z10;Z11;Z14
+VLL2;VLL3;Z8;Z10;Z11;Z14;Alija del Infantado;Valderas
 1 1 1 1 1
 Mons
 France
@@ -3842,6 +3807,13 @@ Riders
 2646 1164 2598 2683 1190 1122
 M9;M11
 1 1 1 1 1
+Castro Urdiales
+Cantabria
+Cantabria
+Hostelería
+2660 227 2625 2693 246 196
+EK3;EK4;EK28;Laredo
+9 8 1 6 6
 M13
 Madrid
 Madrid
@@ -3849,6 +3821,13 @@ Riders
 2602 1090 2564 2642 1121 1058
 M14;M12
 1 1 1 1 1
+Cabezón de la Sal
+Cantabria
+Cantabria
+Operarios
+2443 232 2405 2481 282 197
+Liébana;San Vicente de la Barquera;Torrelavega
+4 3 1 5 5
 M12
 Madrid
 Madrid
@@ -3856,6 +3835,13 @@ Riders
 2628 1116 2566 2662 1150 1070
 M11;M13
 1 1 1 1 1
+Grandas de Salime
+Asturias
+Asturias
+Hidroeléctrica
+1806 220 1762 1850 280 178
+A Fonsagrada;Navia;Cangas del Narcea
+1 1 1 0 1
 Montpellier
 France
 None
@@ -3917,14 +3903,14 @@ Lugo
 Galicia
 Vacuno
 1767 269 1715 1838 340 191
-Castroverde;Os Ancares;AS11;AS10;A Pontenova;Meira
+Castroverde;Os Ancares;A Pontenova;Meira;Grandas de Salime;Cangas del Narcea
 1 1 1 2 1
 A Barcala
 A Coruña
 Galicia
 Vacuno
 1360 317 1302 1400 349 273
-Finisterre;Santiago de Compostela;San Marcos;Santa Comba;Noia;Ames
+Finisterre;Santiago de Compostela;San Marcos;Ames;Santa Comba;Noia
 2 2 1 2 2
 Saint-Girons
 France
@@ -3933,13 +3919,6 @@ Riders
 3724 344 3653 3867 481 166
 
 0 0 0 0 0
-LN31
-León
-León
-Riders
-2020 498 1989 2043 523 469
-LN16;LN19;LN20;LN23;LN21
-1 1 1 1 1
 San Sadurniño
 A Coruña
 Galicia
@@ -4015,7 +3994,7 @@ A Coruña
 Galicia
 Pesca
 1348 392 1326 1366 412 362
-ACÑ6;Villagarcía de Arousa;Ames
+Ames;Villagarcía de Arousa;Ribeira
 2 2 1 3 3
 SG17
 Segovia
@@ -4038,6 +4017,13 @@ Lácteo
 1597 435 1533 1672 517 355
 Guntín;O Inicio;Ulloa;Sarria;San Cristovo de Cea;Monforte de Lemos;O Pereiro de Aguiar;Caldelas;Deza
 4 2 1 5 5
+San Vicente de la Barquera
+Cantabria
+Cantabria
+Turismo
+2395 226 2356 2432 258 187
+Ribadeva;Liébana;Cabezón de la Sal
+2 2 1 1 1
 SG15
 Segovia
 Segovia
@@ -4052,34 +4038,6 @@ Riders
 2452 998 2423 2473 1026 971
 SG5;SG6;SG15
 1 1 1 1 1
-LN23
-León
-León
-Riders
-2080 477 2020 2118 513 433
-LN332;LN16;LN15;LN31;LN21;LN24
-1 1 1 1 1
-LN22
-León
-León
-Riders
-2109 558 2084 2126 602 516
-LN9;LN8;LN10;LN21
-1 1 1 1 1
-LN21
-León
-León
-Riders
-2071 541 2027 2130 600 478
-LN332;LN8;LN31;LN23;LN22;LN20
-1 1 1 1 1
-LN20
-León
-León
-Riders
-2010 536 1957 2051 566 490
-LN7;LN6;LN19;LN31;LN21
-1 1 1 1 1
 Narón
 A Coruña
 Galicia
@@ -4087,54 +4045,19 @@ Transportistas
 1534 111 1477 1579 162 73
 Ortegal;As Pontes de García Rodríguez;Fene;San Sadurniño
 9 7 1 9 9
-LN27
-León
-León
-Riders
-2121 439 2109 2135 456 421
-LN14;LN26;LN30
-1 1 1 1 1
-LN26
-León
-León
-Riders
-2112 450 2100 2119 460 438
-LN27;LN29;LN24;LN25
-1 1 1 1 1
-LN25
-León
-León
-Riders
-2098 437 2078 2114 448 414
-LN15;LN14;LN26;LN24
-1 1 1 1 1
-LN24
-León
-León
-Riders
-2091 448 2066 2111 462 422
-LN15;LN23;LN26;LN25;LN29
-1 1 1 1 1
+Santoña
+Cantabria
+Cantabria
+Pesca
+2587 202 2550 2633 236 164
+Medio Cudeyo;Laredo;El Astillero
+5 5 1 6 6
 LR1
 La Rioja
 Brieva de Cameros
 Riders
 2983 595 2932 3044 637 550
 Navarra 13;Navarra 16;LR2;LR3;LR4;LR5
-1 1 1 1 1
-LN29
-León
-León
-Riders
-2119 457 2106 2126 464 447
-LN26;LN24;LN28;LN30
-1 1 1 1 1
-LN28
-León
-León
-Riders
-2115 465 2095 2125 474 456
-LN332;LN29
 1 1 1 1 1
 LR3
 La Rioja
@@ -4148,7 +4071,7 @@ Ourense
 Galicia
 Viña
 1779 525 1691 1849 596 448
-Quiroga;Viana;LN5;LN6;Z1;Trives
+Quiroga;Viana;Z1;Trives;Carracedelo;Cabrera
 6 4 1 6 7
 LR2
 La Rioja
@@ -4192,13 +4115,27 @@ Riders
 2832 523 2805 2863 551 494
 EK20;LR13;LR3;LR6;LR9
 1 1 1 1 1
-LN30
+Avilés
+Asturias
+Asturias
+Operarios
+2060 141 2031 2097 174 103
+Castrillón;Llanera;Siero;La Calzada-Sur
+28 25 1 26 26
+Valderas
 León
 León
-Riders
-2138 453 2112 2160 486 417
-LN332;LN13;LN27;LN29
+Cereal
+2135 606 2102 2161 648 559
+VLL2;Z9;Alija del Infantado;Laguna de Negrillos;Valencia de Don Juan
 1 1 1 1 1
+Piélagos
+Cantabria
+Cantabria
+Empleados
+2506 213 2471 2543 233 177
+Torrelavega;Medio Cudeyo;Camargo;El Astillero
+11 12 1 9 10
 Ourense Norte
 Ourense
 Galicia
@@ -4220,6 +4157,13 @@ Riders
 2950 418 2878 3013 460 378
 EK7;Navarra 4;Navarra 11;Navarra 18;Navarra 19;Navarra 21;Navarra 22
 1 1 1 1 1
+Llanes-Ribadesella
+Asturias
+Asturias
+Turismo
+2270 240 2204 2383 287 186
+Laviana;Villaviciosa;Cangas de Onís;Ribadeva;Liébana;Riaño
+5 5 1 4 4
 Navarra 22_HE
 Navarra
 Navarra
@@ -4234,6 +4178,13 @@ Riders
 2943 371 2875 2990 408 296
 EK7;EK10;Navarra 20;Navarra 4
 1 1 1 1 1
+Cangas del Narcea
+Asturias
+Asturias
+Minería
+1871 282 1777 1951 356 182
+Os Ancares;A Fonsagrada;Navia;Grandas de Salime;Valdés-Tineo;Quirós;Fabero;Villablino
+4 3 1 4 5
 Navarra 15_HE
 Navarra
 Navarra
@@ -4276,6 +4227,13 @@ Riders
 2890 472 2837 2967 510 415
 EK7;EK20;LR14;LR6;Navarra 20;Navarra 17;Navarra 19
 1 1 1 1 1
+Liébana
+Cantabria
+Cantabria
+Turismo
+2380 286 2288 2476 357 227
+PL2;Llanes-Ribadesella;Ribadeva;San Vicente de la Barquera;Cabezón de la Sal;Reinosa;Torrelavega;Riaño
+3 2 1 2 2
 O Salnès
 Pontevedra
 Galicia
@@ -4325,6 +4283,20 @@ Turismo
 1361 509 1293 1392 538 456
 Redondela;Pontevedra
 19 21 1 22 22
+LN26
+León
+León
+Riders
+2112 450 2100 2119 460 438
+Santo Domingo;San Andrés del Rabanedo;Sariegos;Villaquilambre
+1 1 1 1 1
+Valdefresno
+León
+León
+Cereal
+2138 453 2112 2160 486 417
+Villaturiel;Burgo Ranero;Santo Domingo;Villaquilambre
+1 0 1 1 1
 Navarra 9_HE
 Navarra
 Navarra
@@ -4346,6 +4318,13 @@ Patatas
 1526 613 1450 1573 692 521
 Allariz.Maceda;Xinzo de Limia;A Cañiza;Ribadavia;Cartelle
 6 3 1 5 5
+Oviedo Oeste
+Asturias
+Asturias
+Oficinistas
+2052 210 2036 2060 223 192
+Llanera;Oviedo Este;Lena
+30 23 0 23 26
 Navarra 6_HE
 Navarra
 Navarra
@@ -4400,7 +4379,7 @@ A Coruña
 Galicia
 Pesca
 1319 393 1319 1319 393 393
-ACÑ5;Noia;Rianxo
+Noia;Rianxo
 14 9 1 14 12
 Ribadavia
 Ourense
@@ -4437,6 +4416,20 @@ Empleados
 1467 187 1451 1482 202 163
 Oza-Viña;Sada;Cambre
 8 5 1 8 8
+Bernesga
+León
+León
+Dependientes
+2115 465 2095 2125 474 456
+Villaturiel;Santo Domingo
+11 12 0 11 11
+Langreo
+Asturias
+Asturias
+Técnicos
+2092 230 2070 2114 255 205
+San Martín del Rey Aurelio;Mieres;Siero
+9 7 1 11 9
 Hondarribia_HE
 Gipuzkoa
 Euskadi
@@ -4458,6 +4451,13 @@ Oficinistas
 1631 267 1585 1671 303 220
 Guitiriz;Lugo;Vilalba;Castro de Rei
 3 1 1 2 5
+Grado
+Asturias
+Asturias
+Hidroeléctrica
+1983 232 1923 2036 271 181
+Valdés-Tineo;Pravia-Salas;Castrillón;Lena;Quirós
+2 2 1 2 3
 Castro de Rei
 Lugo
 Galicia
@@ -4484,7 +4484,7 @@ Pontevedra
 Galicia
 Pesca
 1358 412 1329 1390 435 383
-Caldas;O Salnès;Rianxo
+Caldas;Rianxo;O Salnès
 11 9 1 12 9
 Navarra 11_HE
 Navarra
@@ -4507,6 +4507,13 @@ Riders
 3008 541 2941 3058 601 482
 LR1;LR5;Navarra 14;Navarra 17;Navarra 12
 1 1 1 1 1
+Siero
+Asturias
+Asturias
+Lácteo
+2094 190 2060 2131 224 146
+Avilés;Llanera;Oviedo Este;San Martín del Rey Aurelio;Langreo;La Calzada-Sur;La Arena;Villaviciosa
+14 10 1 11 12
 Navarra 12_HE
 Navarra
 Navarra
@@ -4526,7 +4533,7 @@ Zamora
 Zamora
 Riders
 2082 638 2047 2108 667 598
-LN8;Z2;Z9;Z11
+Z2;Z9;Z11;Alija del Infantado
 1 1 1 1 1
 Z12
 Zamora
