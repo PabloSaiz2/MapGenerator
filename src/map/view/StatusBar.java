@@ -1,6 +1,7 @@
 package map.view;
 
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 import javax.swing.JLabel;
@@ -18,13 +19,13 @@ public class StatusBar extends JPanel implements MapGenObserver{
 		ctrl.addObserver(this);
 	}
 	@Override
-	public void onProvinceAdded(List<Province> provinces,Province prov) {
+	public void onProvinceAdded(Map<String,Province> provinces,Province prov) {
 		// TODO Auto-generated method stub
 		msgLabel.setText("Province added: "+prov.getName());
 	}
 
 	@Override
-	public void onConnectionAdded(int indexProv, int indexAdj, int x1, int y1, int x2, int y2) {
+	public void onConnectionAdded(String indexProv, String indexAdj, int x1, int y1, int x2, int y2) {
 		// TODO Auto-generated method stub
 		
 	}
@@ -36,7 +37,7 @@ public class StatusBar extends JPanel implements MapGenObserver{
 	}
 
 	@Override
-	public void onReset(List<Province> provinces, Set<String> nations) {
+	public void onReset(Map<String,Province> provinces, Set<String> nations) {
 		// TODO Auto-generated method stub
 		
 	}
@@ -47,12 +48,12 @@ public class StatusBar extends JPanel implements MapGenObserver{
 		
 	}
 	@Override
-	public void onRegister(List<Province> provinces, Set<String> nations) {
+	public void onRegister(Map<String,Province> provinces, Set<String> nations) {
 		// TODO Auto-generated method stub
 		
 	}
 	@Override
-	public void onProvinceDeleted(Province prov,List<Province> provinces) {
+	public void onProvinceDeleted(Province prov,Map<String,Province> provinces) {
 		// TODO Auto-generated method stub
 		msgLabel.setText("Province deleted: " +prov.getName());
 	}
@@ -62,7 +63,12 @@ public class StatusBar extends JPanel implements MapGenObserver{
 		
 	}
 	@Override
-	public void onProvinceEdited(List<Province> provinces) {
+	public void onProvinceEdited(Map<String,Province> provinces) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void onSelection(Province province) {
 		// TODO Auto-generated method stub
 		
 	}

@@ -10,6 +10,7 @@ import java.util.List;
 
 import javax.swing.BoxLayout;
 import javax.swing.JButton;
+import javax.swing.JCheckBox;
 import javax.swing.JComponent;
 import javax.swing.JDialog;
 import javax.swing.JFrame;
@@ -23,7 +24,8 @@ import map.model.Province;
 
 public class ProvinceDialog extends JDialog{
 	DialogStatus status;
-	JTextField name,state,owner;
+	JTextField name,state,owner,resource;
+	JCheckBox inHECheck;
 	JSpinner xCenter,yCenter,xStart,xEnd,yStart,yEnd,devBI,devI,devC,devO,devS;
 	public ProvinceDialog(JFrame ventana,int rectXStart,int rectXEnd,int rectYStart,int rectYEnd,int x,int y) {
 		super(ventana,"Province adder",true);
@@ -50,13 +52,13 @@ public class ProvinceDialog extends JDialog{
 		return p;
 	}
 	public Province getProvince() {
-		return new Province(name.getText(),state.getText(),owner.getText(),
+		return new Province(name.getText(),state.getText(),owner.getText(),resource.getText(),
 				(Integer)devBI.getValue(),(Integer)devC.getValue(),(Integer)devI.getValue(),(Integer)devO.getValue(),(Integer)devS.getValue(),(Integer)xCenter.getValue(),(Integer)yCenter.getValue(),
-				(Integer)xStart.getValue(),(Integer)xEnd.getValue(),(Integer)yStart.getValue(),(Integer)yEnd.getValue());
+				(Integer)xStart.getValue(),(Integer)xEnd.getValue(),(Integer)yStart.getValue(),(Integer)yEnd.getValue(),inHECheck.isSelected());
 	}
 	private void initGUI() {
 		// TODO Auto-generated method stub
-		JPanel mainPanel = new JPanel(new GridLayout(10,1));
+		JPanel mainPanel = new JPanel(new GridLayout(12,1));
 		this.add(mainPanel);
 		
 		name = new JTextField();
@@ -76,6 +78,12 @@ public class ProvinceDialog extends JDialog{
 		componentsToAdd.add(new JLabel("Owner"));
 		componentsToAdd.add(owner);
 		owner.setToolTipText("The owner of the province");
+		mainPanel.add(createSidePanel(componentsToAdd));
+		componentsToAdd.clear();
+		resource = new JTextField();
+		componentsToAdd.add(new JLabel("Resource"));
+		componentsToAdd.add(resource);
+		resource.setToolTipText("The resource gathered in the province");
 		mainPanel.add(createSidePanel(componentsToAdd));
 		componentsToAdd.clear();
 		mainPanel.add(new JLabel("Center"));
@@ -129,6 +137,10 @@ public class ProvinceDialog extends JDialog{
 		componentsToAdd.add(devI);
 		componentsToAdd.add(devO);
 		componentsToAdd.add(devS);
+		mainPanel.add(createSidePanel(componentsToAdd));
+		componentsToAdd.clear();
+		this.inHECheck = new JCheckBox("In HE?");
+		componentsToAdd.add(inHECheck);
 		mainPanel.add(createSidePanel(componentsToAdd));
 		componentsToAdd.clear();
 		JButton ok = new JButton("Ok");

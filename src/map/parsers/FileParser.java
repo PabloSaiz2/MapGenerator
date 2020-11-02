@@ -18,25 +18,28 @@ public class FileParser {
 		return size;
 	}
 
-	public static Pair<List<Province>, List<Pair<Integer, Integer>>> parseFile(BufferedReader input)
+	public static Pair<List<Province>, List<Pair<String, String>>> parseFile(BufferedReader input)
 			throws NumberFormatException, IOException {
 		int numProvinces;
 		numProvinces = Integer.parseInt(input.readLine());
 		List<Province> provinces = new ArrayList<Province>();
-		List<Pair<Integer, Integer>> connections = new ArrayList<Pair<Integer, Integer>>();
+		List<Pair<String, String>> connections = new ArrayList<Pair<String, String>>();
 		for (int i = 0; i < numProvinces; ++i) {
 			String name;
 			String state;
 			String owner;
+			String resource;
 			String sizeString;
-			int xCenter=0, yCenter=0, xStart=0, yStart=0, xEnd=0, yEnd=0;
+			int xCenter = 0, yCenter = 0, xStart = 0, yStart = 0, xEnd = 0, yEnd = 0;
 
 			String connectionsString;
 			String developmentString;
 			name = input.readLine();
 			state = input.readLine();
 			owner = input.readLine();
+			resource = input.readLine();
 			sizeString = input.readLine();
+			//System.out.println(name);
 			List<Integer> parsedSizes = parseSize(sizeString);
 			if (parsedSizes.size() == 6) {
 				xCenter = parsedSizes.get(0);
@@ -47,13 +50,17 @@ public class FileParser {
 				yEnd = parsedSizes.get(5);
 			} else
 				throw new IllegalArgumentException("Sizes string is wrong");
-			
+
 			connectionsString = input.readLine();
-			List<Pair<Integer,Integer>> parsedConnections = parseConnections(connectionsString,i);
-			for(Pair<Integer,Integer>connection:parsedConnections)
+			List<Pair<String, String>> parsedConnections;
+			if(name.split("_").length==2&&name.split("_")[1].equals("HE"))
+				parsedConnections = parseConnections(connectionsString, name.split("_")[0]);
+			else
+				parsedConnections = parseConnections(connectionsString, name);
+			for (Pair<String, String> connection : parsedConnections)
 				connections.add(connection);
 			developmentString = input.readLine();
-			int devBI,devC,devI,devO,devS;
+			int devBI, devC, devI, devO, devS;
 			List<Integer> parsedDevelopments = parseDevelopments(developmentString);
 			if (parsedDevelopments.size() == 5) {
 				devBI = parsedDevelopments.get(0);
@@ -62,11 +69,20 @@ public class FileParser {
 				devO = parsedDevelopments.get(3);
 				devS = parsedDevelopments.get(4);
 			} else
-				throw new IllegalArgumentException("Sizes string is wrong");
-			Province currentProv = new Province(name,state,owner,devBI,devC,devI,devO,devS,xCenter,yCenter,xStart,xEnd,yStart,yEnd);
-			provinces.add(currentProv);
+				throw new IllegalArgumentException("Development string is wrong");
+			String[] nameSplitted = name.split("_");
+			if (nameSplitted.length == 2 && nameSplitted[1].equals("HE")) {
+				Province currentProv = new Province(nameSplitted[0], state, owner, resource, devBI, devC, devI, devO,
+						devS, xCenter, yCenter, xStart, xEnd, yStart, yEnd, true);
+				provinces.add(currentProv);
+			} else {
+				Province currentProv = new Province(name, state, owner, resource, devBI, devC, devI, devO, devS,
+						xCenter, yCenter, xStart, xEnd, yStart, yEnd, false);
+				provinces.add(currentProv);
+			}
+
 		}
-		Pair<List<Province>, List<Pair<Integer, Integer>>> provincesAndConnections = new Pair<List<Province>, List<Pair<Integer, Integer>>>(
+		Pair<List<Province>, List<Pair<String, String>>> provincesAndConnections = new Pair<List<Province>, List<Pair<String, String>>>(
 				provinces, connections);
 		return provincesAndConnections;
 	}
@@ -80,12 +96,14 @@ public class FileParser {
 		return developments;
 	}
 
-	private static List<Pair<Integer, Integer>> parseConnections(String line,int currentProv) {
-		List<Pair<Integer,Integer>> connections = new ArrayList<Pair<Integer,Integer>>();
-		String[] connectionsStrings = line.trim().split(" ");
-		for (String indexAdj : connectionsStrings) {
-			if(!indexAdj.equals(""))
-				connections.add(new Pair<Integer,Integer>(currentProv,Integer.parseInt(indexAdj)));
+	private static List<Pair<String, String>> parseConnections(String line, String currentProv) {
+		List<Pair<String, String>> connections =new ArrayList<Pair<String, String>>();
+		if (!line.trim().equals("")) {
+		   
+			String[] connectionsStrings = line.trim().split(";");
+			for (String indexAdj : connectionsStrings) {
+				connections.add(new Pair<String, String>(currentProv, indexAdj));
+			}
 		}
 		return connections;
 	}

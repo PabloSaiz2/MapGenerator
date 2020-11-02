@@ -6,9 +6,11 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 import javax.swing.JButton;
+import javax.swing.JCheckBox;
 import javax.swing.JComboBox;
 import javax.swing.JComponent;
 import javax.swing.JDialog;
@@ -26,7 +28,8 @@ import map.model.Province;
 public class EditDialog extends JDialog implements MapGenObserver {
 	private DialogStatus status;
 	private JComboBox provinces;
-	private JTextField name, state, owner;
+	private JCheckBox inHECheck;
+	private JTextField name, state, owner,resource;
 	private JSpinner xCenter, yCenter, xStart, xEnd, yStart, yEnd, devBI, devI, devC, devO, devS;
 
 	public EditDialog(JFrame ventana, Controller ctrl) {
@@ -34,7 +37,7 @@ public class EditDialog extends JDialog implements MapGenObserver {
 		this.setPreferredSize(new Dimension(200, 500));
 		this.setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
 		status = DialogStatus.WAITING;
-		initGUI();
+		initGUI(ctrl);
 		this.pack();
 		ctrl.addObserver(this);
 		this.setVisible(true);
@@ -57,6 +60,7 @@ public class EditDialog extends JDialog implements MapGenObserver {
 		name.setText(prov.getName());
 		state.setText(prov.getState());
 		owner.setText(prov.getOwner());
+		resource.setText(prov.getLocalResource());
 		xCenter.setValue((Integer)prov.getxCenter());
 		yCenter.setValue((Integer)prov.getyCenter());
 		xStart.setValue((Integer)prov.getxStart());
@@ -68,10 +72,11 @@ public class EditDialog extends JDialog implements MapGenObserver {
 		devI.setValue((Integer)prov.getDevelopmentI());
 		devO.setValue((Integer)prov.getDevelopmentO());
 		devS.setValue((Integer)prov.getDevelopmentS());
+		inHECheck.setSelected(prov.isInHE());
 	}
-	private void initGUI() {
+	private void initGUI(Controller ctrl) {
 		// TODO Auto-generated method stub
-		JPanel mainPanel = new JPanel(new GridLayout(11, 1));
+		JPanel mainPanel = new JPanel(new GridLayout(13, 1));
 		this.add(mainPanel);
 		provinces = new JComboBox();
 		provinces.addActionListener(new ActionListener() {
@@ -80,6 +85,7 @@ public class EditDialog extends JDialog implements MapGenObserver {
 			public void actionPerformed(ActionEvent arg0) {
 				// TODO Auto-generated method stub
 				setFields();
+				ctrl.setSelectedProvince(provinces.getSelectedIndex());
 			}
 
 			
@@ -103,6 +109,12 @@ public class EditDialog extends JDialog implements MapGenObserver {
 		componentsToAdd.add(new JLabel("Owner"));
 		componentsToAdd.add(owner);
 		owner.setToolTipText("The owner of the province");
+		mainPanel.add(createSidePanel(componentsToAdd));
+		componentsToAdd.clear();
+		resource = new JTextField();
+		componentsToAdd.add(new JLabel("Resource"));
+		componentsToAdd.add(resource);
+		resource.setToolTipText("The resource gathered in the province");
 		mainPanel.add(createSidePanel(componentsToAdd));
 		componentsToAdd.clear();
 		mainPanel.add(new JLabel("Center"));
@@ -158,6 +170,10 @@ public class EditDialog extends JDialog implements MapGenObserver {
 		componentsToAdd.add(devS);
 		mainPanel.add(createSidePanel(componentsToAdd));
 		componentsToAdd.clear();
+		this.inHECheck = new JCheckBox("In HE?");
+		componentsToAdd.add(inHECheck);
+		mainPanel.add(createSidePanel(componentsToAdd));
+		componentsToAdd.clear();
 		JButton ok = new JButton("Ok");
 
 		ok.addActionListener(new ActionListener() {
@@ -188,74 +204,82 @@ public class EditDialog extends JDialog implements MapGenObserver {
 		mainPanel.add(createSidePanel(componentsToAdd));
 	}
 	public Province getProvince() {
-		Province prov =new Province(name.getText(),state.getText(),owner.getText(),
+		Province prov =new Province(name.getText(),state.getText(),owner.getText(),resource.getText(),
 				(Integer)devBI.getValue(),(Integer)devC.getValue(),(Integer)devI.getValue(),(Integer)devO.getValue(),(Integer)devS.getValue(),(Integer)xCenter.getValue(),(Integer)yCenter.getValue(),
-				(Integer)xStart.getValue(),(Integer)xEnd.getValue(),(Integer)yStart.getValue(),(Integer)yEnd.getValue()); 
+				(Integer)xStart.getValue(),(Integer)xEnd.getValue(),(Integer)yStart.getValue(),(Integer)yEnd.getValue(),inHECheck.isSelected()); 
 		String adjacency = ((Province)provinces.getSelectedItem()).getAdjacencyString();
 		for(String adj:adjacency.trim().split(" ")) {
-			if(!adj.equals(""))
-				prov.addAdjacency(Integer.parseInt(adj));
+				prov.addAdjacency(adj);
 		}
 		return prov;
 	}
-	@Override
-	public void onProvinceAdded(List<Province> provinces, Province prov) {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void onConnectionAdded(int indexProv, int indexAdj, int x1, int y1, int x2, int y2) {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void onConnectionDelete(int x1, int y1, int x2, int y2) {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void onNationAdded(String nation) {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void onProvinceDeleted(Province prov, List<Province> provinces) {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void onRegister(List<Province> provinces, Set<String> nations) {
-		// TODO Auto-generated method stub
-		for (Province prov : provinces)
-			this.provinces.addItem(prov);
-	}
-
-	@Override
-	public void onReset(List<Province> provinces, Set<String> nations) {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void onError(String err) {
-		// TODO Auto-generated method stub
-
-	}
-
+	
 	public DialogStatus getStatus() {
 		// TODO Auto-generated method stub
 		return status;
 	}
 
 	@Override
-	public void onProvinceEdited(List<Province> provinces) {
+	public void onProvinceAdded(Map<String, Province> provinces, Province prov) {
 		// TODO Auto-generated method stub
 		
 	}
+
+	@Override
+	public void onConnectionAdded(String indexProv, String indexAdj, int x1, int y1, int x2, int y2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onConnectionDelete(int x1, int y1, int x2, int y2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onNationAdded(String nation) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onProvinceEdited(Map<String, Province> provinces) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onProvinceDeleted(Province prov, Map<String, Province> provinces) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onRegister(Map<String, Province> provinces, Set<String> nations) {
+		// TODO Auto-generated method stub
+		for (Province prov : provinces.values())
+			this.provinces.addItem(prov);
+	}
+
+	@Override
+	public void onReset(Map<String, Province> provinces, Set<String> nations) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onError(String err) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onSelection(Province province) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
 
 }

@@ -5,6 +5,7 @@ import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
 import javax.swing.JButton;
@@ -47,51 +48,19 @@ public class DeleteDialog extends JDialog implements MapGenObserver{
 		
 		
 	}
-	public int getIndex() {
-		return provinces.getSelectedIndex();
+	public String getName() {
+		return (String)provinces.getSelectedItem();
 	}
 	public DialogStatus getStatus() {
 		return status;
 	}
 	@Override
-	public void onProvinceAdded(List<Province> provinces, Province prov) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void onConnectionAdded(int indexProv, int indexAdj, int x1, int y1, int x2, int y2) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void onNationAdded(String nation) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void onRegister(List<Province> provinces, Set<String> nations) {
-		// TODO Auto-generated method stub
-		for(Province prov:provinces) {
-			this.provinces.addItem(prov.getName());
-		}
-	}
-
-	@Override
-	public void onReset(List<Province> provinces, Set<String> nations) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	public void onError(String err) {
+	public void onProvinceAdded(Map<String, Province> provinces, Province prov) {
 		// TODO Auto-generated method stub
 		
 	}
 	@Override
-	public void onProvinceDeleted(Province prov,List<Province> provinces) {
+	public void onConnectionAdded(String indexProv, String indexAdj, int x1, int y1, int x2, int y2) {
 		// TODO Auto-generated method stub
 		
 	}
@@ -101,9 +70,41 @@ public class DeleteDialog extends JDialog implements MapGenObserver{
 		
 	}
 	@Override
-	public void onProvinceEdited(List<Province> provinces) {
+	public void onNationAdded(String nation) {
 		// TODO Auto-generated method stub
 		
 	}
-
+	@Override
+	public void onProvinceEdited(Map<String, Province> provinces) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void onProvinceDeleted(Province prov, Map<String, Province> provinces) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void onRegister(Map<String, Province> provinces, Set<String> nations) {
+		// TODO Auto-generated method stub
+		for(Province prov:provinces.values()) {
+			this.provinces.addItem(prov.getName());
+		}
+	}
+	@Override
+	public void onReset(Map<String, Province> provinces, Set<String> nations) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void onError(String err) {
+		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void onSelection(Province province) {
+		// TODO Auto-generated method stub
+		
+	}
+	
 }

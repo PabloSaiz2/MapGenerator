@@ -1,0 +1,365 @@
+52
+Zamora
+Castilla y León
+Castilla y León
+Recurso
+354 203 275 407 244 133
+León;Valladolid;Salamanca;Ourense
+1 1 1 1 1
+Burgos
+Castilla y León
+Castilla y León
+Recurso
+484 139 422 551 225 68
+Bizkaia;Araba;Logroño;Santander;Palencia;Valladolid;Segovia;Soria
+1 1 1 1 1
+Córdoba
+Andalucía
+Andalucía
+Recurso
+418 469 342 462 544 387
+Granada;Badajoz;Sevilla;Málaga;Jaén;Ciudad Real
+1 1 1 1 1
+Bizkaia
+La Rioja-Navarra-Euskadi
+Euskadi
+Recurso
+531 74 474 557 99 45
+Burgos;Gipuzkoa;Araba;Santander
+1 1 1 1 1
+León
+Castilla y León
+Castilla y León
+Recurso
+358 129 270 431 196 66
+Zamora;Asturias;Ourense;Santander;Palencia;Valladolid;Lugo
+1 1 1 1 1
+Lleida
+Cataluña
+Cataluña
+Recurso
+747 168 680 802 246 75
+Huesca;Zaragoza;Barcelona;Girona;Tarragona
+1 1 1 1 1
+Albacete
+La Mancha
+La Mancha
+Recurso
+578 414 509 647 479 359
+Cuenca;Valencia;Alicante;Murcia;Jaén;Ciudad Real
+1 1 1 1 1
+Cáceres
+Extremadura
+Extremadura
+Recurso
+338 347 215 422 407 259
+Salamanca;Ávila;Toledo;Badajoz
+1 1 1 1 1
+Girona
+Cataluña
+Cataluña
+Recurso
+844 163 773 884 220 104
+Lleida;Barcelona
+1 1 1 1 1
+Alicante
+Valencia
+Valencia
+Recurso
+648 442 605 705 508 393
+Albacete;Valencia;Murcia
+1 1 1 1 1
+Guadalajara
+La Mancha
+La Mancha
+Recurso
+536 259 465 608 319 205
+Soria;Segovia;Zaragoza;Teruel;Madrid;Cuenca
+1 1 1 1 1
+Castellón
+Valencia
+Valencia
+Recurso
+679 309 622 722 362 242
+Tarragona;Teruel;Valencia
+1 1 1 1 1
+Logroño
+La Rioja-Navarra-Euskadi
+La Rioja
+Recurso
+546 151 495 605 193 110
+Burgos;Soria;Navarra;Araba;Zaragoza
+1 1 1 1 1
+Pontevedra
+Cantabria-Galicia-Asturias
+Galicia
+Recurso
+204 125 159 242 184 100
+A Coruña;Ourense;Lugo
+1 1 1 1 1
+Jaén
+Andalucía
+Andalucía
+Recurso
+493 471 419 552 522 406
+Córdoba;Albacete;Granada;Ciudad Real
+1 1 1 1 1
+Teruel
+Aragón
+Aragón
+Recurso
+636 281 573 706 338 202
+Guadalajara;Castellón;Tarragona;Zaragoza;Cuenca;Valencia
+1 1 1 1 1
+Barcelona
+Cataluña
+Cataluña
+Recurso
+801 196 755 854 261 123
+Lleida;Girona;Tarragona;Menorca
+1 1 1 1 1
+Araba
+La Rioja-Navarra-Euskadi
+Euskadi
+Recurso
+536 103 485 571 144 65
+Burgos;Bizkaia;Logroño;Gipuzkoa;Navarra
+1 1 1 1 1
+Badajoz
+Extremadura
+Extremadura
+Recurso
+338 426 234 426 495 338
+Córdoba;Cáceres;Huelva;Ciudad Real;Toledo;Sevilla
+1 1 1 1 1
+Segovia
+Castilla y León
+Castilla y León
+Recurso
+460 236 401 512 290 187
+Burgos;Guadalajara;Soria;Valladolid;Ávila;Madrid
+1 1 1 1 1
+Cuenca
+La Mancha
+La Mancha
+Recurso
+569 333 475 625 397 246
+Albacete;Guadalajara;Teruel;Ciudad Real;Madrid;Toledo;Valencia
+1 1 1 1 1
+Sevilla
+Andalucía
+Andalucía
+Recurso
+364 517 291 435 563 433
+Córdoba;Badajoz;Cádiz;Huelva;Málaga
+1 1 1 1 1
+Oporto
+Oporto
+None
+Recurso
+216 238 91 351 371 128
+
+1 1 1 1 1
+Zaragoza
+Aragón
+Aragón
+Recurso
+633 206 545 731 301 82
+Lleida;Guadalajara;Logroño;Teruel;Huesca;Soria;Tarragona;Navarra
+1 1 1 1 1
+Madrid
+La Mancha
+Madrid
+Recurso
+473 285 397 531 350 212
+Guadalajara;Segovia;Cuenca;Ávila;Toledo
+1 1 1 1 1
+Málaga
+Andalucía
+Andalucía
+Recurso
+422 553 355 488 614 493
+Córdoba;Sevilla;Cádiz;Granada
+1 1 1 1 1
+Cádiz
+Andalucía
+Andalucía
+Recurso
+353 578 300 403 625 521
+Sevilla;Málaga;Huelva
+1 1 1 1 1
+Huelva
+Andalucía
+Andalucía
+Recurso
+300 504 201 345 568 418
+Badajoz;Sevilla;Cádiz
+1 1 1 1 1
+A Coruña
+Cantabria-Galicia-Asturias
+Galicia
+Recurso
+208 88 125 256 133 12
+Pontevedra;Lugo
+1 1 1 1 1
+Huesca
+Aragón
+Aragón
+Recurso
+685 155 620 735 232 79
+Lleida;Zaragoza;Navarra
+1 1 1 1 1
+Ibiza
+Baleares
+Baleares
+Recurso
+767 401 733 791 447 368
+Mallorca;Valencia
+1 1 1 1 1
+Soria
+Castilla y León
+Castilla y León
+Recurso
+537 200 470 592 255 146
+Burgos;Guadalajara;Logroño;Segovia;Zaragoza
+1 1 1 1 1
+Granada
+Andalucía
+Andalucía
+Recurso
+494 531 410 575 590 432
+Córdoba;Jaén;Málaga;Almería
+1 1 1 1 1
+Asturias
+Cantabria-Galicia-Asturias
+Asturias
+Recurso
+343 70 268 438 120 34
+León;Santander;Lugo
+1 1 1 1 1
+Ourense
+Cantabria-Galicia-Asturias
+Galicia
+Recurso
+260 163 203 309 203 117
+Zamora;León;Pontevedra;Lugo
+1 1 1 1 1
+Valladolid
+Castilla y León
+Castilla y León
+Recurso
+414 205 360 472 255 133
+Zamora;Burgos;León;Segovia;Palencia;Salamanca;Ávila
+1 1 1 1 1
+Tarragona
+Cataluña
+Cataluña
+Recurso
+727 243 683 793 309 192
+Lleida;Castellón;Teruel;Barcelona;Zaragoza
+1 1 1 1 1
+Lisboa
+Lisboa
+None
+Recurso
+148 388 61 322 564 316
+
+1 1 1 1 1
+Murcia
+La Mancha
+Murcia
+Recurso
+599 479 518 669 533 377
+Albacete;Alicante;Almería
+1 1 1 1 1
+Mallorca
+Baleares
+Baleares
+Recurso
+858 352 791 891 406 288
+Ibiza;Menorca
+1 1 1 1 1
+Gipuzkoa
+La Rioja-Navarra-Euskadi
+Euskadi
+Recurso
+560 83 526 596 114 50
+Bizkaia;Araba;Navarra
+1 1 1 1 1
+Salamanca
+Castilla y León
+Castilla y León
+Recurso
+342 264 274 410 325 202
+Zamora;Cáceres;Valladolid;Ávila
+1 1 1 1 1
+Ciudad Real
+La Mancha
+La Mancha
+Recurso
+474 404 388 543 447 335
+Córdoba;Albacete;Jaén;Badajoz;Cuenca;Toledo
+1 1 1 1 1
+Menorca
+Baleares
+Baleares
+Recurso
+922 324 900 937 344 301
+Barcelona;Mallorca
+1 1 1 1 1
+Almería
+Andalucía
+Andalucía
+Recurso
+558 534 476 607 580 438
+Granada;Murcia
+1 1 1 1 1
+Lugo
+Cantabria-Galicia-Asturias
+Galicia
+Recurso
+259 98 209 304 155 18
+León;Pontevedra;A Coruña;Asturias;Ourense
+1 1 1 1 1
+Toledo
+La Mancha
+La Mancha
+Recurso
+449 336 351 529 390 277
+Cáceres;Badajoz;Cuenca;Madrid;Ciudad Real;Ávila
+1 1 1 1 1
+Navarra
+La Rioja-Navarra-Euskadi
+Navarra
+Recurso
+594 120 518 654 202 43
+Logroño;Araba;Zaragoza;Huesca;Gipuzkoa
+1 1 1 1 1
+Santander
+Cantabria-Galicia-Asturias
+Cantabria
+Recurso
+459 80 394 519 122 36
+Burgos;Bizkaia;León;Asturias;Palencia
+1 1 1 1 1
+Valencia
+Valencia
+Valencia
+Recurso
+647 376 583 697 428 288
+Albacete;Alicante;Castellón;Teruel;Cuenca;Ibiza
+1 1 1 1 1
+Palencia
+Castilla y León
+Castilla y León
+Recurso
+429 147 384 479 215 71
+Burgos;León;Valladolid;Santander
+1 1 1 1 1
+Ávila
+Castilla y León
+Castilla y León
+Recurso
+410 278 348 461 323 224
+Cáceres;Segovia;Madrid;Valladolid;Salamanca;Toledo
+1 1 1 1 1

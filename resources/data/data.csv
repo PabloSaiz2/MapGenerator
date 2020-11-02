@@ -1,0 +1,1562 @@
+﻿1562
+1;1001;El Hierro Oeste;Fruta;1;1;1;1;1;5;Santa Cruz de Tenerife
+2;1002;Valverde;Pescado;1;1;1;1;3;7;Santa Cruz de Tenerife
+3;1003;Aridane;Hostelería;2;2;1;4;4;13;Santa Cruz de Tenerife
+4;1004;Norte de La Palma;Fruta;1;1;1;3;2;8;Santa Cruz de Tenerife
+5;1005;Roque de los Muchachos;Viña;1;1;1;1;1;5;Santa Cruz de Tenerife
+6;1006;Cumbre Vieja;Fruta;1;1;1;1;1;5;Santa Cruz de Tenerife
+7;1007;Breñas;Fruta;1;1;1;2;1;6;Santa Cruz de Tenerife
+8;1008;Santa Cruz de La Palma;Oficinistas;2;2;1;2;3;10;Santa Cruz de Tenerife
+9;1009;Vallehermoso;Fruta;1;1;1;1;1;5;Santa Cruz de Tenerife
+10;1010;Valle Gran Rey;Turismo;1;1;1;1;1;5;Santa Cruz de Tenerife
+11;1011;San Sebastián de la Gomera;Fruta;2;1;1;2;1;7;Santa Cruz de Tenerife
+12;1012;Buenavista del Norte;Fruta;1;1;1;2;1;6;Santa Cruz de Tenerife
+13;1013;Santiago del Teide;Fruta;1;1;1;1;1;5;Santa Cruz de Tenerife
+14;1014;Guía de Isora;Agua;2;2;1;3;3;11;Santa Cruz de Tenerife
+15;1015;Adeje;Turismo;4;5;1;4;6;20;Santa Cruz de Tenerife
+16;1016;Los Cristianos;Turismo;8;13;1;8;10;40;Santa Cruz de Tenerife
+17;1017;Arona;Fruta;3;2;1;8;6;20;Santa Cruz de Tenerife
+18;1018;San Miguel de Abona;Hostelería;3;3;1;3;5;15;Santa Cruz de Tenerife
+19;1019;El Médano;Energía;1;2;1;1;1;6;Santa Cruz de Tenerife
+20;1020;San Isidro;Hortalizas;3;2;1;5;6;17;Santa Cruz de Tenerife
+21;1021;Granadilla de Abona;Fruta;2;1;1;2;3;9;Santa Cruz de Tenerife
+22;1022;Teide;Viña;1;1;1;1;1;5;Santa Cruz de Tenerife
+23;1023;Icod de los Vinos;Turismo;2;2;1;2;3;10;Santa Cruz de Tenerife
+24;1024;Los Realejos;Patata;4;5;1;5;6;21;Santa Cruz de Tenerife
+25;1025;La Orotava;Turismo;5;5;1;6;6;23;Santa Cruz de Tenerife
+26;1026;Puerto de La Cruz;Turismo;2;4;1;3;3;13;Santa Cruz de Tenerife
+27;1027;Banda Oriental;Turismo;2;2;1;5;6;16;Santa Cruz de Tenerife
+28;1028;Candelaria;Turismo;2;2;1;3;4;12;Santa Cruz de Tenerife
+29;1029;Las Lagunetas;Agua;1;1;1;1;1;5;Santa Cruz de Tenerife
+30;1030;Acentejo;Viña;4;3;1;6;5;19;Santa Cruz de Tenerife
+31;1031;El Rosario;Turismo;2;2;1;2;2;9;Santa Cruz de Tenerife
+32;1032;Tegueste;Operarios;2;2;1;3;5;13;Santa Cruz de Tenerife
+33;1033;Ciudad Colonial;Oficinistas;7;7;1;6;24;45;Santa Cruz de Tenerife
+34;1034;Taco;Transportistas;7;5;;8;7;27;Santa Cruz de Tenerife
+35;1035;La Cuesta;Empleados;4;6;;6;10;26;Santa Cruz de Tenerife
+36;1036;Distrito Suroeste;Operarios;7;6;1;12;14;40;Santa Cruz de Tenerife
+37;1037;Ofra;Dependientes;8;8;1;14;16;47;Santa Cruz de Tenerife
+38;1038;La Salud;Transportistas;8;9;;12;15;44;Santa Cruz de Tenerife
+39;1039;La Salle;Oficinistas;9;9;;9;15;42;Santa Cruz de Tenerife
+40;1040;Ifara;Hosteleria;8;10;;6;11;35;Santa Cruz de Tenerife
+41;1041;Puerto de Tenerife ;Estibadores;1;1;1;2;1;6;Santa Cruz de Tenerife
+1;2001;Terminales;Energía;1;1;1;1;1;5;Las Palmas de Gran Canaria
+2;2002;Puerto de Las Palmas;Estibadores;2;2;;3;2;9;Las Palmas de Gran Canaria
+3;2003;Gran Guanarteme;Hostelería;6;9;;10;12;37;Las Palmas de Gran Canaria
+4;2004;Ciudad Alta;Oficinistas;16;17;;14;25;72;Las Palmas de Gran Canaria
+5;2005;Arenales;Hostelería;9;15;;7;12;43;Las Palmas de Gran Canaria
+6;2006;Siete Palmas;Audiovisual;4;5;;5;6;20;Las Palmas de Gran Canaria
+7;2007;Tamaraceite;Transportistas;8;10;1;15;22;56;Las Palmas de Gran Canaria
+8;2008;Vegueta;Taxistas;9;9;1;14;18;51;Las Palmas de Gran Canaria
+9;2009;Telde;Hostelería;10;10;1;15;18;54;Las Palmas de Gran Canaria
+10;2010;Ingenio;Hortalizas;2;2;1;3;3;11;Las Palmas de Gran Canaria
+11;2011;Carrizales;Estibadores;2;2;1;4;5;14;Las Palmas de Gran Canaria
+12;2012;Agüimes;Hostelería;4;4;1;4;7;20;Las Palmas de Gran Canaria
+13;2013;Cruce de la Sardina;Hostelería;3;2;1;4;4;14;Las Palmas de Gran Canaria
+14;2014;Vecindario;Transportistas;4;4;1;7;6;22;Las Palmas de Gran Canaria
+15;2015;Playa del Inglés;Hostelería;4;4;1;4;6;19;Las Palmas de Gran Canaria
+16;2016;Tirajana;Energía;1;2;1;3;3;10;Las Palmas de Gran Canaria
+17;2017;Mogán;Hortalizas;1;1;1;2;1;6;Las Palmas de Gran Canaria
+18;2018;Puerto Rico;Hostelería;1;1;1;1;2;6;Las Palmas de Gran Canaria
+19;2019;Aldea de San Nicolás;Hostelería;1;1;1;2;2;7;Las Palmas de Gran Canaria
+20;2020;Tejeda;Lácteo;2;1;1;2;1;7;Las Palmas de Gran Canaria
+21;2021;Valsequillo;Fruta;1;1;1;1;2;6;Las Palmas de Gran Canaria
+22;2022;Gáldar;Leguminosa;3;2;1;2;3;11;Las Palmas de Gran Canaria
+23;2023;Santa María de Guía;Fruta;2;3;1;2;5;13;Las Palmas de Gran Canaria
+24;2024;Arucas;Licoreros;4;4;1;8;8;25;Las Palmas de Gran Canaria
+25;2025;Teror;Agua;1;1;1;1;1;5;Las Palmas de Gran Canaria
+26;2026;Santa Brígida;Universitarios;2;2;1;2;2;9;Las Palmas de Gran Canaria
+27;2027;Betancuria;Hostelería;2;5;1;3;4;15;Las Palmas de Gran Canaria
+28;2028;Tuineje-Antigua;Lácteo;2;4;1;4;4;15;Las Palmas de Gran Canaria
+29;2029;Puerto del Rosario;Dependientes;7;8;1;7;9;32;Las Palmas de Gran Canaria
+30;2030;La Oliva;Hostelería;3;3;1;3;4;14;Las Palmas de Gran Canaria
+31;2031;Yaiza;Dependientes;1;2;1;1;3;8;Las Palmas de Gran Canaria
+32;2032;Timanfaya;Hosteleria;2;3;1;3;5;14;Las Palmas de Gran Canaria
+33;2033;San Bartolomé;Hostelería;1;2;1;2;3;9;Las Palmas de Gran Canaria
+34;2034;Arrecife Oeste;Hostelería;5;5;1;5;6;22;Las Palmas de Gran Canaria
+35;2035;Arrecife Este;Transportistas;5;4;;6;8;23;Las Palmas de Gran Canaria
+36;2036;Teguise;Cereal;3;3;1;3;5;15;Las Palmas de Gran Canaria
+37;2037;Haría;Hostelería;1;1;1;1;1;5;Las Palmas de Gran Canaria
+1;3001;Ayamonte;Operarios;3;2;1;4;5;15;Huelva
+2;3002;Isla Cristina;Pescado;3;3;1;6;4;17;Huelva
+3;3003;Lepe;Fruta;4;4;1;5;8;22;Huelva
+4;3004;Cartaya;Fruta;2;2;1;3;4;12;Huelva
+5;3005;Punta Umbría;Hostelería;1;3;1;3;3;11;Huelva
+6;3006;Gibraleón;Cereal;4;4;1;5;7;21;Huelva
+7;3007;Huelva Sur;Dependientes;12;15;;12;13;52;Huelva
+8;3008;Huelva Norte;Operarios;12;9;;14;12;47;Huelva
+9;3009;Fosfoyesos;Técnicos;2;1;1;5;1;10;Huelva
+10;3010;Palos de la Frontera;Estibadores;2;1;1;4;2;10;Huelva
+11;3011;Moguer;Fruta;4;3;1;6;6;20;Huelva
+12;3012;San Juan del Puerto;Operarios;3;2;1;4;6;16;Huelva
+13;3013;Bonares;Operarios;3;3;1;5;5;17;Huelva
+14;3014;El Condado;Fruta;4;4;1;6;8;23;Huelva
+15;3015;Almonte;Fruta;4;6;1;6;7;24;Huelva
+16;3016;Valverde del Camino;Operarios;1;2;1;2;3;9;Huelva
+17;3017;Minas;Minería;2;1;1;3;3;10;Huelva
+18;3018;Andévalo Sur;Madera;2;1;1;1;1;6;Huelva
+19;3019;Puebla de Guzmán;Vacuno;2;1;1;2;3;9;Huelva
+20;3020;Alonso;Porcino;1;2;1;4;3;11;Huelva
+21;3021;Aroche;Porcino;1;1;1;1;1;5;Huelva
+22;3022;Jabugo;Porcino;1;2;1;5;4;13;Huelva
+23;3023;Almonáster la Real;Transportistas;2;1;1;3;2;9;Huelva
+24;3024;Aracena;Porcino;1;2;1;4;3;11;Huelva
+25;3025;Zufre;Madera;1;1;1;1;1;5;Huelva
+26;3026;Santa Olalla;Porcino;1;1;1;1;1;5;Huelva
+1;4001;Isla Mayor;Arroz;1;1;1;1;1;5;Sevilla
+2;4002;Lebrija;Hortalizas;3;2;1;6;5;17;Sevilla
+3;4003;Cabezas de San Juan;Dependientes;2;3;1;3;4;13;Sevilla
+4;4004; Los Palacios y Villafranca;Leguminosa;5;3;1;7;9;25;Sevilla
+5;4005;Utrera;Transportistas;8;5;1;9;12;35;Sevilla
+6;4006;Arahal;Operarios;3;2;1;2;4;12;Sevilla
+7;4007;Morón de la Frontera;Olivar;6;6;1;8;8;29;Sevilla
+8;4008;Marchena;Aves de Corral;2;3;1;4;4;14;Sevilla
+9;4009;Pruna;Olivar;1;1;1;1;1;5;Sevilla
+10;4010;Los Corrales;Olivar;1;1;1;1;1;5;Sevilla
+11;4011;Osuna;Olivar;2;2;1;5;5;15;Sevilla
+12;4012;Estepa;Olivar;2;2;1;2;3;10;Sevilla
+13;4013;Casariche;Olivar;1;1;1;1;2;6;Sevilla
+14;4014;Cañada Rosal;Cereal;1;1;1;1;1;5;Sevilla
+15;4015;Écija;Dependientes;5;9;1;6;11;32;Sevilla
+16;4016;Carmona;Olivar;2;4;1;4;6;17;Sevilla
+17;4017;Alcores;Operarios;5;6;1;7;6;25;Sevilla
+18;4018;Alcalá de Guadaira;Operarios;9;9;1;18;16;53;Sevilla
+19;4019;Dos Hermanas Este;Transportistas;10;10;1;11;15;47;Sevilla
+20;4020;Dos Hermanas Oeste;Operarios;8;9;1;11;14;43;Sevilla
+21;4021;Montequinto;Técnicos;2;5;1;3;3;14;Sevilla
+22;4022;Bellavista;Oficinistas;3;3;1;4;4;15;Sevilla
+23;4023;Puerto de Sevilla;Estibadores;1;2;1;2;1;7;Sevilla
+24;4024;Los Remedios;Oficinistas;3;4;;3;7;17;Sevilla
+25;4025;Heliópolis;Oficinistas;6;5;;7;7;25;Sevilla
+26;4026;Sur;Empleados;4;5;;6;6;21;Sevilla
+27;4027;Universidad de Sevilla;Universitarios;3;3;;3;3;12;Sevilla
+28;4028;Arenal-Santa Cruz;Hosteleriía;2;1;;1;2;6;Sevilla
+29;4029;Triana;Técnicos;7;7;1;7;8;30;Sevilla
+30;4030;Casco Antigüo;Hostelería;7;12;;10;15;44;Sevilla
+31;4031;Nervión;Finanzas;6;8;;7;11;32;Sevilla
+32;4032;Cerro del Águila;Transportistas;8;7;1;12;14;42;Sevilla
+33;4033;Amate;Operarios;8;5;1;12;17;43;Sevilla
+34;4034;Torreblanca;Licoreros;3;4;;4;4;15;Sevilla
+35;4035;Sevilla Este;Transportistas;4;5;;6;9;24;Sevilla
+36;4036;Parque Alcosa;Taxistas;3;3;;5;5;16;Sevilla
+37;4037;Santa Clara;Operarios;5;5;1;6;7;24;Sevilla
+38;4038;Santa Justa;Discográfica;3;3;;3;4;13;Sevilla
+39;4039;Macarena;Hostelería;9;11;;11;14;45;Sevilla
+40;4040;Pino Montano;Operarios;7;7;1;9;12;36;Sevilla
+41;4041;San Jerónimo;Empleados;3;3;;4;4;14;Sevilla
+42;4042;La Rinconada;Dependientes;5;5;1;5;7;23;Sevilla
+43;4043;La Puebla del Río;Arroz;1;1;1;1;1;5;Sevilla
+44;4044;Coria del Río;Arroz;12;7;1;7;14;41;Sevilla
+45;4045;Mairena del Aljarafe;Operarios;8;8;1;8;8;33;Sevilla
+46;4046;Benacazón;Transportistas;3;3;1;4;6;17;Sevilla
+47;4047;Pilas;Olivar;2;3;1;4;2;12;Sevilla
+48;4048;Sanlúcar la Mayor;Energía;3;2;1;4;8;18;Sevilla
+49;4049;Bormujos;Dependientes;3;3;1;3;5;15;Sevilla
+50;4050;Tomares-Aznalfarache;Audiovisual;8;8;1;9;12;38;Sevilla
+51;4051;Camas;Operarios;5;5;1;6;6;23;Sevilla
+52;4052;Valencina de la Concepción;Operarios;2;2;1;2;1;8;Sevilla
+53;4053;Santiponce;Técnicos;1;2;1;1;3;8;Sevilla
+54;4054;Guillena;Cereal;1;1;1;3;4;10;Sevilla
+55;4055;Brenes;Porcino;2;1;1;2;3;9;Sevilla
+56;4056;Cantillana;Cítricos;2;3;1;5;6;17;Sevilla
+57;4057;Castiblanco de los Arroyos;Vacuno;1;1;1;1;1;5;Sevilla
+58;4058;Lora del Río;Cítricos;2;3;1;6;5;17;Sevilla
+59;4059;Peñaflor-Infantes;Cítricos;1;1;1;1;1;5;Sevilla
+60;4060;Constantina;Madera;1;1;1;1;1;5;Sevilla
+61;4061;Cazalla de la Sierra;Licoreros;1;1;1;1;1;5;Sevilla
+1;5001;Chipiona;Hostelería;2;3;1;3;5;14;Cádiz
+2;5002;Sanlúcar de Barrameda;Dependientes;8;11;1;9;14;43;Cádiz
+3;5003;Rota;Hostelería;3;4;1;4;5;17;Cádiz
+4;5004;Trebujena;Viña;1;2;1;3;1;8;Cádiz
+5;5005;Jerez Oeste;Dependientes;16;18;1;17;25;77;Cádiz
+6;5006;Jerez Este;Transportistas;17;17;1;21;23;79;Cádiz
+7;5007;Arcos de la Frontera ;Viña;5;6;1;8;10;30;Cádiz
+8;5008;San José del Valle;Viña;1;1;1;4;2;9;Cádiz
+9;5009;Ubrique;Vacuno;3;3;1;5;7;19;Cádiz
+10;5010;Villamartín;Aves de Corral;2;1;1;3;2;9;Cádiz
+11;5011;Algodonales;Olivar;1;1;1;1;1;5;Cádiz
+12;5012;Olvera;Olivar;1;1;1;3;2;8;Cádiz
+13;5013;Alcornocales;Algodón;3;3;1;3;3;13;Cádiz
+14;5014;Medina-Sidonia;Dependientes;2;2;1;2;3;10;Cádiz
+15;5015;Barbate;Hostelería;6;9;1;9;12;37;Cádiz
+16;5016;Cádiz Viejo;Dependientes;7;8;;7;12;34;Cádiz
+17;5017;Plaza España;Estibadores;3;4;;4;10;21;Cádiz
+18;5018;Extramuros;Oficinistas;9;9;1;8;14;41;Cádiz
+19;5019;San Fernando;Operarios;18;16;1;17;18;70;Cádiz
+20;5020;Chiclana de la Frontera;Empleados;12;14;1;12;17;56;Cádiz
+21;5021;Puerto Real;Pescado;4;5;1;4;8;22;Cádiz
+22;5022;Río San Pedro;Técnicos;1;1;1;3;1;7;Cádiz
+23;5023;El Puerto de Santa María;Dependientes;8;16;1;12;20;57;Cádiz
+24;5024;Estrecho;Transportistas;16;14;1;19;22;72;Cádiz
+25;5025;Puerto de Algeciras;Estibadores;1;2;;5;1;9;Cádiz
+26;5026;Los Barrios;Energía;3;3;1;4;7;18;Cádiz
+27;5027;San Roque;Energía;5;2;1;6;8;22;Cádiz
+28;5028;Línea de la Concepción;Empleados;8;7;;10;15;40;Cádiz
+29;5029;Gibraltar;Oficinistas;5;5;;5;8;23;Cádiz
+1;6001;Benamejí;Olivar;1;1;1;1;1;5;Córdoba
+2;6002;Lucena;Olivar;6;7;1;7;8;29;Córdoba
+3;6003;Rute;Olivar;1;1;1;3;2;8;Córdoba
+4;6004;Cabra;Olivar;2;1;1;5;5;14;Córdoba
+5;6005;Priego de Córdoba;Olivar;3;3;1;7;8;22;Córdoba
+6;6006;Doña Mencía;Olivar;1;2;1;2;1;7;Córdoba
+7;6007;Castro del Río;Olivar;1;1;1;2;2;7;Córdoba
+8;6008;Baena;Energía;2;2;1;4;5;14;Córdoba
+9;6009;Puente Genil;Olivar;4;4;1;5;7;21;Córdoba
+10;6010;Montilla;Empleados;3;5;1;4;6;19;Córdoba
+11;6011;La Rambla;Cereal;2;1;1;2;2;8;Córdoba
+12;6012;La Carlota;Cereal;1;1;1;2;3;8;Córdoba
+13;6013;Fernán Núñez;Olivar;1;2;1;3;2;9;Córdoba
+14;6014;Villafranca de Córdoba;Olivar;1;1;1;4;3;10;Córdoba
+15;6015;Villa del Río;Olivar;1;1;1;3;2;8;Córdoba
+16;6016;Hornachuelos;Dependientes;1;3;1;1;2;8;Córdoba
+17;6017;Posadas;Olivar;2;2;1;3;3;11;Córdoba
+18;6018;Villaviciosa de Córdoba;Operarios;1;1;1;1;1;5;Córdoba
+19;6019;Palma del Río;Cítricos;1;2;1;5;3;12;Córdoba
+20;6020;Villarubia;Transportistas;3;4;1;6;3;17;Córdoba
+21;6021;Verdad;Técnicos;3;4;1;5;5;18;Córdoba
+22;6022;Córdoba Central;Empleados;30;30;;32;33;125;Córdoba
+23;6023;Levante;Hostelería;20;18;;25;26;89;Córdoba
+24;6024;Norte Sierra;Oficinistas;4;5;1;4;8;22;Córdoba
+25;6025;Fuente Obejuna;Madera;1;1;1;1;1;5;Córdoba
+26;6026;Belmez;Minería;1;1;1;4;2;9;Córdoba
+27;6027;Hinojosa del Duque;Ovino;1;1;1;2;1;6;Córdoba
+28;6028;Belacazár;Ovino;1;1;1;2;1;6;Córdoba
+29;6029;Dos Torres;Empleados;1;1;1;1;1;5;Córdoba
+30;6030;Pozoblanco;Cerdo;1;2;1;3;4;11;Córdoba
+31;6031;Villanueva de Córdoba;Cerdo;2;1;1;3;2;9;Córdoba
+32;6032;Montoro;Olivar;1;2;1;3;2;9;Córdoba
+1;7001;Estepona;Hostelería;12;14;1;19;18;64;Málaga
+2;7002;Cortes de la Frontera;Operarios;1;1;1;3;2;8;Málaga
+3;7003;San Pedro Alcántara;Empleados;6;5;;9;10;30;Málaga
+4;7004;Nueva Andalucía;Hostelería;1;3;;3;4;11;Málaga
+5;7005;Marbella Norte;Hostelería;4;2;;4;6;16;Málaga
+6;7006;Plaza de los Naranjos;Dependientes;7;12;;12;17;48;Málaga
+7;7007;San Bernabé;Empleados;9;8;;11;14;42;Málaga
+8;7008;Albarizas;Hostelería;3;2;;5;5;15;Málaga
+9;7009;Las Chapas;Hostelería;2;3;;3;3;11;Málaga
+10;7010;Piedemonte Marbellí;Empleados;2;1;1;2;2;8;Málaga
+11;7011;Ronda;Cereal;5;5;1;7;7;25;Málaga
+12;7012;Yunquera;Madera;1;1;1;2;2;7;Málaga
+13;7013;Campillos;Cerdo;1;2;1;3;3;10;Málaga
+14;7014;Ardales;Cerdo;1;2;1;3;3;10;Málaga
+15;7015;Sierra de Yeguas;Cereal;1;1;1;1;1;5;Málaga
+16;7016;Coín;Audiovisual;2;3;1;5;5;16;Málaga
+17;7017;Cala de Mijas;Hostelería;1;2;1;1;2;7;Málaga
+18;7018;Alhaurín;Operarios;11;9;1;14;14;49;Málaga
+19;7019;Las Lagunas de Mijas;Hostelería;3;4;;4;4;15;Málaga
+20;7020;Fuengirola Central;Dependientes;8;11;;10;15;44;Málaga
+21;7021;Los Boliches;Hostelería;2;3;;2;2;9;Málaga
+22;7022;Benalmádena;Hostelería;9;13;;9;12;43;Málaga
+23;7023;Torremolinos Sur;Hostelería;5;5;;5;7;22;Málaga
+24;7024;Torremolinos Norte;Empleados;4;5;;5;6;20;Málaga
+25;7025;Alameda;Olivar;2;1;1;3;4;11;Málaga
+26;7026;Antequera;Hortalizas;9;9;1;13;14;46;Málaga
+27;7027;Archidona;Energía;2;2;1;2;2;9;Málaga
+28;7028;Cártama;Operarios;4;3;1;7;5;20;Málaga
+29;7029;Casabermeja;Vacuno;2;2;1;4;4;13;Málaga
+30;7030;Colmenar;Viña;1;1;1;2;2;7;Málaga
+31;7031;Churriana;Mecánicos;4;3;1;4;3;15;Málaga
+32;7032;Campanillas;Técnicos;3;2;1;4;3;13;Málaga
+33;7033;Carreter de Cádiz;Empleados;17;16;;21;26;80;Málaga
+34;7034;Cruz de Humilladero;Operarios;13;12;1;20;22;68;Málaga
+35;7035;Teatinos-Universidad;Universitarios;5;5;;6;9;25;Málaga
+36;7036;Puerto de la Torre;Taxistas;6;7;;6;6;25;Málaga
+37;7037;Palma-Palmilla;Riders;4;5;;7;5;21;Málaga
+38;7038;Bailén-Miraflores;Transportistas;9;9;;11;14;43;Málaga
+39;7039;Centro;Oficinistas;9;9;;11;16;45;Málaga
+40;7040;Ciudad Jardín;Empleados;5;5;;6;7;23;Málaga
+41;7041;Este;Oficinistas;10;11;;9;14;44;Málaga
+42;7042;Rincón de la Victoria;Dependientes;8;12;;8;11;39;Málaga
+43;7043;Montes de Málaga;Vacuno;1;1;1;2;2;7;Málaga
+44;7044;Periana;Fruta;1;2;1;3;2;9;Málaga
+45;7045;Vélez-Málaga;Turismo;10;17;1;17;18;63;Málaga
+46;7046;Torrox;Fruta;5;5;1;5;5;21;Málaga
+47;7047;Nerja;Turismo;2;5;;4;4;15;Málaga
+1;8001;La Carolina;Madera;2;1;1;3;2;9;Jaén
+2;8002;El Condado;Olivar;2;1;1;2;2;8;Jaén
+3;8003;Linares;Olivar;5;10;;18;17;50;Jaén
+4;8004;Bailén;Olivar;3;2;1;4;5;15;Jaén
+5;8005;Porcuna;Olivar;1;1;1;1;1;5;Jaén
+6;8006;Marmolejo-Lopera;Olivar;1;1;1;1;1;5;Jaén
+7;8007;Arjona;Olivar;1;2;1;3;3;10;Jaén
+8;8008;Lahiguera;Olivar;1;1;1;3;2;8;Jaén
+9;8009;Andújar;Dependientes;6;7;1;8;8;30;Jaén
+10;8010;Alcaudete;Olivar;2;2;1;2;2;9;Jaén
+11;8011;Alcalá la Real;Olivar;3;4;1;5;5;18;Jaén
+12;8012;Los Villares;Olivar;1;1;1;1;1;5;Jaén
+13;8013;Martos;Técnicos;4;4;1;4;5;18;Jaén
+14;8014;Torredonjimeno;Olivar;3;3;1;6;4;17;Jaén
+15;8015;Mengibar;Olivar;1;2;1;3;3;10;Jaén
+16;8016;Jaén;Empleados;20;22;;21;30;93;Jaén
+17;8017;La Guardia de Jaén;Olivar;1;1;1;1;1;5;Jaén
+18;8018;Campillo de Arenas;Olivar;1;1;1;1;1;5;Jaén
+19;8019;Mancha Real;Mecanicos;2;2;1;3;3;11;Jaén
+20;8020;Sierra Magina;Hostelería;1;1;1;1;1;5;Jaén
+21;8021;Huelma;Cerdo;1;1;1;3;2;8;Jaén
+22;8022;Jódar;Olivar;2;1;1;3;4;11;Jaén
+23;8023;Baeza;Olivar;4;3;1;4;6;18;Jaén
+24;8024;Úbeda;Olivar;6;6;1;10;10;33;Jaén
+25;8025;Quesada;Olivar;2;2;1;3;3;11;Jaén
+26;8026;Cuatro Villas;Olivar;2;4;1;3;4;14;Jaén
+27;8027;Cazorla;Hostelería;1;1;1;2;4;9;Jaén
+28;8028;Sierra de Segura;Agua;1;1;1;2;2;7;Jaén
+29;8029;Puente de Génave;Olivar;1;1;1;1;3;7;Jaén
+1;9001;Almuñecar;Hostelería;3;7;1;4;5;20;Granada
+2;9002;Salobreña;Fruta;2;2;1;3;3;11;Granada
+3;9003;Guajares-Benaudalla;Hortalizas;1;1;1;1;1;5;Granada
+4;9004;Motril;Operarios;7;7;1;12;11;38;Granada
+5;9005;Gualchos;Hortalizas;1;1;1;1;1;5;Granada
+6;9006;Albuñol;Hortalizas;2;1;1;2;1;7;Granada
+7;9007;Loja;Olivar;4;5;1;9;6;25;Granada
+8;9008;Alhama de Granada;Leguminosa;2;1;1;3;3;10;Granada
+9;9009;Jayena;Olivar;1;1;1;1;1;5;Granada
+10;9010;La Vega;Transportistas;3;2;1;3;3;12;Granada
+11;9011;Padul;Olivar;2;1;1;3;3;10;Granada
+12;9012;Lanjarón;Agua;2;2;1;4;2;11;Granada
+13;9013;Orgiva;Cerdo;1;2;1;2;2;8;Granada
+14;9014;Cadiar;Vacuno;1;1;1;1;1;5;Granada
+15;9015;Ugíjar;Vacuno;1;1;1;1;1;5;Granada
+16;9016;Alpujarra;Dependientes;;1;;1;;2;Granada
+17;9017;Trévelez;Cerdo;1;1;;1;1;4;Granada
+18;9018;Güejar Sierra;Hostelería;1;1;;1;1;4;Granada
+19;9019;La Zubia;Operarios;4;4;1;7;10;26;Granada
+20;9020;Cenes de la Vega;Empleados;2;2;1;2;3;10;Granada
+21;9021;Alfanevada;Cerdo;1;1;1;1;1;5;Granada
+22;9022;Beiro-Norte;Empleados;13;12;1;15;19;60;Granada
+23;9023;Ronda;Hosteleria;10;11;;12;16;49;Granada
+24;9024;Albaicín;Estudiantes;4;3;;4;4;15;Granada
+25;9025;Genil;Transportistas;6;7;;7;7;27;Granada
+26;9026;Zaidín;Empleados;9;9;;11;12;41;Granada
+27;9027;Vegas del Genil;Oficinistas;2;2;1;3;4;12;Granada
+28;9028;Las Gabias;Empleados;3;3;1;4;6;17;Granada
+29;9029;Santa Fe ;Transportistas;2;1;1;4;3;11;Granada
+30;9030;Íllora;Olivar;3;3;1;5;6;18;Granada
+31;9031;Albolote;Empleados;5;6;1;6;6;24;Granada
+32;9032;Colomera;Olivar;1;1;1;1;1;5;Granada
+33;9033;Maracena;Operarios;7;8;1;8;10;34;Granada
+34;9034;Cogollos Vega;Olivar;1;1;1;1;1;5;Granada
+35;9035;Alfacar;Dependientes;1;2;1;1;2;7;Granada
+36;9036;Iznalloz;Olivar;2;1;1;2;2;8;Granada
+37;9037;Guadahortuna;Cereal;1;1;1;1;1;5;Granada
+38;9038;Cortes y Graena;Olivar;1;1;1;1;1;5;Granada
+39;9039;Pedro Martínez;Cereal;1;1;1;1;1;5;Granada
+40;9040;Guadix;Mecanicos;4;3;1;5;5;18;Granada
+41;9041;El Marquesado;Cereal;1;1;1;2;2;7;Granada
+42;9042;Cuevas del Campo;Cereal;1;1;1;2;1;6;Granada
+43;9043;Baza;Cerdo;3;6;1;4;6;20;Granada
+44;9044;Huéscar;Dependientes;2;3;1;2;3;11;Granada
+1;10001;Berja;Hortalizas;7;5;1;10;12;35;Almería
+2;10002;El Ejido;Hortalizas;16;12;1;22;21;72;Almería
+3;10003;Roquetas de Mar;Hostelería;15;23;1;22;21;82;Almería
+4;10004;Andarax;Cítricos;2;1;1;3;2;9;Almería
+5;10005;Fiñana;Olivar;1;1;1;1;1;5;Almería
+6;10006;Tabernas;Cerdo;1;1;1;1;2;6;Almería
+7;10007;Alto Almanzora;Mecánicos;1;1;1;2;1;6;Almería
+8;10008;Macael;Minería;1;1;1;3;2;8;Almería
+9;10009;Cantoria;Cítricos;1;2;1;3;2;9;Almería
+10;10010;Olula del Río;Operarios;2;1;1;2;2;8;Almería
+11;10011;Albox;Empleados;2;1;1;2;2;8;Almería
+12;10012;Los Vélez;Cereal;2;1;1;3;3;10;Almería
+13;10013;Huércal;Hortalizas;2;2;1;5;7;17;Almería
+14;10014;Almería Norte;Empleados;14;10;;17;19;60;Almería
+15;10015;Oliveros;Oficinistas;15;24;;17;23;79;Almería
+16;10016;El Zapillo;Transportistas;5;4;;7;9;25;Almería
+17;10017;Viator;Hortalizas;4;3;1;4;5;17;Almería
+18;10018;Níjar;Hortalizas;2;2;1;12;8;25;Almería
+19;10019;Sorbas;Minería;1;1;1;1;1;5;Almería
+20;10020;Carboneras;Energía;2;2;1;2;2;9;Almería
+21;10021;Vera;Hostería;3;4;1;5;5;18;Almería
+22;10022;Huercál-Olvera;Dependientes;3;5;1;3;5;17;Almería
+23;10023;Cuevas del Almanzora;Cerdo;3;3;1;6;5;18;Almería
+1;11001;La Libertad;Pescado;4;3;;6;5;18;Ceuta y Melilla
+2;11002;O'Donell-Príncipe;Dependientes;6;5;;8;9;28;Ceuta y Melilla
+3;11003;San Amaro;Oficinistas;4;5;;6;9;24;Ceuta y Melilla
+4;11004;Los Pinares;Empleados;5;6;;6;6;23;Ceuta y Melilla
+5;11005;Vírgen de la Victoria;Dependientes;4;6;;5;7;22;Ceuta y Melilla
+6;11006;Melilla Vieja;Oficinistas;5;7;;5;8;25;Ceuta y Melilla
+1;12001;Alburquerque;Cerdo;1;1;1;3;2;8;Badajoz
+2;12002;Villar del Rey;Cerdo;1;1;1;1;1;5;Badajoz
+3;12003;Las Moreras;Universitarios;5;4;1;6;7;23;Badajoz
+4;12004;Plaza Alta;Oficinistas;12;12;;16;21;61;Badajoz
+5;12005;Valdepasillas;Empleados;8;6;1;7;15;37;Badajoz
+6;12006;Valverde de Leganés;Cereal;2;2;1;4;3;12;Badajoz
+7;12007;Lobón;Cereal;2;2;1;3;3;11;Badajoz
+8;12008;Montijo;Dependientes;3;7;1;4;6;21;Badajoz
+9;12009;Calamonte;Viña;2;2;1;3;3;11;Badajoz
+10;12010;La Garrovilla;Cerdo;1;1;1;1;1;5;Badajoz
+11;12011;Nueva Ciudad;Empleados;4;4;;5;6;19;Badajoz
+12;12012;Mérida Romana;Hostelería;7;8;;7;10;32;Badajoz
+13;12013;Trujillanos;Oficinistas;2;1;1;1;2;7;Badajoz
+14;12014;La Zarza;Cerdo;2;2;1;2;2;9;Badajoz
+15;12015;Olivenza;Audiovisual;2;3;1;3;4;13;Badajoz
+16;12016;Villanueva del Fresno;Cerdo;2;1;1;2;2;8;Badajoz
+17;12017;Jeréz de los Caballeros;Cerdo;3;2;1;3;3;12;Badajoz
+18;12018;Barcarrota;Mecanicos;1;2;1;2;2;8;Badajoz
+19;12019;Frenegal de la Sierra;Cerdo;2;2;1;2;2;9;Badajoz
+20;12020;Zafra;Cerdo;4;3;1;6;6;20;Badajoz
+21;12021;Usagre;Cerdo;1;1;1;1;1;5;Badajoz
+22;12022;Fuentes de León;Cerdo;2;2;1;4;4;13;Badajoz
+23;12023;Villafranca de los Barros;Viña;2;2;1;4;5;14;Badajoz
+24;12024;Santa Marta;Empleados;1;1;1;2;2;7;Badajoz
+25;12025;Almendralejo;Viña;5;5;1;8;11;30;Badajoz
+26;12026;Azuaga;Cerdo;3;3;1;5;7;19;Badajoz
+27;12027;Llerena;Cerdo;2;2;1;3;4;12;Badajoz
+28;12028;Hornachos;Cerdo;2;1;1;2;2;8;Badajoz
+29;12029;Monterrubio;Cerdo;1;1;1;1;1;5;Badajoz
+30;12030;Zalamea ;Transportistas;2;1;1;2;3;9;Badajoz
+31;12031;Quintana-Campanario;Minería;1;2;1;3;3;10;Badajoz
+32;12032;Cabeza del Buey;Lácteo;2;1;1;2;3;9;Badajoz
+33;12033;Guareña;Olivar;1;1;1;2;3;8;Badajoz
+34;12034;Santa Amalia;Operarios;1;1;1;3;2;8;Badajoz
+35;12035;Don Benito;Cereal;7;6;1;10;10;34;Badajoz
+36;12036;Villanueva de la Serena;Hortalizas;4;6;1;8;7;26;Badajoz
+37;12037;Navalvillar de la Pela;Cerdo;2;2;1;3;2;10;Badajoz
+38;12038;Talarrubias;Mecanicos;2;1;1;2;2;8;Badajoz
+39;12039;Siruela;Madera;1;1;1;2;1;6;Badajoz
+40;12040;Peñalsordo;Hostelería;1;1;1;1;1;5;Badajoz
+41;12041;Cijara;Agua;2;1;1;2;2;8;Badajoz
+1;13001;Valencia de Alcántara;Mecánicos;1;1;1;2;1;6;Cáceres
+2;13002;Villas de Alcántara;Cerdo;1;1;1;1;1;5;Cáceres
+3;13003;San Pedro;Cerdo;1;1;1;1;1;5;Cáceres
+4;13004;Alcántara;Cerdo;1;1;1;1;1;5;Cáceres
+5;13005;Brozas;Cereal;1;1;1;1;1;5;Cáceres
+6;13006;Aliseda;Cerdo;1;1;1;1;1;5;Cáceres
+7;13007;Torreorgaz;Vacuno;1;1;1;1;1;5;Cáceres
+8;13008;Cáceres;Dependientes;19;21;;22;25;87;Cáceres
+9;13009;Arroyo de la Luz;Transportistas;1;1;1;2;2;7;Cáceres
+10;13010;Alcuesar;Olivar;2;1;1;2;2;8;Cáceres
+11;13011;Montánchez;Mecánicos;1;1;1;2;1;6;Cáceres
+12;13012;Miajadas;Hortalizas;2;1;1;5;3;12;Cáceres
+13;13013;Ibahernando;Cerdo;1;1;1;1;1;5;Cáceres
+14;13014;La Cumbre;Vacuno;1;1;1;1;1;5;Cáceres
+15;13015;Trujillo;Vacuno;1;2;1;3;2;9;Cáceres
+16;13016;Madroñera;Cerdo;1;1;1;2;1;6;Cáceres
+17;13017;Logrosán;Vacuno;1;1;1;1;1;5;Cáceres
+18;13018;Guadalupe;Hostelería;1;1;1;1;1;5;Cáceres
+19;13019;Castañar de Ibor ;Olivar;1;1;1;1;1;5;Cáceres
+20;13020;Deleitosa;Aves de Corral;1;1;1;1;1;5;Cáceres
+21;13021;Majadas;Tabaco;1;1;1;2;1;6;Cáceres
+22;13022;Peraleda;Mecánicos;1;1;1;1;1;5;Cáceres
+23;13023;Navalmoral de la Mata;Tabaco;4;3;1;8;8;24;Cáceres
+24;13024;Vera Oeste;Tabaco;2;2;1;4;3;12;Cáceres
+25;13025;Vera Este;Tabaco;1;1;1;2;2;7;Cáceres
+26;13026;Cerezos;Fruta;1;2;1;3;2;9;Cáceres
+27;13027;Hervás;Madera;1;1;1;1;1;5;Cáceres
+28;13028;Serradilla;Olivar;2;1;1;1;1;6;Cáceres
+29;13029;Malpartida;Empleados;1;1;1;1;1;5;Cáceres
+30;13030;Plasencia;Operarios;8;8;1;7;11;35;Cáceres
+31;13031;Montehermoso;Tabaco;1;1;1;3;1;7;Cáceres
+32;13032;Santibañez;Aves de Corral;1;1;1;1;1;5;Cáceres
+33;13033;Zarza de Granadillax;Tabaco;1;1;1;1;2;6;Cáceres
+34;13034;Las Hurdes;Hostelería;1;1;1;1;1;5;Cáceres
+35;13035;Gata;Madera;1;1;1;1;1;5;Cáceres
+36;13036;Valverde del Fresno;Olivar;1;1;1;1;1;5;Cáceres
+37;13037;Moraleja;Transportistas;1;1;1;1;1;5;Cáceres
+38;13038;Coria;Vacuno;2;2;1;2;2;9;Cáceres
+39;13039;Canchos de Ramiro;Cerdo;1;1;1;1;1;5;Cáceres
+40;13040;Casar de Cáceres;Dependientes;1;1;1;1;1;5;Cáceres
+41;13041;Navas del Madroño;Cerdo;1;1;1;1;1;5;Cáceres
+42;13042;Torrejoncillo;Madera;1;1;1;1;1;5;Cáceres
+1;14001;Almadén;Universitarios;1;1;1;2;2;7;Ciudad Real
+2;14002;Piedrabuena;Mecánicos;2;1;1;2;2;8;Ciudad Real
+3;14003;Montes de Toledo;Cerdo;1;1;1;1;1;5;Ciudad Real
+4;14004;Malagón;Viña;3;2;1;5;4;15;Ciudad Real
+5;14005;Almodóvar del Campo;Cereal;2;2;1;3;3;11;Ciudad Real
+6;14006;Fuencaliente;Madera;1;1;1;1;1;5;Ciudad Real
+7;14007;Solana del Pino;Energía;1;1;1;1;1;5;Ciudad Real
+8;14008;Puertollano;Técnicos;10;10;1;11;14;46;Ciudad Real
+9;14009;Almuradiel;Cereal;1;1;1;1;1;5;Ciudad Real
+10;14010;Villamayor de Calatrava;Lácteo;1;1;1;1;1;5;Ciudad Real
+11;14011;Alcolea de Calatrava;Cereal;1;1;1;1;2;6;Ciudad Real
+12;14012;Argamasilla de Calatrava;Viña;1;1;1;1;3;7;Ciudad Real
+13;14013;Ciudad Real;Dependientes;16;20;1;17;17;71;Ciudad Real
+14;14014;Almagro;Cereal;6;5;1;7;9;28;Ciudad Real
+15;14015;Calzada de Calatrava;Viña;1;1;1;3;1;7;Ciudad Real
+16;14016;Santa Cruz de Mudela ;Empleados;1;1;1;1;1;5;Ciudad Real
+17;14017;Montiel;Viña;1;1;1;2;1;6;Ciudad Real
+18;14018;Bolaños;Hortalizas;4;3;1;5;5;18;Ciudad Real
+19;14019;Valdepeñas;Viña;6;6;1;8;8;29;Ciudad Real
+20;14020;Villahermosa;Lácteo;1;1;1;2;1;6;Ciudad Real
+21;14021;La Solana ;Viña;3;3;1;4;4;15;Ciudad Real
+22;14022;Daimiel;Viña;4;4;1;5;6;20;Ciudad Real
+23;14023;Manzanares;Mecánicos;3;3;1;5;4;16;Ciudad Real
+24;14024;Alcázar de San Juan;Técnicos;8;9;1;8;8;34;Ciudad Real
+25;14025;Argamasilla de Alba;Viña;2;2;1;3;2;10;Ciudad Real
+26;14026;Tomelloso;Viña;7;5;1;7;8;28;Ciudad Real
+27;14027;Socuéllamos-Criptana;Viña;6;6;1;8;7;28;Ciudad Real
+1;15001;San Pedro;Cereal;1;1;1;1;1;5;Albacete
+2;15002;Alcaraz;Vacuno;2;1;1;2;2;8;Albacete
+3;15003;Yeste;Hostelería;1;1;1;1;1;5;Albacete
+4;15004;Nerpio-Letur;Lácteo;1;1;1;1;1;5;Albacete
+5;15005;El Bonillo;Energía;1;1;1;5;1;9;Albacete
+6;15006;Villarobledo;Viña;5;5;1;6;6;23;Albacete
+7;15007;Barrax;Dependientes;1;1;1;1;1;5;Albacete
+8;15008;La Roda;Técnicos;2;2;1;5;4;14;Albacete
+9;15009;Elche de la Sierra;Aves de Corral;2;1;1;2;2;8;Albacete
+10;15010;Hellín;Operarios;5;7;1;7;7;27;Albacete
+11;15011;Tobarra;Viña;2;1;1;2;2;8;Albacete
+12;15012;Fuente-Álamo;Viña;1;1;1;1;1;5;Albacete
+13;15013;Almansa;Viña;4;4;1;5;5;19;Albacete
+14;15014;Montealegre del Castillo;Operarios;1;1;1;1;1;5;Albacete
+15;15015;Higueruela;Energía;1;1;1;1;1;5;Albacete
+16;15016;Pozohondo;Lácteo;1;1;1;1;1;5;Albacete
+17;15017;Balazote;Hortalizas;1;1;1;1;1;5;Albacete
+18;15018;Chinchilla;Empleados;1;1;1;1;1;5;Albacete
+19;15019;Albacete Sur;Empleados;18;16;;17;20;71;Albacete
+20;15020;Albacete Norte;Oficinistas;19;20;;24;24;87;Albacete
+21;15021;Tarazona;Viña;1;1;1;1;1;5;Albacete
+22;15022;Madrigueras;Viña;1;1;1;1;2;6;Albacete
+23;15023;Casas-Ibañez;Mecánicos;2;1;1;2;2;8;Albacete
+24;15024;Alcalá del Júcar;Viña;1;1;1;1;1;5;Albacete
+1;16001;Lagartera;Cereal;1;1;1;1;1;5;Toledo
+2;16002;Oropesa;Dependientes;1;1;1;1;1;5;Toledo
+3;16003;Velada;Cereal;1;1;1;1;1;5;Toledo
+4;16004;Alberche;Cereal;1;1;1;2;2;7;Toledo
+5;16005;Belvis;Olivar;1;1;1;1;1;5;Toledo
+6;16006;Alcaudete de la Jara;Cereal;1;1;1;1;1;5;Toledo
+7;16007;Hontanar;Vacuno;1;1;1;1;1;5;Toledo
+8;16008;Los Navalmorales;Licoreros;3;2;1;4;5;15;Toledo
+9;16009;La Pueblanueva;Aves de Corral;1;1;1;1;1;5;Toledo
+10;16010;Talavera Oeste;Transportistas;8;8;;10;9;35;Toledo
+11;16011;Talavera Este;Dependientes;9;8;;8;11;36;Toledo
+12;16012;Cebolla;Operarios;1;1;1;2;1;6;Toledo
+13;16013;Otero;Cereal;1;1;1;2;2;7;Toledo
+14;16014;Escalonilla;Viña;1;1;1;1;1;5;Toledo
+15;16015;Pepino;Empleados;2;1;1;1;2;7;Toledo
+16;16016;Cazalegas;Aves de Corral;1;1;1;1;1;5;Toledo
+17;16017;Navamorcuende;Vacuno;1;1;1;1;1;5;Toledo
+18;16018;Almorox;Vacuno;3;3;1;5;5;17;Toledo
+19;16019;Torrijos;Operarios;4;4;1;7;5;21;Toledo
+20;16020;Polán;Olivar;2;1;1;2;2;8;Toledo
+21;16021;Sonseca;Operarios;2;4;1;3;4;14;Toledo
+22;16022;Argés;Aves de Corral;3;2;1;4;7;17;Toledo
+23;16023;Nambroca;Vacuno;2;2;1;3;3;11;Toledo
+24;16024;Toledo Vieja;Dependientes;11;9;1;9;12;42;Toledo
+25;16025;Puente de Alcántara;Operarios;8;8;1;10;8;35;Toledo
+26;16026;Bargas;Cereal;4;5;1;5;7;22;Toledo
+27;16027;Camarena;Operarios;3;2;1;2;3;11;Toledo
+28;16028;Yuncos;Aves de Corral;5;5;1;8;7;26;Toledo
+29;16029;Casarrubios;Vacuno;5;4;1;5;7;22;Toledo
+30;16030;Illescas;Operarios;8;7;1;11;14;41;Toledo
+31;16031;Añover del Tajo;Transportistas;4;4;1;4;5;18;Toledo
+32;16032;Seseña;Técnicos;6;5;1;7;10;29;Toledo
+33;16033;Los Yébenes;Cerdo;1;1;1;2;2;7;Toledo
+34;16034;Consuegra-Madridejos;Cereal;5;5;1;8;7;26;Toledo
+35;16035;Lillo;Cereal;1;1;1;1;1;5;Toledo
+36;16036;Villacañas;Viña;2;2;1;3;4;12;Toledo
+37;16037;Corral de Almaguer;Viña;2;1;1;3;2;9;Toledo
+38;16038;Almoradiel;Viña;3;2;1;4;4;14;Toledo
+39;16039;El Toboso;Mecánicos;1;1;1;1;1;5;Toledo
+40;16040;Mora;Olivar;2;1;1;2;3;9;Toledo
+41;16041;Yepes;Viña;2;1;1;2;2;8;Toledo
+42;16042;Ocaña;Vacuno;3;2;1;4;4;14;Toledo
+43;16043;Villarubia;Vacuno;1;1;1;1;1;5;Toledo
+1;17001;Leganiel;Cerdo;1;1;1;1;1;5;Cuenca
+2;17002;Huete-Priego;Cereal;2;1;1;1;2;7;Cuenca
+3;17003;Tarancón;Cerdo;2;2;1;5;4;14;Cuenca
+4;17004;Horcajo de Santiago;Cerdo;2;1;1;2;2;8;Cuenca
+5;17005;Villares del Saz;Cerdo;1;1;1;1;1;5;Cuenca
+6;17006;Villamayor de Santiago;Cereal;1;1;1;2;2;7;Cuenca
+7;17007;Mota del Cuervo;Hostelería;2;3;1;2;3;11;Cuenca
+8;17008;Las Pedroñeras;Hortalizas;1;1;1;2;2;7;Cuenca
+9;17009;El Provencio;Viña;1;1;1;1;1;5;Cuenca
+10;17010;San Clemente;Cerdo;3;2;1;2;2;10;Cuenca
+11;17011;Honrubia;Cereal;1;1;1;1;1;5;Cuenca
+12;17012;Buenache de Alarcón;Agua;1;1;1;1;1;5;Cuenca
+13;17013;Sisante;Viña;1;1;1;1;1;5;Cuenca
+14;17014;Quintanar del Rey;Viña;2;2;1;2;2;9;Cuenca
+15;17015;Motilla del Palancar;Cereal;1;1;1;2;2;7;Cuenca
+16;17016;Iniesta;Cerdo;2;1;1;2;3;9;Cuenca
+17;17017;Mira;Cereal;1;1;1;1;1;5;Cuenca
+18;17018;Landete;Cerdo;1;1;1;1;1;5;Cuenca
+19;17019;Tejadillos;Vacuno;1;0;0;1;1;3;Cuenca
+20;17020;Villar de Olalla;Cereal;1;1;1;2;1;6;Cuenca
+21;17021;Arcas;Vacuno;1;1;1;1;2;6;Cuenca
+22;17022;Cuenca;Dependientes;10;12;;11;14;47;Cuenca
+23;17023;Tragacete;Madera;1;0;0;;1;2;Cuenca
+24;17024;Cañamares;Vacuno;1;0;0;1;1;3;Cuenca
+25;17025;Santa María del Val;Cerdo;1;0;0;1;;2;Cuenca
+1;18001;Almoguera;Viña;1;1;1;1;1;5;Guadalajara
+2;18002;Horche;Cereal;1;1;1;1;1;5;Guadalajara
+3;18003;Sacedón;Cereal;1;1;1;1;1;5;Guadalajara
+4;18004;Trillo;Nuclear;1;1;1;1;1;5;Guadalajara
+5;18005;Pioz;Cereal;1;1;1;1;1;5;Guadalajara
+6;18006;Guadalajara;Operarios;18;17;1;20;20;76;Guadalajara
+7;18007;Azuqueca de Henares;Operarios;6;6;1;8;9;30;Guadalajara
+8;18008;Alovera;Licoreros;4;3;1;5;5;18;Guadalajara
+9;18009;El Casar;Dependientes;2;2;1;2;2;9;Guadalajara
+10;18010;Cabanilla;Transportistas;3;2;1;2;3;11;Guadalajara
+11;18011;Uceda;Cereal;1;1;1;1;1;5;Guadalajara
+12;18012;Torija;Transportistas;1;1;1;2;2;7;Guadalajara
+13;18013;Yunquera de Henares;Licoreros;1;1;1;2;1;6;Guadalajara
+14;18014;Brihuega-Hita;Cereal;1;1;1;1;1;5;Guadalajara
+15;18015;Tarnedeo;Cerdo;1;1;1;1;1;5;Guadalajara
+16;18016;Orea;Madera;1;1;1;1;1;5;Guadalajara
+17;18017;Molina de Aragón;Hostelería;1;1;1;1;1;5;Guadalajara
+18;18018;Tamajón;Aves de Corral;1;1;1;1;1;5;Guadalajara
+19;18019;Jadraque;Cereal;1;1;1;1;1;5;Guadalajara
+20;18020;Atienza;Madera;1;1;1;1;1;5;Guadalajara
+21;18021;Sigüenza;Agua;1;1;1;2;2;7;Guadalajara
+22;18022;Alcolea del Pinar;Agua;1;1;1;1;1;5;Guadalajara
+1;19001;Caravaca de la Cruz;Operarios;6;6;1;8;8;29;Murcia
+2;19002;Bullas;Viña;4;4;1;6;6;21;Murcia
+3;19003;Calasparra;Arroz;2;1;1;3;2;9;Murcia
+4;19004;Gran Lorca;Vacuno;5;5;1;5;7;23;Murcia
+5;19005;Lorca;Dependientes;12;12;1;12;12;49;Murcia
+6;19006;Puerto Lumbreras;Cítricos;2;1;1;2;2;8;Murcia
+7;19007;Águilas;Turismo;7;8;1;7;12;35;Murcia
+8;19008;Puerto de Mazarrón;Turismo;2;3;1;1;3;10;Murcia
+9;19009;Mazarrón;Hortalizas;5;5;1;5;5;21;Murcia
+10;19010;Totana;Aves de Corral;8;6;1;7;7;29;Murcia
+11;19011;Alhama de Murcia;Cerdo;4;3;1;6;5;19;Murcia
+12;19012;Mula;Cítricos;4;4;1;4;4;17;Murcia
+13;19013;Librilla;Cítricos;2;2;1;3;3;11;Murcia
+14;19014;Cieza;Operarios;6;5;1;7;8;27;Murcia
+15;19015;Abarán-Blanca;Fruta;5;5;1;5;5;21;Murcia
+16;19016;Archena;Dependientes;2;2;1;2;2;9;Murcia
+17;19017;Jumilla;Viña;5;4;1;5;6;21;Murcia
+18;19018;Yecla;Operarios;7;7;1;8;9;32;Murcia
+19;19019;Oriental;Cerdo;4;3;1;3;3;14;Murcia
+20;19020;Lorquí;Aves de Corral;2;1;1;1;4;9;Murcia
+21;19021;Molina de Segura Norte;Operarios;7;7;;8;8;30;Murcia
+22;19022;Molina de Segura Sur;Operarios;9;7;;7;7;30;Murcia
+23;19023;Las Torres;Técnicos;5;3;1;3;4;16;Murcia
+24;19024;Alguazas;Empleados;2;2;1;2;2;9;Murcia
+25;19025;Ceutí;Cítricos;2;1;1;3;1;8;Murcia
+26;19026;Santomera;Cítricos;2;2;1;2;2;9;Murcia
+27;19027;Beniel;Dependientes;2;2;1;2;2;9;Murcia
+28;19028;Alquerías;Empleados;2;2;1;2;4;11;Murcia
+29;19029;Huerta del Sur;Olivar;2;2;1;2;2;9;Murcia
+30;19030;Cabezo de Torres;Transportistas;5;3;1;4;4;17;Murcia
+31;19031;Espinardo;Universitarios;11;7;;7;11;36;Murcia
+32;19032;Puente Tocinos;Operarios;5;5;1;6;7;24;Murcia
+33;19033;San Andrés;Dependientes;6;6;;5;5;22;Murcia
+34;19034;Vistabella;Oficinistas;11;9;;11;14;45;Murcia
+35;19035;El Carmen;Empleados;12;10;;15;18;55;Murcia
+36;19036;Los Dolores;Taxistas;4;4;1;4;5;18;Murcia
+37;19037;Barrio del Progreso;Transportistas;7;7;1;7;7;29;Murcia
+38;19038;Huerta Metropolitana;Empleados;4;4;1;4;4;17;Murcia
+39;19039;Javalí;Empleados;4;3;1;3;3;14;Murcia
+40;19040;Alcantarilla;Operarios;8;9;1;11;10;39;Murcia
+41;19041;Sangonera;Audiovisual;2;3;1;3;3;12;Murcia
+42;19042;El Palmar;Técnicos;4;4;1;4;5;18;Murcia
+43;19043;La Alberca;Empleados;3;3;1;3;3;13;Murcia
+44;19044;Fuente Álamo de Murcia;Técnicos;2;2;1;2;2;9;Murcia
+45;19045;Santa Ana;Licoreros;5;5;1;5;5;21;Murcia
+46;19046;Concepción;Hostelería;10;10;;10;10;40;Murcia
+47;19047;Ensanche;Oficinistas;14;14;;15;21;64;Murcia
+48;19048;San Ginés;Estibadores;10;10;;10;10;40;Murcia
+49;19049;La Unión;Empleados;4;4;1;3;5;17;Murcia
+50;19050;Cabo de Palos;Hostelería;3;5;1;3;4;16;Murcia
+51;19051;Torre-Pacheco;Hortalizas;9;9;1;11;15;45;Murcia
+52;19052;San Javier;Hostelería;6;7;1;6;7;27;Murcia
+53;19053;San Pedro del Pinatar;Pesca;5;7;1;5;5;23;Murcia
+54;19054;La Manga;Hostelería;2;2;;1;1;6;Murcia
+1;20001;Orihuela;Hostelería;20;17;1;24;29;91;Alicante
+2;20002;Torrevieja;Hosteleria;12;20;;22;22;76;Alicante
+3;20003;Villas de la Vega Baja;Cítricos;34;28;1;37;40;140;Alicante
+4;20004;Guardamar del Segura;Hostelería;4;6;1;3;3;17;Alicante
+5;20005;Crevillente;Operarios;6;5;1;6;6;24;Alicante
+6;20006;Elche Este;Operarios;22;19;1;31;27;100;Alicante
+7;20007;Elche Oeste;Oficinistas;25;23;1;20;29;98;Alicante
+8;20008;Miguel Hernández;Universitarios;4;4;;3;3;14;Alicante
+9;20009;Santa Pola;Hostelería;5;5;1;5;5;21;Alicante
+10;20010;Diputación-Asís;Empleados;21;17;1;25;25;89;Alicante
+11;20011;San Blas;Operarios;19;17;1;21;23;81;Alicante
+12;20012;San Antón;Oficinistas;24;24;;20;24;92;Alicante
+13;20013;Albufereta;Hostelería;14;17;;11;17;59;Alicante
+14;20014;El Campello;Hostelería;6;6;1;5;5;23;Alicante
+15;20015;Muchamiel;Transportistas;9;8;1;9;9;36;Alicante
+16;20016;San Vicente del Raspeig;Operarios;11;9;1;12;14;47;Alicante
+17;20017;Aspe;Fruta;6;6;1;6;9;28;Alicante
+18;20018;Petrer;Operarios;7;7;1;8;8;31;Alicante
+19;20019;Novelda;Fruta;5;5;1;6;5;22;Alicante
+20;20020;Monóvar;Viña;5;5;1;7;6;24;Alicante
+21;20021;Elda;Operarios;15;12;1;20;20;68;Alicante
+22;20022;Villena;Operarios;9;7;1;10;9;36;Alicante
+23;20023;Corredor de Onil;Operarios;5;5;1;6;7;24;Alicante
+24;20024;Xixona;Dependientes;2;2;1;1;1;7;Alicante
+25;20025;Ibi;Técnicos;5;5;1;6;6;23;Alicante
+26;20026;Alcoy;Operarios;12;10;1;15;15;53;Alicante
+27;20027;Villajoyosa;Hostelería;8;9;1;6;9;33;Alicante
+28;20028;Benidorm;Hostelería;11;19;;13;19;62;Alicante
+29;20029;Altea;Hostelería;18;20;1;16;19;74;Alicante
+30;20030;Comtat;Olivar;5;5;1;6;6;23;Alicante
+31;20031;Pego;Arroz;9;8;1;12;10;40;Alicante
+32;20032;Calpe;Hostelería;8;10;1;8;10;37;Alicante
+33;20033;Denia;Hostelería;15;17;1;12;12;57;Alicante
+1;21001;Onteniente;Operarios;7;8;1;8;9;33;Valencia
+2;21002;Albaida;Operarios;5;4;1;7;9;26;Valencia
+3;21003;Puebla del Duc;Fruta;3;3;1;4;4;15;Valencia
+4;21004;Gandía;Hostelería;30;28;1;24;36;119;Valencia
+5;21005;Valldigna;Dependientes;7;6;1;5;5;24;Valencia
+6;21006;Ribera Baixa;Arroz;19;16;1;20;19;75;Valencia
+7;21007;Carlet;Cítricos;8;7;1;12;12;40;Valencia
+8;21008;Algemesí;Dependientes;9;11;1;9;10;40;Valencia
+9;21009;Alzira;Operarios;10;10;1;9;11;41;Valencia
+10;21010;Carcaixent;Dependientes;4;4;1;5;5;19;Valencia
+11;21011;Alberique;Cítricos;10;9;1;10;12;42;Valencia
+12;21012;Xàtiva;Dependientes;11;13;1;9;11;45;Valencia
+13;21013;Canals;Cítricos;4;4;1;5;6;20;Valencia
+14;21014;Navarrés;Cerdo;2;1;1;2;2;8;Valencia
+15;21015;Enguena;Olivar;1;1;1;2;2;7;Valencia
+16;21016;Ayora;Apicultura;2;2;1;2;3;10;Valencia
+17;21017;Requena;Viña;4;4;1;5;6;20;Valencia
+18;21018;Utiel;Viña;4;4;1;5;4;18;Valencia
+19;21019;Cheste;Olivar;1;1;1;2;2;7;Valencia
+20;21020;Chiva;Fruta;3;3;1;3;3;13;Valencia
+21;21021;Buñol;Operarios;3;3;1;5;4;16;Valencia
+22;21022;Ademuz;Fruta;1;1;1;1;1;5;Valencia
+23;21023;Serranos;Viña;3;3;1;4;4;15;Valencia
+24;21024;Viles del Turia;Cítricos;20;18;1;20;24;83;Valencia
+25;21025;Llíria;Operarios;4;4;1;5;6;20;Valencia
+26;21026;Bétera;Cítricos;8;7;1;10;11;37;Valencia
+27;21027;Paiporta;Transportistas;14;13;1;16;16;60;Valencia
+28;21028;Catarroja;Operarios;21;21;1;22;27;92;Valencia
+29;21029;Torrente;Operarios;33;30;1;36;37;137;Valencia
+30;21030;Paterna;Técnicos;28;22;1;31;36;118;Valencia
+31;21031;Mislata-Xirivella;Dependientes;18;14;;18;19;69;Valencia
+32;21032;Quatre Carreres;Estibadores;20;16;;19;27;82;Valencia
+33;21033;Jesús-Patraix;Operarios;26;20;;27;33;106;Valencia
+34;21034;L'Olivareta;Dependientes;10;10;;12;14;46;Valencia
+35;21035;Ciutat Vella;Oficinistas;28;33;;23;30;114;Valencia
+36;21036;Camins al Grau;Hostelería;15;14;;14;15;58;Valencia
+37;21037;Algirós;Dependientes;13;13;;14;14;54;Valencia
+38;21038;Benimaclet;Universitarios;11;9;;7;8;35;Valencia
+39;21039;Campanar-Benicalap;Empleados;24;22;;19;25;90;Valencia
+40;21040;Rascanya;Empleados;17;16;;13;15;61;Valencia
+41;21041;Burjassot;Universitarios;8;9;;8;9;34;Valencia
+42;21042;Moncada;Arroz;4;4;1;4;4;17;Valencia
+43;21043;Cinturó Nord;Transportistas;20;16;1;25;23;85;Valencia
+44;21044;El Puig;Cítricos;5;5;1;6;7;24;Valencia
+45;21045;Puçol;Operarios;3;3;1;4;4;15;Valencia
+46;21046;Puerto de Sagunto;Técnicos;12;11;1;10;11;45;Valencia
+47;21047;Sagunto;Cítricos;10;9;1;12;10;42;Valencia
+1;44001;Rianxo;Pesca;2;2;1;3;3;11;A Coruña
+2;44002;Ribeira;Pesca;14;9;1;14;12;50;A Coruña
+3;44003;Noia;Pesca;5;4;1;5;5;20;A Coruña
+4;44004;Ames;Vacuno;16;15;1;16;19;67;A Coruña
+5;44005;Vedra-Boqueixon;Empleados;2;1;1;2;3;9;A Coruña
+6;44006;Santiago de Compostela;Oficinistas;19;18;1;20;20;78;A Coruña
+7;44007;San Marcos;Audiovisual;4;2;1;2;4;13;A Coruña
+8;44008;A Barcala;Vacuno;2;2;1;2;2;9;A Coruña
+9;44009;Finisterre;Dependientes;12;11;1;11;11;46;A Coruña
+10;44010;Soneira;Vacuno;5;3;1;4;4;17;A Coruña
+11;44011;Santa Comba;Vacuno;2;2;1;3;2;10;A Coruña
+12;44012;Ponteceso;Pesca;3;2;1;6;5;17;A Coruña
+13;44013;Coristanco;Cerdo;1;1;1;2;1;6;A Coruña
+14;44014;Carballo;Operarios;11;8;1;9;10;39;A Coruña
+15;44015;Ordes;Lácteo;8;6;1;8;8;31;A Coruña
+16;44016;Frades;Vacuno;1;1;1;2;2;7;A Coruña
+17;44017;Arzúa;Aves de Corral;4;3;1;4;4;16;A Coruña
+18;44018;Melida;Dependientes;3;2;1;2;2;10;A Coruña
+19;44019;Curtis;Lácteo;3;2;1;4;4;14;A Coruña
+20;44020;Betanzos;Profesionales;4;3;1;3;3;14;A Coruña
+21;44021;Miño;Pesca;3;1;1;3;3;11;A Coruña
+1;23001;Formentera;Hostelería;3;2;1;2;3;11;Mallorca
+2;23002;San Antoni;Hostelería;10;12;1;10;11;44;Mallorca
+3;23003;Ibiza;Hostelería;11;12;;11;11;45;Mallorca
+4;23004;Santa Eulària desRiu;Hostelería;8;8;1;9;9;35;Mallorca
+5;23005;Calviá;Hostelería;21;22;1;22;22;88;Mallorca
+6;23006;Pollença;Hostelería;4;4;1;4;4;17;Mallorca
+7;23007;Alcudia;Cereal;10;12;1;11;10;44;Mallorca
+8;23008;Maria de la Salut;Cereal;3;3;2;3;3;14;Mallorca
+9;23009;Inca;Operarios;8;6;1;7;7;29;Mallorca
+10;23010;Lloseta;Operarios;1;1;1;2;2;7;Mallorca
+11;23011;Binissalem;Lácteo;4;3;1;4;4;16;Mallorca
+12;23012;Marratxi;Energía;9;8;1;10;11;39;Mallorca
+13;23013;Lllevant;Hostelería;31;34;;24;32;121;Mallorca
+14;23014;Pedro Garau;Empleados;21;19;;22;21;83;Mallorca
+15;23015;Canavall-Bons Aires;Dependientes;23;24;;23;24;94;Mallorca
+16;23016;Poniente;Estibadores;13;13;;14;15;55;Mallorca
+17;23017;Llucmajor;Hostelería;11;12;1;11;14;49;Mallorca
+18;23018;Cabrera;Pesca;0;0;0;0;1;1;Mallorca
+19;23019;Campos;Hostelería;7;7;1;8;8;31;Mallorca
+20;23020;Sant Llorenç des Cardassar;Cereal;4;6;1;6;5;22;Mallorca
+21;23021;Manacor;Hostelería;9;10;1;8;9;37;Mallorca
+22;23022;Ciutadella;Hostelería;10;10;1;9;9;39;Mallorca
+23;23023;Mahón;Lácteo;9;9;1;10;10;39;Mallorca
+22;44022;Sada;Transportistas;5;3;1;5;5;19;A Coruña
+23;44023;Oleiros;Empleados;8;5;1;8;8;30;A Coruña
+24;44024;Cambre;Vacuno;5;3;1;5;4;18;A Coruña
+25;44025;Culleredo;Operarios;7;5;1;7;7;27;A Coruña
+26;44026;Arteixo;Operarios;6;5;1;9;7;28;A Coruña
+27;44027;Oza-Viña;Dependientes;30;25;1;25;26;107;A Coruña
+28;44028;Riazor-Ensanche;Oficinistas;27;23;;25;27;102;A Coruña
+29;44029;Monte Alto;Estibadores;6;5;;7;5;23;A Coruña
+30;44030;As Pontes de García Rodríguez;Energía;3;2;1;3;3;12;A Coruña
+31;44031;Fene;Operarios;9;6;1;10;8;34;A Coruña
+32;44032;Ferrol;Operarios;17;12;1;15;15;60;A Coruña
+33;44033;Narón;Transportistas;9;7;1;9;9;35;A Coruña
+34;44034;San Sadurniño;Pesca;2;1;1;3;3;10;A Coruña
+35;44035;Ortegal;Pesca;4;3;1;4;4;16;A Coruña
+1;48001;Llodio;Profesionales;4;4;1;4;4;17;Álava
+2;48002;Ayala;Vacuno;2;1;1;1;1;6;Álava
+3;48003;Amurrio;Operarios;2;2;1;3;2;10;Álava
+4;48004;Añana;Transportistas;2;1;1;2;2;8;Álava
+5;48005;Santa Cruz de Campezo;Vacuno;1;0;1;1;0;3;Álava
+6;48006;Rioja Alavesa;Viña;2;2;1;3;3;11;Álava
+7;48007;Salvatierra;Cereal;1;1;1;2;2;7;Álava
+8;48008;Alegría ;Cereal;1;1;1;1;1;5;Álava
+9;48009;Zuia;Lácteo;4;2;1;3;4;14;Álava
+10;48010;Vitoria Grande;Operarios;30;22;1;28;32;113;Álava
+11;48011;Vitoria Central;Oficinistas;35;27;;26;28;116;Álava
+1;25001;Piedrahita;Aves de Corral;1;1;1;1;1;5;Ávila
+2;25002;El Barco de Ávila;Empleados;1;1;1;1;1;5;Ávila
+3;25003;Gil García;Vacuno;1;1;1;1;1;5;Ávila
+4;25004;Candeleda;Ovino;1;1;1;1;1;5;Ávila
+5;25005;Arenas de San Pedro;Hostelería;3;3;1;2;5;14;Ávila
+6;25006;Sierra de Gredos;Hostelería;1;1;1;1;1;5;Ávila
+7;25007;Piedralaves;Vacuno;2;2;1;2;2;9;Ávila
+8;25008;Alberche;Vacuno;2;2;1;3;3;11;Ávila
+9;25009;Solosancho;Cereal;1;1;1;1;1;5;Ávila
+10;25010;Gemuño;Cereal;1;1;1;1;1;5;Ávila
+11;25011;Ávila;Dependientes;12;12;1;12;12;49;Ávila
+12;25012;Arevalillo;Ovino;1;1;1;1;1;5;Ávila
+13;25013;Fontilveros;Cereal;1;1;1;1;1;5;Ávila
+14;25014;Las Berlanas;Cereal;1;1;1;1;1;5;Ávila
+15;25015;Ojos Albos;Aves de Corral;1;1;1;1;1;5;Ávila
+16;25016;Madrigal de las Altas Torres;Cereal;1;1;1;1;2;6;Ávila
+17;25017;Nava de Arévalo;Cereal;1;1;1;1;2;6;Ávila
+18;25018;Arévalo;Cereal;2;1;1;2;2;8;Ávila
+1;32001;Villarcayo;Hostelería;2;3;1;2;2;10;Burgos
+2;32002;Medina de Pomar;Cereal;2;3;1;3;3;12;Burgos
+3;32003;Santa Gadea del Cid;Cereal;1;1;1;1;0;4;Burgos
+4;32004;Miranda de Ebro;Operarios;7;7;1;8;9;32;Burgos
+5;32005;Treviño;Cereal;1;0;1;1;0;3;Burgos
+6;32006;Pancorbo;Aves de Corral;1;0;1;1;1;4;Burgos
+7;32007;Briviesca;Cereal;1;1;1;2;1;6;Burgos
+8;32008;Rojas;Cereal;1;0;1;1;0;3;Burgos
+9;32009;Poza de la Sal;Energía;0;0;1;1;0;2;Burgos
+10;32010;Oña;Leguminosa;1;1;1;1;1;5;Burgos
+11;32011;Santa María del Invierno;Cereal;0;0;1;1;1;3;Burgos
+12;32012;Merindad ;Mecánicos;1;1;1;0;0;3;Burgos
+13;32013;Valle de Sedano;Hostelería;0;0;1;1;1;3;Burgos
+14;32014;Villadiego;Cereal;2;1;1;2;2;8;Burgos
+15;32015;Quintanadueñas;Cereal;1;1;1;1;2;6;Burgos
+16;32016;Estépar;Empleados;1;0;1;1;0;3;Burgos
+17;32017;Arcos de la Llana;Empleados;1;0;1;1;1;4;Burgos
+18;32018;Villalbilla;Técnicos;0;1;1;1;1;4;Burgos
+19;32019;San Amaro;Universitarios;8;7;1;7;10;33;Burgos
+20;32020;Arco de Santa María;Hostelería;5;6;;5;5;21;Burgos
+21;32021;San Julián;Técnicos;14;11;1;12;12;50;Burgos
+22;32022;Gamonal;Operarios;12;9;1;14;17;53;Burgos
+23;32023;Orbaneja;Aves de Corral;1;0;1;1;1;4;Burgos
+24;32024;Quintanilla;Cereal;0;0;1;1;1;3;Burgos
+25;32025;Belorado;Cereal;1;1;1;1;1;5;Burgos
+26;32026;Pradoluengo;Dependientes;1;1;1;1;1;5;Burgos
+27;32027;Campolara ;Cereal;0;0;1;1;1;3;Burgos
+28;32028;Salas de los Infantes;Vacuno;1;1;1;1;1;5;Burgos
+29;32029;Quintanar de la Sierra;Madera;1;1;1;1;1;5;Burgos
+30;32030;Villahoz;Cereal;1;1;1;1;1;5;Burgos
+31;32031;Villamanzo;Cereal;1;0;1;1;1;4;Burgos
+32;32032;Lerma;Mecánicos;1;1;1;1;2;6;Burgos
+33;32033;Sotillo de la Ribera;Cereal;1;0;1;1;1;4;Burgos
+34;32034;Caleruega;Cereal;1;0;1;1;1;4;Burgos
+35;32035;Roa;Viña;1;1;1;1;1;5;Burgos
+36;32036;Castrillo de la Vega;Cereal;1;0;1;1;0;3;Burgos
+37;32037;Adrada de Haza;Leguminosa;1;0;1;1;1;4;Burgos
+38;32038;Vadocondes;Cereal;1;0;1;1;1;4;Burgos
+39;32039;Aranda de Duero;Operarios;5;6;1;9;6;27;Burgos
+40;32040;Gumiel de Izán;Viña;1;0;1;1;0;3;Burgos
+41;32041;La Viña;Cereal;1;0;1;1;1;4;Burgos
+1;22001;La Vall d'Uxió;Cítricos;18;22;1;20;19;80;Castellón
+2;22002;Onda;Cítricos;6;5;1;7;7;26;Castellón
+3;22003;Villarreal;Operarios;10;11;1;12;11;45;Castellón
+4;22004;Segorbe;Olivar;3;2;1;3;2;11;Castellón
+5;22005;Altura;Olivar;2;2;1;3;3;11;Castellón
+6;22006;Mijares;Aves de Corral;1;1;1;1;1;5;Castellón
+7;22007;l'Alcora;Operarios;2;1;1;3;3;10;Castellón
+8;22008;Atzeneta del Maestrat;Cerdo;1;1;1;1;1;5;Castellón
+9;22009;Jaume I;Universitarios;6;4;1;4;7;22;Castellón
+10;22010;Castelló Nord;Dependientes;14;14;;13;14;55;Castellón
+11;22011;Castelló Sud;Operarios;14;12;1;14;14;55;Castellón
+12;22012;Port Castelló;Estibadores;6;6;1;6;7;26;Castellón
+13;22013;Almazora;Operarios;4;4;1;4;4;17;Castellón
+14;22014;Benicàssim;Hostelería;4;5;1;4;4;18;Castellón
+15;22015;Borriol-Oropesa;Olivar;4;5;1;5;5;20;Castellón
+16;22016;Benicarló;Hostelería;6;7;1;6;6;26;Castellón
+17;22017;Saint Mateu;Olivar;5;5;1;6;6;23;Castellón
+18;22018;Vinarós;Pesca;5;5;1;6;6;23;Castellón
+19;22019;Villafranca del Cid;Operarios;1;1;1;1;1;5;Castellón
+20;22020;Morella;Energía;2;1;1;2;2;8;Castellón
+21;22021;Rosell;Cerdo;1;1;1;1;1;5;Castellón
+1;50001;Mutriku;Energía;1;1;1;1;1;5;Guipúzcoa
+2;50002;Zarauz;Turismo;27;21;1;21;21;91;Guipúzcoa
+3;50003;Eibar;Operarios;6;5;1;6;8;26;Guipúzcoa
+4;50004;Mondragón;Técnicos;8;9;1;8;10;36;Guipúzcoa
+5;50005;Vergara;Operarios;7;6;1;6;7;27;Guipúzcoa
+6;50006;Goierri;Técnicos;15;14;1;17;15;62;Guipúzcoa
+7;50007;Tolosa;Vacuno;10;9;1;9;13;42;Guipúzcoa
+8;50008;Andoáin;Técnicos;10;9;1;10;9;39;Guipúzcoa
+9;50009;Hernani-Errentería;Empleados;18;14;1;15;17;65;Guipúzcoa
+10;50010;La Concha;Hostelería;25;25;;17;17;84;Guipúzcoa
+11;50011;Intxaurrondo;Turismo;27;20;;20;21;88;Guipúzcoa
+12;50012;Lezo;Energía;3;3;1;3;3;13;Guipúzcoa
+13;50013;Hondarribia;Pesca;3;3;1;4;5;16;Guipúzcoa
+14;50014;Irún;Transportistas;15;14;1;15;16;61;Guipúzcoa
+1;37001;Canfranc;Madera;1;1;1;1;1;5;Huesca
+2;37002;Bailo;Lácteo;1;0;1;1;0;3;Huesca
+3;37003;Jaca;Turismo;2;3;1;2;3;11;Huesca
+4;37004;Sabiñabigo;Operarios;2;1;1;3;3;10;Huesca
+5;37005;Ordesa;Turismo;1;1;1;1;1;5;Huesca
+6;37006;Ainsa;Agua;1;0;1;1;1;4;Huesca
+7;37007;Benasque;Aves de Corral;1;1;1;1;1;5;Huesca
+8;37008;Graus;Cereal;2;1;1;1;2;7;Huesca
+9;37009;Ayerbe;Cerdo;1;0;1;1;0;3;Huesca
+10;37010;Almudévar;Transportistas;1;1;1;1;1;5;Huesca
+11;37011;Huesca;Operarios;10;12;1;12;14;49;Huesca
+12;37012;La Sotonera;Cereal;1;1;1;1;0;4;Huesca
+13;37013;Novales;Cerdo;1;0;1;1;0;3;Huesca
+14;37014;Guara;Cerdo;0;1;1;1;0;3;Huesca
+15;37015;Salas Altas;Cereal;1;0;1;1;0;3;Huesca
+16;37016;Barbastro;Cerdo;1;1;1;1;0;4;Huesca
+17;37017;El Grado;Viña;1;0;1;1;0;3;Huesca
+18;37018;Monzón;Operarios;4;3;1;4;5;17;Huesca
+19;37019;Binaced;Cereal;1;0;1;1;0;3;Huesca
+20;37020;Alcolea;Cerdo;1;0;1;1;1;4;Huesca
+21;37021;Ballovar;Cerdo;2;2;1;2;2;9;Huesca
+22;37022;Fraga;Aves de Corral;3;3;1;3;4;14;Huesca
+23;37023;Tamarite;Vacuno;2;1;1;3;2;9;Huesca
+24;37024;Binéfar;Vacuno;2;2;1;2;2;9;Huesca
+25;37025;Valfarta;Cerdo;1;0;1;1;0;3;Huesca
+26;37026;Sariñena;Cereal;1;1;1;1;1;5;Huesca
+27;37027;Lanaja;Cerdo;2;2;1;3;3;11;Huesca
+1;30001;Fabero;Minería;6;4;1;7;6;24;León
+2;30002;Carracedelo;Madera;4;4;1;4;4;17;León
+3;30003;Ponferrada;Operarios;12;13;1;14;14;54;León
+4;30004;Bembibre;Minería;6;5;1;7;7;26;León
+5;30005;Villablino;Minería;2;2;1;3;3;11;León
+6;30006;La Robla;Energía;2;2;1;3;2;10;León
+7;30007;Boñar;Madera;2;1;1;2;2;8;León
+8;30008;Riaño;Hostelería;2;1;1;1;1;6;León
+9;30009;Cabrera;Minería;1;1;1;2;1;6;León
+10;30010;Astorga;Dependientes;3;3;1;2;3;12;León
+11;30011;Carrizo de la Ribera;Cereal;2;1;1;2;2;8;León
+12;30012;Villarejo de Órbigo;Cereal;1;1;1;2;2;7;León
+13;30013;La Bañeza ;Cereal;3;3;1;3;3;13;León
+14;30014;Santa Elena;Empleados;1;1;1;1;1;5;León
+15;30015;Villadangos;Transportistas;2;2;1;2;2;9;León
+16;30016;Santa María;Cereal;1;1;1;1;1;5;León
+17;30017;Alija del Infantado;Cereal;1;1;1;1;1;5;León
+18;30018;Valderas;Cereal;1;1;1;1;1;5;León
+19;30019;Laguna de Negrillos;Aves de Corral;1;1;1;1;1;5;León
+20;30020;Valencia de Don Juan;Operarios;1;2;1;2;2;8;León
+21;30021;Villaturiel;Cereal;1;1;1;1;1;5;León
+22;30022;Sahagún;Dependientes;1;1;1;1;1;5;León
+23;30023;Burgo Ranero;Cereal;1;1;1;1;1;5;León
+24;30024;Almanza;Cereal;1;1;1;1;1;5;León
+25;30025;Bernesga;Dependientes;11;12;;11;11;45;León
+26;30026;Santo Domingo;Oficinistas;10;10;;9;11;40;León
+27;30027;San Marcos;Empleados;11;8;;12;12;43;León
+28;30028;San Andrés del Rabanedo;Dependientes;6;5;1;5;6;23;León
+29;30029;Sariegos;Oficinistas;1;1;1;1;1;5;León
+30;30030;Villaquilambre;Técnicos;3;4;1;4;3;15;León
+31;30031;Garrafe de Torio;Madera;1;0;1;1;1;4;León
+32;30032;Valdefresno;Cereal;1;0;1;1;1;4;León
+1;34001;Haro;Viña;2;2;1;3;4;12;Logroño
+2;34002;Santo Domingo de la Calzada;Cereal;3;2;1;4;4;14;Logroño
+3;34003;Ezcaray;Hostelería;1;1;1;1;1;5;Logroño
+4;34004;Nájera;Operarios;3;2;1;5;3;14;Logroño
+5;34005;Cameros;Madera;1;1;1;1;1;5;Logroño
+6;34006;Murillo;Cereal;3;3;1;4;5;16;Logroño
+7;34007;Lardero;Viña;2;2;1;4;9;18;Logroño
+8;34008;Logroño Oeste;Dependientes;14;19;1;14;15;63;Logroño
+9;34009;Logroño Este;Empleados;16;14;1;19;22;72;Logroño
+10;34010;Arnedo;Operarios;4;4;1;6;6;21;Logroño
+11;34011;Calahorra;Viña;5;5;1;6;5;22;Logroño
+12;34012;Alfaro;Viña;6;4;1;7;7;25;Logroño
+13;34013;Cervera del Río Alhama;Viña;1;1;1;1;1;5;Logroño
+1;45001;Viveiro;Pesca;4;3;1;5;5;18;Lugo
+2;45002;Burela-Xove;Pesca;6;3;1;6;5;21;Lugo
+3;45003;Foz;Turismo;1;2;1;2;2;8;Lugo
+4;45004;Mondoñedo;Profesionales;1;1;1;1;1;5;Lugo
+5;45005;Ribadeo;Dependientes;3;4;1;3;3;14;Lugo
+6;45006;Muras-Orol;Técnicos;1;0;1;1;0;3;Lugo
+7;45007;Vilalba;Vacuno;6;4;1;5;6;22;Lugo
+8;45008;Castro de Rei;;1;1;1;1;1;5;Lugo
+9;45009;Meira;Aves de Corral;1;1;1;2;2;7;Lugo
+10;45010;A Pontenova;Vacuno;1;0;1;1;0;3;Lugo
+11;45011;Guitiriz;Vacuno;2;2;1;2;2;9;Lugo
+12;45012;Ulloa;Vacuno;3;1;1;2;2;9;Lugo
+13;45013;Guntín;Hostelería;2;2;1;1;1;7;Lugo
+14;45014;Outeiro de Rei;Oficinistas;3;1;1;2;5;12;Lugo
+15;45015;Lugo;Dependientes;21;20;1;19;23;84;Lugo
+16;45016;O Corgo;Transportistas;1;0;1;1;1;4;Lugo
+17;45017;Castroverde;Lácteo;1;1;1;1;2;6;Lugo
+18;45018;A Fonsagrada;Vacuno;1;1;1;2;1;6;Lugo
+19;45019;Os Ancares;Lácteo;2;2;1;2;2;9;Lugo
+20;45020;Quiroga;Viña;1;1;1;1;1;5;Lugo
+21;45021;O Inicio;Vacuno;1;1;1;2;1;6;Lugo
+22;45022;Sarria;Lácteo;4;3;1;4;5;17;Lugo
+23;45023;Monforte de Lemos;Operarios;4;4;1;5;5;19;Lugo
+1;33001;San Martín de Valdeiglesias;Viña;3;3;1;3;5;15;Madrid
+2;33002;Navalcarnero;Viña;7;5;1;6;7;26;Madrid
+3;33003;Valdemorillo;Cerdo;1;1;1;2;2;7;Madrid
+4;33004;San Lorenzo del Escorial;Turismo;7;7;1;6;6;27;Madrid
+5;33005;Galapagar;Hostelería;6;7;1;6;7;27;Madrid
+6;33006;Collado Villalba;Dependientes;15;13;1;14;17;60;Madrid
+7;33007;Rascafría;Madera;4;4;1;5;4;18;Madrid
+8;33008;Hoyo de Manzanares;Dependientes;9;7;1;7;9;33;Madrid
+9;33009;Colmenar Viejo;Vacuno;29;21;1;32;33;116;Madrid
+10;33010;Daganzo;Cereal;5;4;1;6;6;22;Madrid
+11;33011;Algete;Cereal;9;8;1;8;11;37;Madrid
+12;33012;Guadalix de la Sierra;Vacuno;3;2;1;3;3;12;Madrid
+13;33013;Torrelaguna;Energía;2;2;1;1;2;8;Madrid
+14;33014;Buitrago de Lozoya;Agua;2;1;1;2;2;8;Madrid
+15;33015;San Sebastián de los Reyes;Audiovisual;20;16;1;21;20;78;Madrid
+16;33016;Valdelasfuentes;Profesionales;7;6;;6;7;26;Madrid
+17;33017;Coronación;Operarios;16;16;1;17;18;68;Madrid
+18;33018;La Moraleja;Profesionales;3;3;;2;4;12;Madrid
+19;33019;Paracuellos del Jarama;;6;4;1;5;5;21;Madrid
+20;33020;Coslada;;17;15;1;21;21;75;Madrid
+21;33021;San Fernando de Henares;Operarios;8;7;1;10;9;35;Madrid
+22;33022;Rivas;;25;25;1;27;32;110;Madrid
+23;33023;Torrejón de Ardoz;Operarios;27;22;1;36;39;125;Madrid
+24;33024;Villalbilla;Empleados;6;5;1;8;8;28;Madrid
+25;33025;La Garena;Operarios;13;10;1;12;12;48;Madrid
+26;33026;Alcalá Vieja;Turismo;15;12;;12;16;55;Madrid
+27;33027;El Ensanche;Universitarios;9;8;;9;11;37;Madrid
+28;33028;Virgen del Val;Transportistas;12;9;;15;14;50;Madrid
+29;33029;San Martín de la Vega;Empleados;4;4;1;4;4;17;Madrid
+30;33030;Arganda del Rey;Operarios;11;8;1;13;15;48;Madrid
+31;33031;Campo Real;Olivar;4;2;1;4;5;16;Madrid
+32;33032;Chinchón;Cereal;4;2;1;5;5;17;Madrid
+33;33033;Villarejo de Salvanés;Viña;4;3;1;6;5;19;Madrid
+34;33034;Villaconejos;Hortalizas;1;1;1;1;1;5;Madrid
+35;33035;Aranjuez;Hostelería;12;13;1;12;14;52;Madrid
+36;33036;Ciempozuelos;Hortalizas;4;3;1;5;6;19;Madrid
+37;33037;Valdemoro;Transportistas;17;14;1;19;21;72;Madrid
+38;33038;Griñón;Empleados;14;8;1;15;14;52;Madrid
+39;33039;Villaviciosa de Odón;Dependientes;5;6;1;5;8;25;Madrid
+40;33040;Brunete;Dependientes;6;7;1;6;7;27;Madrid
+41;33041;Banda Oeste;Profesionales;53;52;1;49;51;206;Madrid
+42;33042;Pozuelo de Alarcón;Oficinistas;22;22;1;15;22;82;Madrid
+43;33043;Móstoles;Empleados;52;46;1;55;51;205;Madrid
+44;33044;Alcorcón Sur;Hostelería;19;21;1;18;20;79;Madrid
+45;33045;Alcorcón Norte;Operarios;20;18;1;22;24;85;Madrid
+46;33046;Fuenlabrada;Operarios;45;41;1;47;49;183;Madrid
+47;33047;San Nicasio;Universitarios;11;12;;9;12;44;Madrid
+48;33048;Severo Ochoa;Empleados;21;17;;21;24;83;Madrid
+49;33049;Zarzaquemada;Dependientes;11;15;1;12;12;51;Madrid
+50;33050;Getafe Norte;Operarios;24;17;1;24;22;88;Madrid
+51;33051;Getafe Sur;Transportistas;23;19;1;24;27;94;Madrid
+52;33052;Parla;Empleados;28;29;1;28;31;117;Madrid
+53;33053;Pinto;Transportistas;11;11;1;11;11;45;Madrid
+54;33054;Las Águilas;Operarios;12;8;1;8;9;38;Madrid
+55;33055;Aluche;Hostelería;16;13;;18;16;63;Madrid
+56;33056;Lucero;Empleados;29;21;;29;28;107;Madrid
+57;33057;Carabanchel;;69;46;;58;59;232;Madrid
+58;33058;Usera;Dependientes;15;18;;15;15;63;Madrid
+59;33059;Orcasitas;Mecánicos;16;12;;13;17;58;Madrid
+60;33060;Villaverde Bajo;Operarios;22;14;1;21;23;81;Madrid
+61;33061;Villaverde Alto;Operarios;18;13;1;19;18;69;Madrid
+62;33062;Entrevías;Taxistas;9;6;;9;9;33;Madrid
+63;33063;Numancia;Empleados;23;16;;22;26;87;Madrid
+64;33064;Palomeras;Transportistas;22;15;;22;23;82;Madrid
+65;33065;Villa;Operarios;23;15;1;28;29;96;Madrid
+66;33066;Arganzuela;Profesionales;40;26;;34;37;137;Madrid
+67;33067;Retiro;Oficinistas;27;27;;29;28;111;Madrid
+68;33068;Lavapiés;Riders;17;16;;19;15;67;Madrid
+69;33069;Gran Vía;Oficinistas;16;17;;11;15;59;Madrid
+70;33070;Argüelles;Profesionales;6;5;;5;6;22;Madrid
+71;33071;Ciudad Universitaria;Universitarios;10;7;;8;11;36;Madrid
+72;33072;Aravaca;Universitarios;12;11;;10;12;45;Madrid
+73;33073;El Plantío;Oficinistas;1;1;;1;1;4;Madrid
+74;33074;Chamberí;Oficinistas;30;27;;28;34;119;Madrid
+75;33075;Salamanca;Profesionales;35;31;;29;36;131;Madrid
+76;33076;Cruz del Rayo;Oficinistas;18;18;;17;16;69;Madrid
+77;33077;Tetúan;Hostelería;34;32;;33;36;135;Madrid
+78;33078;Chamartín;Hostelería;15;16;;16;15;62;Madrid
+79;33079;Fuencarral;Finanzas;17;15;;16;16;64;Madrid
+80;33080;El Pilar;;49;34;;37;37;157;Madrid
+81;33081;Hortaleza;Empleados;45;41;;43;43;172;Madrid
+82;33082;Barajas;Transportistas;11;9;;10;10;40;Madrid
+83;33083;Canillejas;Empleados;12;10;;11;10;43;Madrid
+84;33084;San Blas;Técnicos;26;19;1;28;25;99;Madrid
+85;33085;Ciudad Lineal;Audiovisual;53;45;;52;51;201;Madrid
+86;33086;Moratalaz;;25;17;;25;21;88;Madrid
+87;33087;Vicálvaro;Transportistas;19;12;1;14;17;63;Madrid
+24;45024;Chantada;Lácteo;4;2;1;5;5;17;Lugo
+1;43001;Avión;Lácteo;1;0;1;1;1;4;Ourense
+2;43002;Boborás;Vacuno;1;0;1;1;1;4;Ourense
+3;43003;O Carballiño;Operarios;3;2;1;4;4;14;Ourense
+4;43004;San Cristovo de Cea;Madera;2;1;1;2;2;8;Ourense
+5;43005;Ribadavia;Vacuno;3;2;1;3;3;12;Ourense
+6;43006;Cartelle;Lácteo;1;0;1;1;1;4;Ourense
+7;43007;Celanova-Bande;Patatas;6;3;1;5;5;20;Ourense
+8;43008;San Ciprán de Viñas;Operarios;5;3;1;7;5;21;Ourense
+9;43009;Ourense Norte;Hostelería;12;12;;9;12;45;Ourense
+10;43010;Ourense Sur;Dependientes;14;13;1;10;9;47;Ourense
+11;43011;O Pereiro de Aguiar;Vacuno;2;2;1;3;4;12;Ourense
+12;43012;Allariz.Maceda;Viña;3;2;1;4;4;14;Ourense
+13;43013;Xinzo de Limia;Cereal;2;2;1;3;3;11;Ourense
+14;43014;Oimbra;Hortalizas;3;2;1;2;2;10;Ourense
+15;43015;Verín;Agua;4;2;1;3;4;14;Ourense
+16;43016;Viana;Vacuno;2;2;1;2;2;9;Ourense
+17;43017;Caldelas;Viña;1;0;1;1;0;3;Ourense
+18;43018;Trives;Turismo;1;1;1;0;1;4;Ourense
+19;43019;Valdeorras;Viña;6;4;1;6;7;24;Ourense
+1;46001;Navia;Lácteo;7;6;1;8;8;30;Oviedo
+2;46002;Grandas de Salime;Hidroeléctrica;1;1;1;0;1;4;Oviedo
+3;46003;Cangas del Narcea;Minería;4;3;1;4;5;17;Oviedo
+4;46004;Valdés-Tineo;Lácteo;5;5;1;5;5;21;Oviedo
+5;46005;Cudillero;Pesca;1;1;1;1;1;5;Oviedo
+6;46006;Pravia-Salas;Lácteo;3;2;1;3;3;12;Oviedo
+7;46007;Castrillón;Técnicos;8;5;1;7;8;29;Oviedo
+8;46008;Avilés;Operarios;28;25;1;26;26;106;Oviedo
+9;46009;Llanera;Operarios;3;2;1;3;3;12;Oviedo
+10;46010;Oviedo Oeste;Oficinistas;30;23;;23;26;102;Oviedo
+11;46011;Oviedo Este;Dependientes;28;24;;25;24;101;Oviedo
+12;46012;Lena;Turismo;2;3;1;2;2;10;Oviedo
+13;46013;Grado;Hidroeléctrica;2;2;1;2;3;10;Oviedo
+14;46014;Quirós;Lácteo;2;1;1;1;1;6;Oviedo
+15;46015;Laviana;Turismo;5;5;1;4;4;19;Oviedo
+16;46016;San Martín del Rey Aurelio;Hostelería;3;4;1;3;3;14;Oviedo
+17;46017;Langreo;Técnicos;9;7;1;11;9;37;Oviedo
+18;46018;Mieres ;Universitarios;9;9;1;9;9;37;Oviedo
+19;46019;Siero;Lácteo;14;10;1;11;12;48;Oviedo
+20;46020;La Calzada-Sur;Empleados;23;16;1;22;20;82;Oviedo
+21;46021;Llano-Poniente;Estibadores;37;31;;31;32;131;Oviedo
+22;46022;La Arena;Profesionales;12;10;;9;11;42;Oviedo
+23;46023;Villaviciosa;Licoreros;8;8;1;10;10;37;Oviedo
+24;46024;Llanes-Ribadesella;Turismo;5;5;1;4;4;19;Oviedo
+25;46025;Cangas de Onís;Vacuno;3;1;1;3;2;10;Oviedo
+26;46026;Ribadeva;Pesca;1;1;1;1;1;5;Oviedo
+1;31001;Cervera de Pisuegra;Hostelería;3;3;1;3;4;14;Palencia
+2;31002;Aguilar de Campoo;Operarios;1;1;1;2;2;7;Palencia
+3;31003;Pomar;Cereal;1;1;1;1;1;5;Palencia
+4;31004;Herrera de Pìsuegra;Cereal;1;1;1;2;2;7;Palencia
+5;31005;Valdavia;Cereal;1;1;1;1;1;5;Palencia
+6;31006;Saldaña;Leguminosa;1;1;1;1;1;5;Palencia
+7;31007;Arconada;Cereal;1;1;1;1;1;5;Palencia
+8;31008;Carrión de los Condes;Cereal;1;1;1;1;1;5;Palencia
+9;31009;Villada;Cereal;1;1;1;1;1;5;Palencia
+10;31010;Villarramiel;Cereal;1;1;1;1;1;5;Palencia
+11;31011;Paredes de la Nava;Mecánicos;1;1;1;1;1;5;Palencia
+12;31012;Becerril de Campos;Cereal;1;1;1;1;2;6;Palencia
+13;31013;Manquillos;Leguminosa;1;1;1;1;1;5;Palencia
+14;31014;Frómista;Cereal;2;1;1;2;1;7;Palencia
+15;31015;Ave María;Dependientes;9;11;;7;9;36;Palencia
+16;31016;El Carmen;Transportistas;9;6;;11;10;36;Palencia
+17;31017;Torquemada;Cereal;1;1;1;1;1;5;Palencia
+18;31018;Venta de Baños;Operarios;3;2;1;4;4;14;Palencia
+1;48001;Baztan;Vacuno;1;1;1;2;2;7;Pamplona
+2;48002;Lesaka;Operarios;4;2;1;3;3;13;Pamplona
+3;48003;Leitza-Ultzamaldea;Lácteo;3;3;1;3;3;13;Pamplona
+4;48004;Corredor de Alsasua;Vacuno;5;4;1;5;5;20;Pamplona
+5;48005;Yerri;Cereal;3;1;1;2;3;10;Pamplona
+6;48006;Estella;Hostelería;3;3;1;2;4;13;Pamplona
+7;48007;Montejurra;Cereal;2;1;1;4;4;12;Pamplona
+8;48008;Viana;Operarios;1;1;1;2;2;7;Pamplona
+9;48009;Noáin;Transportistas;11;6;1;8;8;34;Pamplona
+10;48010;Puente la Reina;Cereal;2;1;1;2;1;7;Pamplona
+11;48011;Tafalla;Operarios;2;2;1;3;2;10;Pamplona
+12;48012;Olite-Sangüesa;Vacuno;6;4;1;4;5;20;Pamplona
+13;48013;Auñamendi-Zaraitzu;Vacuno;2;1;1;2;2;8;Pamplona
+14;48014;Lodosa;Hortalizas;3;3;1;4;4;15;Pamplona
+15;48015;Peralta;Viña;6;5;1;5;6;23;Pamplona
+16;48016;Caparroso;Hortalizas;5;2;1;4;3;15;Pamplona
+17;48017;Tudela;Hortalizas;15;11;1;16;12;55;Pamplona
+18;48018;Cintruénigo;Hortalizas;9;5;1;7;7;29;Pamplona
+19;48019;Barañain;Operarios;9;12;1;12;11;45;Pamplona
+20;48020;Ansoain-Berriozar;Operarios;7;7;1;6;8;29;Pamplona
+21;48021;Arga;Oficinistas;29;22;;25;24;100;Pamplona
+22;48022;Ciudadela;Hostelería;25;25;;23;29;102;Pamplona
+23;48023;Burlada;Dependientes;6;6;1;6;6;25;Pamplona
+1;42001;O Baixo Miño;Viña;7;6;1;7;9;30;Pontevedra
+2;42002;Nigrán;Turismo;9;10;1;8;8;36;Pontevedra
+3;42003;Tuy;Dependientes;4;4;1;3;3;15;Pontevedra
+4;42004;O Porriño;Operarios;5;3;1;5;5;19;Pontevedra
+5;42005;Vigo Sur;Estibadores;37;30;1;33;34;135;Pontevedra
+6;42006;Vigo Norte;Oficinistas;38;35;1;32;37;143;Pontevedra
+7;42007;Mos;Transportistas;3;3;1;3;3;13;Pontevedra
+1;38001;Montsia;Arroz;16;10;1;17;16;60;Tarragona
+2;38002;Deltebre;Arroz;6;6;1;7;5;25;Tarragona
+3;38003;Tortosa;Hostelería;7;7;1;7;7;29;Tarragona
+4;38004;Roquetes;Olivar;2;1;1;3;3;10;Tarragona
+5;38005;Terra Alta;Viña;2;1;1;3;3;10;Tarragona
+6;38006;Mòras;Operarios;2;1;1;2;2;8;Tarragona
+7;38007;Vandellòs;Nuclear;2;1;1;1;2;7;Tarragona
+8;38008;Benissanet;Cereal;1;1;1;1;1;5;Tarragona
+9;38009;Ascó;Nuclear;2;1;1;2;3;9;Tarragona
+10;38010;Priorat Sud;Olivar;1;1;1;1;2;6;Tarragona
+11;38011;Priorat  Nord;Viña;1;0;1;1;1;4;Tarragona
+12;38012;Mont-roig del Camp;Olivar;4;3;1;6;5;19;Tarragona
+13;38013;L'Aleixar;Viña;3;1;1;3;5;13;Tarragona
+14;38014;Cambrils;Pesca;8;8;1;9;9;35;Tarragona
+15;38015;Reus Oest;Operarios;13;8;1;15;13;50;Tarragona
+16;38016;Reus Est;Dependientes;12;12;1;11;11;47;Tarragona
+17;38017;Salou;Turismo;11;14;1;10;14;50;Tarragona
+18;38018;Constantí;Técnicos;4;2;1;5;5;17;Tarragona
+19;38019;El Catllar;Empleados;3;2;1;4;3;13;Tarragona
+20;38020;Torredembarra;Transportistas;6;6;1;5;6;24;Tarragona
+21;38021;El Serranillo;Estibadores;4;3;1;6;4;18;Tarragona
+22;38022;Torreforta;Energía;4;3;1;5;5;18;Tarragona
+23;38023;Rambla Vella;Oficinistas;12;8;1;11;15;47;Tarragona
+24;38024;Rovira i Virgili;Universitarios;6;5;1;4;7;23;Tarragona
+25;38025;Baix Penedes;Turismo;23;27;1;22;23;96;Tarragona
+26;38026;Valls;Operarios;6;5;1;8;9;29;Tarragona
+27;38027;Alcover;Fruta;1;1;1;2;2;7;Tarragona
+28;38028;Montblanc;Cereal;4;3;1;5;5;18;Tarragona
+1;39001;Terres de Segre;Cereal;4;2;1;4;3;14;Lleida
+2;39002;Alcarràs;Cerdo;2;1;1;3;3;10;Lleida
+3;39003;Les Missions;Oficinistas;16;13;1;14;15;59;Lleida
+4;39004;La Seu Vella;Transportistas;15;11;1;16;17;60;Lleida
+5;39005;Alpicat;Técnicos;2;1;1;2;3;9;Lleida
+6;39006;Alguaire;Cerdo;7;5;1;7;8;28;Lleida
+7;39007;Alfarràs;Hostelería;1;1;1;1;1;5;Lleida
+8;39008;Garrigues;Cerdo;2;1;1;3;4;11;Lleida
+9;39009;Juneda;Cerdo;1;1;1;2;1;6;Lleida
+10;39010;Mollerussa;Leguminosa;9;7;1;8;8;33;Lleida
+11;39011;Bellpuig;Cereal;2;1;1;4;4;12;Lleida
+12;39012;Tàrrega;Dependientes;4;4;1;4;4;17;Lleida
+13;39013;Agramunt;Cerdo;1;1;1;2;2;7;Lleida
+14;39014;Cervers;Cerdo;2;2;1;3;3;11;Lleida
+15;39015;Guissona;Cereal;3;2;1;2;2;10;Lleida
+16;39016;Albesa;Fruta;1;1;1;2;1;6;Lleida
+17;39017;Balaguer;Profesionales;3;3;1;4;4;15;Lleida
+18;39018;Artesa de Segre;Cereal;4;1;1;4;4;14;Lleida
+19;39019;Jussà;Cerdo;2;1;1;2;2;8;Lleida
+20;39020;Pobla de Segur;Agua;1;1;1;1;1;5;Lleida
+21;39021;Sort;Vacuno;1;0;1;1;1;4;Lleida
+22;39022;Sobirà;Lácteo;1;1;1;1;1;5;Lleida
+23;39023;Val d'Aran;Turismo;3;2;1;2;2;10;Lleida
+24;39024;Solsonès;Leguminosa;2;2;1;3;2;10;Lleida
+25;39025;Oliana;Operarios;1;0;1;1;1;4;Lleida
+26;39026;La Seu d'Urgell;Cerdo;3;2;1;5;5;16;Lleida
+27;39027;Sant Julià de Lòria;Tabaco;2;2;1;3;3;11;Lleida
+28;39028;Andorra la Vella;Dependientes;8;9;1;8;11;37;Lleida
+29;39029;Encamp;Turismo;8;6;1;7;7;29;Lleida
+1;40001;Berga;Cerdo;9;6;1;11;11;38;Barcelona
+2;40002;Prats de Lluçanes;Vacuno;3;1;1;3;5;13;Barcelona
+3;40003;Torrelló;Transportistas;6;4;1;6;7;24;Barcelona
+4;40004;Manlleu;Operarios;15;10;1;16;12;54;Barcelona
+5;40005;Vic;Universitarios;10;9;1;9;9;38;Barcelona
+6;40006;Taradell;Cerdo;4;3;1;4;4;16;Barcelona
+7;40007;Balenya;Cerdo;2;1;1;3;3;10;Barcelona
+8;40008;Moià;Cereal;3;2;1;4;4;14;Barcelona
+9;40009;Balsareny;Cerdo;7;7;1;9;9;33;Barcelona
+10;40010;Navàs;Cerdo;3;1;1;3;2;10;Barcelona
+11;40011;Manresa;Operarios;16;16;1;18;18;69;Barcelona
+12;40012;Sant Salvador de Guardiola;Cerdo;2;1;1;3;2;9;Barcelona
+13;40013;Sant Vicenç de Castellet;Operarios;2;2;1;2;2;9;Barcelona
+14;40014;Navarcles;Transportistas;2;2;1;2;2;9;Barcelona
+15;40015;Calaf;Aves de Corral;4;2;1;5;4;16;Barcelona
+16;40016;Igualada;Operarios;10;11;1;11;11;44;Barcelona
+17;40017;Capellades;Aves de Corral;11;10;1;16;14;52;Barcelona
+18;40018;Sant Sadurní;Vacuno;12;8;1;13;15;49;Barcelona
+19;40019;Vilafranca del Penedès;Empleados;11;10;1;10;12;44;Barcelona
+20;40020;Vilanova i la Geltrú;Turismo;21;22;1;18;18;80;Barcelona
+21;40021;Sitges;Audiovisual;13;15;1;12;13;54;Barcelona
+22;40022;Malgrat de Mar;Turismo;7;7;;5;6;25;Barcelona
+23;40023;Tordera;Hortalizas;5;3;1;6;5;20;Barcelona
+24;40024;Pineda de Mar;Hostelería;6;7;;5;5;23;Barcelona
+25;40025;Calella;Turismo;15;17;1;16;16;65;Barcelona
+26;40026;Llavaneres;;5;4;1;4;4;18;Barcelona
+27;40027;Mataró;Operarios;27;27;1;27;30;112;Barcelona
+28;40028;Argentona;Transportistas;6;3;1;5;5;20;Barcelona
+29;40029;El Masnou;Turismo;20;21;1;21;27;90;Barcelona
+30;40030;Montgat;Hostelería;9;6;1;7;7;30;Barcelona
+31;40031;Sant Celoni;Técnicos;5;4;1;4;5;19;Barcelona
+32;40032;Santa Maria de Palautordera;Patatas;2;2;1;2;2;9;Barcelona
+33;40033;Cardedeu;Empleados;14;10;1;12;15;52;Barcelona
+34;40034;Canovelles;Transportistas;13;9;1;15;13;51;Barcelona
+35;40035;Granollers;Operarios;14;12;1;15;15;57;Barcelona
+36;40036;Montornès del Vallès;Operarios;11;8;1;12;10;42;Barcelona
+37;40037;Mollet;Dependientes;10;12;1;9;11;43;Barcelona
+38;40038;Parets del Vallès;Operarios;11;8;1;11;11;42;Barcelona
+39;40039;Caldes de Montbui;Aves de Corral;10;6;1;10;10;37;Barcelona
+40;40040;Castellterçol;Cerdo;2;1;1;2;2;8;Barcelona
+41;40041;Castellar del Vallès;Operarios;10;8;1;11;10;40;Barcelona
+42;40042;Viladecavals;Cereal;2;1;1;2;2;8;Barcelona
+43;40043;Riera del Palau;Profesionales;7;5;;5;6;23;Barcelona
+44;40044;Avenida del Vallés;Hostelería;18;12;1;19;16;66;Barcelona
+45;40045;El Centre;Dependientes;16;13;;11;11;51;Barcelona
+46;40046;Cogullada-Can Palet;Operarios;13;12;1;12;12;50;Barcelona
+47;40047;Rubí;Operarios;17;17;1;17;17;69;Barcelona
+48;40048;Castellbisbal;Operarios;2;2;1;3;3;11;Barcelona
+49;40049;Valldoreix;Profesionales;5;5;;2;4;16;Barcelona
+50;40050;Sant Cugat del Vallés;Profesionales;13;13;1;12;12;51;Barcelona
+51;40051;Sant Quirze;Transportistas;4;4;1;4;4;17;Barcelona
+52;40052;Sabadell Nord;Dependientes;19;16;;16;18;69;Barcelona
+53;40053;Av.Barberá-Massague;Oficinistas;23;20;;19;19;81;Barcelona
+54;40054;Can Feu;Operarios;13;9;1;14;14;51;Barcelona
+55;40055;Santa Perpètua;Operarios;18;14;1;19;20;72;Barcelona
+56;40056;Montcada-Ripollet;Operarios;15;11;1;14;15;56;Barcelona
+57;40057;Sardañola del Vallés;Universitarios;10;10;1;10;10;41;Barcelona
+58;40058;Esparraguera-Montserrat;Operarios;15;12;1;14;13;55;Barcelona
+59;40059;Martorell;Operarios;6;4;1;9;5;25;Barcelona
+60;40060;San Andrés de la Barca;Transportistas;11;7;1;12;10;41;Barcelona
+61;40061;Pallejá;Hostelería;8;8;1;7;7;31;Barcelona
+62;40062;Gavà;Dependientes;16;14;1;14;14;59;Barcelona
+63;40063;Castelldefels;Turismo;16;15;1;15;15;62;Barcelona
+64;40064;Viladecans;Mecánicos;15;13;1;18;14;61;Barcelona
+65;40065;El Prat;Transportistas;13;13;1;14;11;52;Barcelona
+66;40066;Sant Boi;Oficinistas;18;18;1;18;19;74;Barcelona
+67;40067;Cornella;Empleados;26;17;1;19;20;83;Barcelona
+68;40068;San Juan Despí;Audiovisual;10;7;1;7;7;32;Barcelona
+69;40069;San Feliú;Empleados;15;11;1;12;12;51;Barcelona
+70;40070;San Vicente;Operarios;7;5;1;7;6;26;Barcelona
+71;40071;Molins de Rei;Mecánicos;9;5;1;5;6;26;Barcelona
+72;40072;San Justo;Técnicos;4;3;1;4;3;15;Barcelona
+73;40073;Esplugues;Hostelería;10;11;1;10;10;42;Barcelona
+74;40074;Bellvitge;Operarios;10;6;1;10;8;35;Barcelona
+75;40075;Hospitalet de Llobregat;Empleados;51;43;;51;50;195;Barcelona
+76;40076;Montjuïc;Estibadores;11;11;1;14;11;48;Barcelona
+77;40077;Sants;Empleados;31;23;;26;25;105;Barcelona
+78;40078;Les Corts;Profesionales;21;19;;16;19;75;Barcelona
+79;40079;Sarrià;Finanzas;37;31;;27;31;126;Barcelona
+80;40080;Gràcia;Hostelería;28;25;;26;26;105;Barcelona
+81;40081;Eixample Esquerre;Profesionales;32;27;;24;27;110;Barcelona
+82;40082;Eixample Dret;Oficinistas;39;29;;29;34;131;Barcelona
+83;40083;Ciutat Vella;Riders;23;26;;24;20;93;Barcelona
+84;40084;Ronda Litoral;Turismo;16;17;;13;12;58;Barcelona
+85;40085;Sant Martí;Hostelería;41;42;;37;39;159;Barcelona
+86;40086;Horta-Guinardó;Dependientes;43;35;;40;37;155;Barcelona
+87;40087;Sant Andreu;Operarios;31;27;1;33;30;122;Barcelona
+88;40088;Nou Barris;Empleados;40;29;;38;38;145;Barcelona
+89;40089;Santa Coloma de Gramanet;Dependientes;20;20;;20;20;80;Barcelona
+90;40090;Sant Adrià del Besòs;Taxistas;7;6;;8;8;29;Barcelona
+91;40091;Badalona Sur;Operarios;34;23;1;27;24;109;Barcelona
+92;40092;Badalona Norte;Empleados;28;23;;25;22;98;Barcelona
+1;41001;Vilafant;Cerdo;2;1;1;3;2;9;Girona
+2;41002;La Jonquera;Madera;1;1;1;1;1;5;Girona
+3;41003;Llançà;Pesca;2;2;1;4;3;12;Girona
+4;41004;Cadaqués;Pesca;1;1;1;2;2;7;Girona
+5;41005;Roses;Turismo;5;5;;4;4;18;Girona
+6;41006;Figueres;Hostelería;9;12;1;9;9;40;Girona
+7;41007;Casteló d'Empuries;Cereal;4;3;1;4;4;16;Girona
+8;41008;L'Escala;Turismo;3;4;1;3;2;13;Girona
+9;41009;Palafrugell;Turismo;14;13;1;10;11;49;Girona
+10;41010;Palamós;Hostelería;5;5;1;4;4;19;Girona
+11;41011;Sant Feliu de Guixols;Turismo;10;7;1;7;9;34;Girona
+12;41012;Llagostera;Dependientes;5;4;1;4;4;18;Girona
+13;41013;Sarriá de Dalt;Operarios;2;2;1;3;3;11;Girona
+14;41014;Girona;Oficinistas;27;23;1;18;20;89;Girona
+15;41015;Salt;Empleados;16;8;1;9;11;45;Girona
+16;41016;Blanes-Lloret;Turismo;18;23;1;14;16;72;Girona
+17;41017;Vidreres;Hostelería;9;10;1;8;8;36;Girona
+18;41018;Santa Coloma de Farnés;Cerdo;9;6;1;10;9;35;Girona
+19;41019;Anglés;Madera;3;2;1;4;3;13;Girona
+20;41020;Banyoles;Aves de Corral;7;5;1;7;7;27;Girona
+21;41021;Santa Pau;Empleados;2;1;1;2;2;8;Girona
+22;41022;Sant Joan les Fonts;Madera;3;1;1;3;3;11;Girona
+23;41023;Olot;Profesionales;8;8;;6;7;29;Girona
+24;41024;La Vall d'en Bas;Aves de Corral;1;1;1;1;1;5;Girona
+25;41025;Sant Joan de les Abadesses;Operarios;1;1;1;1;1;5;Girona
+26;41026;Ripoll;Dependientes;2;2;1;2;2;9;Girona
+27;41027;Campdevànol;Cerdo;1;1;1;1;1;5;Girona
+28;41028;Ribes de Freser;Cerdo;1;1;1;1;1;5;Girona
+29;41029;Puigcerdà;Turismo;3;3;1;2;3;12;Girona
+8;42008;Ponteareas;Vacuno;10;8;1;9;9;37;Pontevedra
+9;42009;A Cañiza;Lácteo;2;2;1;4;3;12;Pontevedra
+10;42010;Redondela;Transportistas;8;6;1;7;7;29;Pontevedra
+11;42011;O Morrazo;Turismo;19;21;1;22;22;85;Pontevedra
+12;42012;A Lama;Lácteo;2;1;1;3;3;10;Pontevedra
+13;42013;Pontevedra;Dependientes;19;18;1;18;20;76;Pontevedra
+14;42014;O Salnès;Turismo;23;21;1;23;20;88;Pontevedra
+15;42015;Villagarcía de Arousa;Pesca;11;9;1;12;9;42;Pontevedra
+16;42016;Caldas;Lácteo;10;7;1;9;9;36;Pontevedra
+17;42017;Tabeiro;Cerdo;6;5;1;6;5;23;Pontevedra
+18;42018;Deza;Vacuno;10;10;1;9;10;40;Pontevedra
+1;24001;Argañán;Cerdo;1;1;1;1;1;5;Salamanca
+2;24002;Ciudad Rodrigo;Hostelería;3;2;1;3;3;12;Salamanca
+3;24003;Tenebrón;Vacuno;1;1;1;1;1;5;Salamanca
+4;24004;Lumbrales;Vacuno;1;1;1;1;2;6;Salamanca
+5;24005;Vitigudino;Vacuno;2;1;1;2;1;7;Salamanca
+6;24006;Barruecopardo;Vacuno;1;1;1;1;1;5;Salamanca
+7;24007;Aldeadávila;Energía;1;1;1;1;1;5;Salamanca
+8;24008;Sierra de Francia;Vacuno;1;1;1;2;2;7;Salamanca
+9;24009;Béjar;Operarios;2;2;1;3;3;11;Salamanca
+10;24010;Guijuelo;Cerdo;1;2;1;2;2;8;Salamanca
+11;24011;Ledesma;Vacuno;2;1;1;2;1;7;Salamanca
+12;24012;Carrascal;Cereal;1;1;1;2;2;7;Salamanca
+13;24013;Calzada de Don Diego;Cereal;1;1;1;1;1;5;Salamanca
+14;24014;Puente Romano;Universitarios;17;12;;10;12;51;Salamanca
+15;24015;Oeste ;Hostelería;12;11;;11;11;45;Salamanca
+16;24016;Garrido;Oficinistas;12;11;;10;12;45;Salamanca
+17;24017;Santa Marta del Tormes;Dependientes;4;4;1;3;4;16;Salamanca
+18;24018;Calvarrasa;Vacuno;1;1;1;1;3;7;Salamanca
+19;24019;Carbajosa;Mecánicos;2;2;1;2;2;9;Salamanca
+20;24020;Alba de Tormes;Cereal;2;2;1;2;2;9;Salamanca
+21;24021;Navales;Cereal;1;1;1;1;1;5;Salamanca
+22;24022;Peñaranda de Bracamonte;Cereal;2;1;1;2;2;8;Salamanca
+23;24023;Las Villas;Técnicos;1;1;1;1;1;5;Salamanca
+24;24024;Cantalapiedra;Cereal;1;1;1;1;1;5;Salamanca
+25;24025;Armuña Alta;Hortalizas;1;1;1;1;1;5;Salamanca
+26;24026;Villamayor;Minería;2;1;1;3;3;10;Salamanca
+1;47001;Liébana;Turismo;3;2;1;2;2;10;Santander
+2;47002;San Vicente de la Barquera;Turismo;2;2;1;1;1;7;Santander
+3;47003;Cabezón de la Sal;Operarios;4;3;1;5;5;18;Santander
+4;47004;Reinosa;Operarios;5;4;1;5;5;20;Santander
+5;47005;Torrelavega;Dependientes;21;21;1;21;24;88;Santander
+6;47006;Asón;Lácteo;1;0;1;2;2;6;Santander
+7;47007;Medio Cudeyo;Vacuno;4;4;1;4;5;18;Santander
+8;47008;Santoña;Pesca;5;5;1;6;6;23;Santander
+9;47009;Laredo;Pesca;7;5;1;6;7;26;Santander
+10;47010;Castro Urdiales;Hostelería;9;8;1;6;6;30;Santander
+11;47011;Villaverde de Trucios;Aves de Corral;1;0;1;0;0;2;Santander
+12;47012;Piélagos;Empleados;11;12;1;9;10;43;Santander
+13;47013;Camargo;Operarios;7;5;1;6;6;25;Santander
+14;47014;El Astillero;Operarios;7;5;1;5;7;25;Santander
+15;47015;Nueva Montaña;Estibadores;3;4;1;4;4;16;Santander
+16;47016;Marqués de Valdecilla;Oficinistas;19;17;;19;19;74;Santander
+17;47017;Sardinero;Finanzas;17;15;;12;14;58;Santander
+18;47018;Valdenoja;Universitarios;4;4;;3;5;16;Santander
+1;26001;Cuéllar;Hotalizas;2;2;1;2;2;9;Segovia
+2;26002;Coca;Madera;1;1;1;2;2;7;Segovia
+3;26003;Nava de la Asunción;Cereal;2;1;1;2;2;8;Segovia
+4;26004;Garcillán;Cereal;1;1;1;1;1;5;Segovia
+5;26005;El Espinar;Madera;2;2;1;4;3;12;Segovia
+6;26006;Segovia;Operarios;9;10;1;10;10;40;Segovia
+7;26007;San Ildefonso;Madera;2;1;1;3;3;10;Segovia
+8;26008;La Lastrilla;Oficinistas;2;1;1;1;2;7;Segovia
+9;26009;Navafría;Madera;1;1;1;1;1;5;Segovia
+10;26010;Arcones;Aves de Corral;1;1;1;1;1;5;Segovia
+11;26011;Riaza-Ayllón;Cereal;1;1;1;1;1;5;Segovia
+12;26012;Montejo de la Vega;Agua;1;1;1;1;1;5;Segovia
+13;26013;Sepúlveda;Cerdo;1;1;1;1;2;6;Segovia
+14;26014;Cantalejo;Cereal;1;1;1;1;2;6;Segovia
+15;26015;Turégano;Cereal;1;1;1;1;1;5;Segovia
+16;26016;Carbonero el Mayor;Cerdo;1;1;1;1;1;5;Segovia
+17;26017;Olombrada;Cereal;1;1;1;1;1;5;Segovia
+18;26018;Sacramenia;Cereal;1;1;1;1;1;5;Segovia
+1;29001;San Esteban de Gormaz;Operarios;1;1;1;1;0;4;Soria
+2;29002;Burgo de Osma;Cereal;1;1;1;2;2;7;Soria
+3;29003;San Lorenzo de Yagüe;Madera;1;1;1;1;1;5;Soria
+4;29004;Berlanga;Cerdo;1;0;1;1;0;3;Soria
+5;29005;Almazán;Cereal;1;1;1;2;1;6;Soria
+6;29006;Medinaceli;Cerdo;1;0;1;1;1;4;Soria
+7;29007;Almazul;Cerdo;1;0;1;1;0;3;Soria
+8;29008;Ólvega-Agreda;Operarios;1;1;1;2;2;7;Soria
+9;29009;Gómara;Cerdo;1;0;1;1;0;3;Soria
+10;29010;San Pedro Manrique;Cerdo;1;1;1;1;1;5;Soria
+11;29011;El Valle;Madera;1;0;1;0;0;2;Soria
+12;29012;Vinuesa;Madera;2;2;1;3;3;11;Soria
+13;29013;Garray;Cerdo;1;0;1;1;0;3;Soria
+14;29014;Soria;Dependientes;7;7;1;8;9;32;Soria
+15;29015;Golmayo;Cereal;1;1;1;1;1;5;Soria
+1;35001;Albarracín;Hostelería;1;1;1;1;1;5;Teruel
+2;35002;Villel;Aves de Corral;1;0;1;1;1;4;Teruel
+3;35003;Teruel;Hostelería;8;7;1;6;8;30;Teruel
+4;35004;Cella;Técnicos;2;1;1;3;2;9;Teruel
+5;35005;Jiloca;Cereal;2;2;1;2;2;9;Teruel
+6;35006;Orrios;Cerdo;1;0;1;1;0;3;Teruel
+7;35007;Utrillas;Operarios;1;1;1;2;2;7;Teruel
+8;35008;Arcos de las Salinas;Madera;1;0;1;1;0;3;Teruel
+9;35009;Sarrión;Hostelería;1;1;1;0;0;3;Teruel
+10;35010;Mora de Rubielos;Hostelería;1;1;1;0;1;4;Teruel
+11;35011;Cantavieja;Cerdo;1;1;1;2;2;7;Teruel
+12;35012;Matarraña;Cereal;1;1;1;2;2;7;Teruel
+13;35013;Calanda;Cerdo;2;2;1;2;2;9;Teruel
+14;35014;Alcañiz;Oficinistas;4;3;1;3;3;14;Teruel
+15;35015;Andorra;Cereal;1;1;1;2;2;7;Teruel
+16;35016;Bajo Martín;Cerdo;1;1;1;2;1;6;Teruel
+1;28001;Villalón de Campos;Cereal;1;1;1;1;1;5;Valladolid
+2;28002;Vega de Ruiponce;Vacuno;1;1;1;1;1;5;Valladolid
+3;28003;Medina de Rioseco;Cereal;1;1;1;2;2;7;Valladolid
+4;28004;Castromonte;Cereal;1;1;1;1;1;5;Valladolid
+5;28005;Villanubla;Empleados;1;1;1;1;1;5;Valladolid
+6;28006;Castronuño;Energía;1;1;1;1;1;5;Valladolid
+7;28007;Villalar;Cereal;1;1;1;1;1;5;Valladolid
+8;28008;Tordesillas ;Dependientes;2;1;1;2;2;8;Valladolid
+9;28009;Alaejos;Cereal;1;1;1;1;1;5;Valladolid
+10;28010;Medina del Campo;Operarios;3;4;1;4;4;16;Valladolid
+11;28011;Velascálvaro;Cereal;1;1;1;1;1;5;Valladolid
+12;28012;Lomoviejo;Cereal;1;1;1;1;1;5;Valladolid
+13;28013;Olmedo;Cereal;1;1;1;1;2;6;Valladolid
+14;28014;Íscar;Cereal;2;2;1;3;3;11;Valladolid
+15;28015;Matapozuelos;Aves de Corral;1;2;1;2;1;7;Valladolid
+16;28016;Portillo;Cereal;2;2;1;3;3;11;Valladolid
+17;28017;Laguna de Duero;Operarios;5;3;1;5;5;19;Valladolid
+18;28018;Tudela de Duero;Hortalizas;2;1;1;2;2;8;Valladolid
+19;28019;Encomienda-Simancas;Empleados;5;6;1;6;6;24;Valladolid
+20;28020;Girón ;Transportistas;6;6;0;6;6;24;Valladolid
+21;28021;España;Empleados;3;3;0;3;3;12;Valladolid
+22;28022;Redondilla;Universitarios;14;15;0;16;17;62;Valladolid
+23;28023;Centro;Oficinistas;20;21;0;19;26;86;Valladolid
+24;28024;Pajarillos-Delicias;Operarios;19;17;1;22;23;82;Valladolid
+25;28025;Cigales;Cereal;1;1;1;2;2;7;Valladolid
+26;28026;Cistérniga;Dependientes;2;2;1;1;1;7;Valladolid
+27;28027;Villavaquerín;Cereal;1;1;1;1;1;5;Valladolid
+28;28028;Fombellida;Cereal;1;1;1;1;1;5;Valladolid
+29;28029;Pesquera;Viña;1;1;1;1;1;5;Valladolid
+30;28030;Peñafiel;Dependientes;1;1;1;1;1;5;Valladolid
+31;28031;Campaspero;Cereal;2;1;1;2;1;7;Valladolid
+1;49001;Balmaseda;Operarios;2;2;1;3;2;10;Vizcaya
+2;49002;Zalla-Güenes;Vacuno;4;3;1;5;5;18;Vizcaya
+3;49003;Santurzi;Estibadores;17;17;1;20;19;74;Vizcaya
+4;49004;Portugalete;Empleados;10;7;;10;12;39;Vizcaya
+5;49005;Sestao;Operarios;5;5;1;6;6;23;Vizcaya
+6;49006;Barakaldo;Empleados;23;19;;27;21;90;Vizcaya
+7;49007;Deusto;Universitarios;15;10;;10;12;47;Vizcaya
+8;49008;Zorroza-Rekalde;Empleados;26;17;;22;20;85;Vizcaya
+9;49009;Abando;Profesionales;18;19;;14;16;67;Vizcaya
+10;49010;Bilbao Este;Oficinistas;39;31;;29;32;131;Vizcaya
+11;49011;Etxebarri;Empleados;2;2;;2;2;8;Vizcaya
+12;49012;Basauri;Operarios;10;7;1;9;9;36;Vizcaya
+13;49013;Galdakao;Taxistas;6;5;1;5;7;24;Vizcaya
+14;49014;Arrigorriaga;Lácteo;3;2;1;2;3;11;Vizcaya
+15;49015;Arratia;Vacuno;7;4;1;4;5;21;Vizcaya
+16;49016;Lezama;Operarios;4;4;1;4;4;17;Vizcaya
+17;49017;Erandio;Dependientes;5;5;1;4;5;20;Vizcaya
+18;49018;Guetxo;Oficinistas;29;22;1;18;20;90;Vizcaya
+19;49019;Durango;Operarios;24;19;1;20;21;85;Vizcaya
+20;49020;Lea-Artibai;Pesca;7;5;1;7;5;25;Vizcaya
+21;49021;Bermeo;Pesca;3;3;1;4;4;15;Vizcaya
+22;49022;Gernika;Vacuno;7;5;1;6;7;26;Vizcaya
+23;49023;Plentzia;Turismo;14;13;1;11;15;54;Vizcaya
+1;27001;Bermillo;Vacuno;2;2;1;2;2;9;Zamora
+2;27002;Carbajáles de Alba;Transportistas;2;1;1;1;1;6;Zamora
+3;27003;Tábara;Vacuno;1;1;1;1;1;5;Zamora
+4;27004;Alcañices;Lácteo;2;1;1;1;2;7;Zamora
+5;27005;Morales del Vino;Lácteo;2;2;1;1;2;8;Zamora
+6;27006;Fuentesaúco;Viña;2;1;1;1;2;7;Zamora
+7;27007;Toro;Viña;2;2;1;2;2;9;Zamora
+8;27008;Zamora;Dependientes;14;14;1;12;15;56;Zamora
+9;27009;Cubillos;Cereal;1;1;1;1;1;5;Zamora
+10;27010;Morales de Toro;Viña;1;1;1;1;2;6;Zamora
+11;27011;Villalpando;Cereal;1;1;1;2;2;7;Zamora
+12;27012;Barcial del Barco;Viña;1;1;1;1;1;5;Zamora
+13;27013;Benavente;Mecánicos;3;3;1;4;4;15;Zamora
+14;27014;Camarzana de Tera;Cerdo;1;1;1;1;1;5;Zamora
+15;27015;Sanabria;Lácteo;1;1;1;1;1;5;Zamora
+1;36001;Ateca;Fruta;1;1;1;2;2;7;Zaragoza
+2;36002;Villalenga;Viña;1;0;1;1;1;4;Zaragoza
+3;36003;Calcena;Cerdo;1;0;1;1;0;3;Zaragoza
+4;36004;Illueca;Operarios;3;1;1;2;2;9;Zaragoza
+5;36005;Calatayud;Hostelería;5;4;1;5;6;21;Zaragoza
+6;36006;Orera;Viña;1;0;1;1;1;4;Zaragoza
+7;36007;Maluenda;Fruta;1;1;1;1;1;5;Zaragoza
+8;36008;Daroca;Viña;1;1;1;1;2;6;Zaragoza
+9;36009;Cariñena;Viña;2;1;1;2;3;9;Zaragoza
+10;36010;Lécera;Empleados;0;1;1;1;0;3;Zaragoza
+11;36011;Belchite;Olivar;1;1;1;1;0;4;Zaragoza
+12;36012;Tarazona;Técnicos;2;2;1;3;3;11;Zaragoza
+13;36013;Campo de Borja;Viña;3;2;1;3;3;12;Zaragoza
+14;36014;Alagón;Operarios;4;4;1;5;6;20;Zaragoza
+15;36015;Épila;Cereal;2;2;1;3;2;10;Zaragoza
+16;36016;La Almunia;Fruta;4;3;1;4;5;17;Zaragoza
+17;36017;Muel;Mecánicos;1;1;1;1;0;4;Zaragoza
+18;36018;Cadrete;Cerdo;3;2;1;3;3;12;Zaragoza
+19;36019;Fuentes de Ebro;Cereal;1;1;1;1;1;5;Zaragoza
+20;36020;Garrapinillos;Técnicos;2;1;1;2;2;8;Zaragoza
+21;36021;Casablanca;Dependientes;10;5;;8;11;34;Zaragoza
+22;36022;San José;Empleados;34;28;;35;39;136;Zaragoza
+23;36023;Romareda;Universitarios;12;12;;12;15;51;Zaragoza
+24;36024;Valdefierro;Transportistas;11;7;;10;10;38;Zaragoza
+25;36025;El Pilar;Oficinistas;22;25;;23;26;96;Zaragoza
+26;36026;Delicias;Empleados;29;30;;29;31;119;Zaragoza
+27;36027;Rey Fernando;Hostelería;36;29;;31;33;129;Zaragoza
+28;36028;Santa Isabel;Operarios;3;3;1;4;3;14;Zaragoza
+29;36029;Utebo;Hortalizas;4;3;1;6;7;21;Zaragoza
+30;36030;Alfajarín;Cerdo;1;0;1;3;2;7;Zaragoza
+31;36031;Villanueva de Gállego;Cereal;2;1;1;2;2;8;Zaragoza
+32;36032;Zuera;Aves de Corral;2;1;1;2;2;8;Zaragoza
+33;36033;Ejea de los Caballeros;Cereal;5;6;1;7;7;26;Zaragoza
+34;36034;Luna;Vacuno;1;1;1;1;1;5;Zaragoza
+35;36035;Jacetania Baja;Madera;1;1;1;1;1;5;Zaragoza
+36;36036;Quinto;Cerdo;2;1;1;3;2;9;Zaragoza
+37;36037;Caspe;Operarios;2;1;1;2;2;8;Zaragoza
+38;36038;Fabara;Cerdo;1;1;1;1;2;6;Zaragoza

@@ -4,13 +4,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Province {
-	private String name,state,owner;
+	private String name,state,owner,localResource;
 	private int developmentBI,developmentC,developmentI,developmentO,developmentS,xCenter,yCenter,xStart,xEnd,yStart,yEnd;
-	private List<Integer> adjacency;
-	public Province(String name,String state,String owner,int developmentBI,int developmentC,int developmentI,int developmentO,int developmentS,int xCenter,int yCenter, int xStart,int xEnd,int yStart,int yEnd) {
+	private List<String> adjacency;
+	private boolean inHE;
+	public Province(String name,String state,String owner,String localResource,int developmentBI,int developmentC,int developmentI,int developmentO,int developmentS,int xCenter,int yCenter, int xStart,int xEnd,int yStart,int yEnd,boolean inHE) {
 		this.name = name;
 		this.state = state;
 		this.owner = owner;
+		this.localResource = localResource;
 		this.developmentBI = developmentBI;
 		this.developmentC = developmentC;
 		this.developmentI = developmentI;
@@ -22,8 +24,26 @@ public class Province {
 		this.yStart = yStart;
 		this.xEnd = xEnd;
 		this.yEnd = yEnd;
-		adjacency = new ArrayList<Integer>();
+		this.inHE = inHE;
+		adjacency = new ArrayList<String>();
 	}
+	
+	public String getLocalResource() {
+		return localResource;
+	}
+
+	public void setLocalResource(String localResource) {
+		this.localResource = localResource;
+	}
+
+	public boolean isInHE() {
+		return inHE;
+	}
+
+	public void setInHE(boolean inHE) {
+		this.inHE = inHE;
+	}
+
 	public String getName() {
 		return name;
 	}
@@ -135,22 +155,20 @@ public class Province {
 	}
 	public String getAdjacencyString() {
 		String output = "";
-		for(Integer index:adjacency) {
-			output += index.toString()+" ";
+		int i = 0;
+		for(String adjacent:adjacency) {
+			if(i<adjacency.size()-1)
+				output += adjacent+";";
+			else
+				output += adjacent;
+			++i;
 		}
 		return output.trim();
 	}
-	private int getIndex(int adjacencyIndex) {
-		int i = 0;
-		while(i<adjacency.size()&&adjacencyIndex>adjacency.get(i)) {
-			++i;
-		}
-		return i;
-	}
-	public void addAdjacency(int index) {
-		if(index<0||adjacency.contains(index))
-			throw new IllegalArgumentException("Illegal adjacency index");
-		adjacency.add(getIndex(index), index);
+	public void addAdjacency(String adjacent) {
+		if(adjacency.contains(adjacent))
+			throw new IllegalArgumentException("Illegal adjacency prov: "+adjacent);
+		adjacency.add(adjacent);
 	}
 	public String getSizeString() {
 		// TODO Auto-generated method stub
@@ -158,15 +176,9 @@ public class Province {
 				+" "+((Integer)xStart).toString()+" "+((Integer)xEnd).toString()+" "
 				+((Integer)yStart).toString()+" "+((Integer)yEnd).toString();
 	}
-	public boolean removeAdjacencyIndex(int index) {
+	public boolean removeAdjacencyIndex(String adjacent) {
 		// TODO Auto-generated method stub
-		boolean couldRemove = adjacency.remove((Integer)index);
-		
-		for(int i = 0;i<adjacency.size();++i) {
-			if(adjacency.get(i)>index)
-				adjacency.set(i, adjacency.get(i)-1);
-				
-		}
+		boolean couldRemove = adjacency.remove(adjacent);
 		return couldRemove;
 	}
 	public String toString() {
