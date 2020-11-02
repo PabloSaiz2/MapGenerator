@@ -130,7 +130,7 @@ Lugo
 Galicia
 Transportistas
 1679 329 1640 1715 359 292
-Guntín;Lugo;Castroverde;Os Ancares;Sarria
+Castroverde;Guntín;Lugo;Os Ancares;Sarria
 1 0 1 1 1
 Vigo Norte
 Pontevedra
@@ -424,7 +424,7 @@ Lugo
 Galicia
 Lácteo
 1765 360 1678 1830 453 270
-AS11;LN4;O Corgo;Castroverde;A Fonsagrada;Quiroga;O Inicio;Sarria
+Castroverde;O Corgo;AS11;LN4;A Fonsagrada;Quiroga;O Inicio;Sarria
 2 2 1 2 2
 SG7
 Segovia
@@ -487,7 +487,7 @@ Pontevedra
 Galicia
 Cerdo
 1442 415 1378 1486 468 353
-Vedra-Boqueixon;ACÑ1;Avión;Boborás;A Lama;Caldas;Deza
+Avión;Vedra-Boqueixon;ACÑ1;Boborás;A Lama;Caldas;Deza
 6 5 1 6 5
 CL26
 Burgos
@@ -529,7 +529,7 @@ Lugo
 Galicia
 Dependientes
 1660 300 1600 1694 331 262
-Castro de Rei;Guitiriz;Guntín;Outeiro de Rei;O Corgo;Castroverde
+Castroverde;O Corgo;Guitiriz;Castro de Rei;Guntín;Outeiro de Rei
 21 20 1 19 23
 CL21
 Burgos
@@ -781,7 +781,7 @@ Lugo
 Galicia
 Hostelería
 1627 339 1573 1662 395 292
-Guitiriz;Ulloa;Lugo;O Corgo;Sarria;Chantada
+O Corgo;Guitiriz;Lugo;Ulloa;Sarria;Chantada
 2 2 1 1 1
 CL40
 Burgos
@@ -1124,7 +1124,7 @@ Lugo
 Galicia
 Dependientes
 1743 154 1700 1789 200 116
-AS7;Foz;Mondoñedo;A Pontenova
+Foz;AS7;Mondoñedo;A Pontenova
 3 4 1 3 3
 PL17
 Palencia
@@ -1141,11 +1141,11 @@ Cerdo
 V1;V2
 1 1 1 1 1
 Santiago de Compostela
-
-
+A Coruña
+Galicia
 Oficinistas
 1409 335 1409 1409 335 335
-ACÑ1;Vedra-Boqueixon;San Marcos;A Barcala
+ACÑ1;Vedra-Boqueixon;San;Marcos;A;Barcala
 19 18 1 20 20
 V21
 Valencia
@@ -1320,7 +1320,7 @@ A Coruña
 Galicia
 Empleados
 1432 358 1394 1461 382 321
-Santiago de Compostela;San Marcos;ACÑ1;Arzúa;Tabeiro;Deza
+Tabeiro;Santiago de Compostela;San Marcos;ACÑ1;Arzúa;Deza
 2 1 1 2 3
 V35
 Valencia
@@ -1376,7 +1376,7 @@ A Coruña
 Galicia
 Riders
 1377 360 1329 1417 403 313
-Santiago de Compostela;ACÑ5;Vedra-Boqueixon;Noia;A Barcala;Caldas;Tabeiro
+Tabeiro;Santiago de Compostela;ACÑ5;Vedra-Boqueixon;Noia;A Barcala;Caldas
 1 1 1 1 1
 V39
 Valencia
@@ -1397,7 +1397,7 @@ Pontevedra
 Galicia
 Vacuno
 1416 560 1361 1456 607 508
-Tuy;O Porriño;Mos;A Cañiza;Redondela;A Lama
+Redondela;Tuy;O Porriño;Mos;A Cañiza;A Lama
 10 8 1 9 9
 LN332
 León
@@ -1488,7 +1488,7 @@ Lugo
 Galicia
 Técnicos
 1639 139 1587 1672 179 96
-As Pontes de García Rodríguez;Ortegal;Viveiro;Burela-Xove;Vilalba
+Burela-Xove;As Pontes de García Rodríguez;Ortegal;Viveiro;Vilalba
 1 0 1 1 0
 EK29_HE
 Bizkaia
@@ -1530,7 +1530,7 @@ A Coruña
 Galicia
 Dependientes
 1538 327 1485 1567 362 286
-Arzúa;Curtis;Guitiriz;Ulloa;Deza
+Guitiriz;Arzúa;Curtis;Ulloa;Deza
 3 2 1 2 2
 V45
 Valencia
@@ -1670,7 +1670,7 @@ Ourense
 Galicia
 Cereal
 1577 632 1520 1625 680 574
-Celanova-Bande;Allariz.Maceda;Oimbra
+Allariz.Maceda;Celanova-Bande;Oimbra
 2 2 1 3 3
 Arzúa
 A Coruña
@@ -1684,7 +1684,7 @@ Lugo
 Galicia
 Viña
 1721 474 1640 1775 539 390
-LN4;Os Ancares;O Inicio;Monforte de Lemos;Caldelas;Trives;Valdeorras
+Os Ancares;O Inicio;LN4;Monforte de Lemos;Caldelas;Trives;Valdeorras
 1 1 1 1 1
 M1
 Madrid
@@ -1733,7 +1733,7 @@ Pontevedra
 Galicia
 Estibadores
 1345 550 1319 1369 571 524
-Nigrán;O Porriño;Vigo Norte;Mos
+Vigo Norte;Nigrán;O Porriño;Mos
 37 30 1 33 34
 M7
 Madrid
@@ -1922,7 +1922,7 @@ Ourense
 Galicia
 Vacuno
 1493 476 1465 1528 518 425
-Avión;O Carballiño;San Cristovo de Cea;Ribadavia;Tabeiro;Deza
+O Carballiño;Avión;Tabeiro;San Cristovo de Cea;Ribadavia;Deza
 1 0 1 1 1
 S12
 Soria
@@ -2076,7 +2076,7 @@ Lugo
 Galicia
 Vacuno
 1578 349 1514 1623 412 286
-Melida;Guitiriz;Guntín;Chantada;Deza
+Guitiriz;Guntín;Melida;Chantada;Deza
 3 1 1 2 2
 AS15
 Asturias
@@ -2139,7 +2139,7 @@ Asturias
 Asturias
 Riders
 1871 282 1777 1951 356 182
-AS6;AS7;AS10;AS12;LN3;LN4;A Fonsagrada;Os Ancares
+Os Ancares;AS6;AS7;AS10;AS12;LN3;LN4;A Fonsagrada
 1 1 1 1 1
 AS12
 Asturias
@@ -2202,7 +2202,7 @@ Lugo
 Galicia
 Lácteo
 1669 375 1599 1739 425 327
-Guntín;O Corgo;Os Ancares;O Inicio;Chantada
+O Corgo;Os Ancares;Guntín;O Inicio;Chantada
 4 3 1 4 5
 AS24
 Asturias
@@ -2265,14 +2265,14 @@ Pontevedra
 Galicia
 Lácteo
 1458 556 1411 1508 596 498
-Avión;Ribadavia;Celanova-Bande;Ponteareas;A Lama
+Avión;Ponteareas;Ribadavia;Celanova-Bande;A Lama
 2 2 1 4 3
 Tuy
 Pontevedra
 Galicia
 Dependientes
 1363 595 1339 1397 614 573
-O Baixo Miño;Nigrán;O Porriño;Ponteareas
+Nigrán;Ponteareas;O Baixo Miño;O Porriño
 4 4 1 3 3
 Boutx
 France
@@ -2356,7 +2356,7 @@ Lugo
 Galicia
 Vacuno
 1744 204 1716 1770 230 172
-AS7;Ribadeo;Meira;A Fonsagrada
+Ribadeo;AS7;Meira;A Fonsagrada
 1 0 1 1 0
 AR15
 Huesca
@@ -2419,7 +2419,7 @@ Ourense
 Galicia
 Madera
 1542 468 1505 1578 518 425
-Chantada;Boborás;O Carballiño;Ribadavia;San Ciprán de Viñas;Ourense Norte;O Pereiro de Aguiar;Deza
+O Carballiño;Boborás;Chantada;Ribadavia;San Ciprán de Viñas;Ourense Norte;O Pereiro de Aguiar;Deza
 2 1 1 2 2
 SL14
 Salamanca
@@ -2461,7 +2461,7 @@ Lugo
 Galicia
 Operarios
 1658 464 1622 1679 501 425
-Quiroga;O Inicio;Chantada;Caldelas
+O Inicio;Quiroga;Chantada;Caldelas
 4 4 1 5 5
 SL11
 Salamanca
@@ -2783,7 +2783,7 @@ Asturias
 Asturias
 Riders
 1820 161 1740 1890 220 125
-AS11;AS10;AS6;Ribadeo;A Pontenova
+Ribadeo;AS11;AS10;A Pontenova;AS6
 1 1 1 1 1
 S8
 Soria
@@ -2825,7 +2825,7 @@ Ourense
 Galicia
 Vacuno
 1594 505 1550 1638 544 455
-Chantada;San Cristovo de Cea;Ourense Norte;Ourense Sur;Allariz.Maceda;Caldelas
+Allariz.Maceda;San Cristovo de Cea;Chantada;Ourense Norte;Ourense Sur;Caldelas
 2 2 1 3 4
 AR39
 Zaragoza
@@ -3042,14 +3042,14 @@ Ourense
 Galicia
 Operarios
 1544 523 1511 1586 558 488
-San Cristovo de Cea;Ribadavia;Cartelle;Ourense Norte;Ourense Sur;Allariz.Maceda
+Allariz.Maceda;San Cristovo de Cea;Ribadavia;Cartelle;Ourense Norte;Ourense Sur
 5 3 1 7 5
 Curtis
 A Coruña
 Galicia
 Lácteo
 1532 264 1473 1579 312 202
-Miño;Melida;Arzúa;Frades;As Pontes de García Rodríguez;Guitiriz
+Guitiriz;Miño;Melida;Arzúa;Frades;As Pontes de García Rodríguez
 3 2 1 4 4
 VLL6
 Valladolid
@@ -3315,14 +3315,14 @@ Ortegal
 
 Pesca
 1586 97 1514 1648 137 26
-Narón;As Pontes de García Rodríguez;Viveiro;Muras-Orol
+Muras-Orol;Narón;As Pontes de García Rodríguez;Viveiro
 4 3 1 4 4
 A Lama
 Pontevedra
 Galicia
 Lácteo
 1421 483 1379 1458 531 436
-Avión;Ponteareas;A Cañiza;Redondela;Pontevedra;Caldas;Tabeiro
+Avión;Tabeiro;Redondela;Pontevedra;Ponteareas;A Cañiza;Caldas
 2 1 1 3 3
 Vitoria Grande_HE
 Araba
@@ -3497,7 +3497,7 @@ A Coruña
 Galicia
 Energía
 1567 164 1506 1623 220 104
-Miño;Curtis;Ortegal;Fene;Narón;Muras-Orol;Vilalba;Guitiriz
+Guitiriz;Miño;Muras-Orol;Curtis;Ortegal;Fene;Narón;Vilalba
 3 2 1 3 3
 Villafranca del Cid
 Castellón
@@ -3511,7 +3511,7 @@ Pontevedra
 Galicia
 Operarios
 1374 574 1347 1391 589 545
-Nigrán;Tuy;Vigo Sur;Mos;Ponteareas
+Nigrán;Ponteareas;Vigo Sur;Tuy;Mos
 5 3 1 5 5
 AR87
 Zaragoza
@@ -3553,7 +3553,7 @@ Pontevedra
 Galicia
 Transportistas
 1379 551 1352 1396 566 527
-O Porriño;Vigo Sur;Vigo Norte;Ponteareas;Redondela
+Vigo Norte;Redondela;Ponteareas;Vigo Sur;O Porriño
 3 3 1 3 3
 AR86
 Zaragoza
@@ -3595,7 +3595,7 @@ León
 León
 Riders
 1861 396 1720 1954 454 306
-AS11;LN3;LN5;LN17;LN18;Os Ancares;Quiroga
+Os Ancares;Quiroga;AS11;LN3;LN5;LN17;LN18
 1 1 1 1 1
 AR81
 Zaragoza
@@ -3644,7 +3644,7 @@ Pontevedra
 Galicia
 Lácteo
 1389 425 1350 1432 463 375
-ACÑ1;A Lama;Pontevedra;O Salnès;Villagarcía de Arousa;Tabeiro
+Tabeiro;Pontevedra;ACÑ1;A Lama;O Salnès;Villagarcía de Arousa
 10 7 1 9 9
 AR80
 Teruel
@@ -3770,7 +3770,7 @@ Zamora
 Zamora
 Riders
 1835 606 1729 1930 677 535
-LN6;Z2;Z3;Viana;Valdeorras
+Viana;LN6;Z2;Z3;Valdeorras
 1 1 1 1 1
 Z2
 Zamora
@@ -3931,7 +3931,7 @@ Lugo
 Galicia
 Vacuno
 1767 269 1715 1838 340 191
-AS10;AS11;Meira;A Pontenova;Castroverde;Os Ancares
+Castroverde;Os Ancares;AS11;AS10;A Pontenova;Meira
 1 1 1 2 1
 A Barcala
 A Coruña
@@ -3973,7 +3973,7 @@ Ourense
 Galicia
 Dependientes
 1567 515 1539 1579 533 490
-San Ciprán de Viñas;Ourense Norte;O Pereiro de Aguiar
+O Pereiro de Aguiar;San Ciprán de Viñas;Ourense Norte
 14 13 1 10 9
 Sada
 A Coruña
@@ -4022,7 +4022,7 @@ Lugo
 Galicia
 Pesca
 1643 95 1608 1676 130 58
-Ortegal;Burela-Xove;Muras-Orol
+Burela-Xove;Muras-Orol;Ortegal
 4 3 1 5 5
 SG17
 Segovia
@@ -4043,7 +4043,7 @@ Lugo
 Galicia
 Lácteo
 1597 435 1533 1672 517 355
-Ulloa;Guntín;O Inicio;Sarria;Monforte de Lemos;San Cristovo de Cea;O Pereiro de Aguiar;Caldelas;Deza
+Guntín;O Inicio;Ulloa;Sarria;San Cristovo de Cea;Monforte de Lemos;O Pereiro de Aguiar;Caldelas;Deza
 4 2 1 5 5
 SG15
 Segovia
@@ -4155,7 +4155,7 @@ Ourense
 Galicia
 Viña
 1779 525 1691 1849 596 448
-LN5;LN6;Z1;Quiroga;Viana;Trives
+Quiroga;Viana;LN5;LN6;Z1;Trives
 6 4 1 6 7
 LR2
 La Rioja
@@ -4211,14 +4211,14 @@ Ourense
 Galicia
 Hostelería
 1558 504 1536 1573 517 484
-San Cristovo de Cea;San Ciprán de Viñas;Ourense Sur;O Pereiro de Aguiar
+San Cristovo de Cea;O Pereiro de Aguiar;San Ciprán de Viñas;Ourense Sur
 12 12 0 9 12
 Vilalba
 Lugo
 Galicia
 Vacuno
 1638 202 1556 1702 273 143
-As Pontes de García Rodríguez;Burela-Xove;Mondoñedo;Muras-Orol;Castro de Rei;Meira;Guitiriz;Outeiro de Rei
+Guitiriz;Burela-Xove;Mondoñedo;Muras-Orol;As Pontes de García Rodríguez;Castro de Rei;Meira;Outeiro de Rei
 6 4 1 5 6
 Navarra 20_HE
 Navarra
@@ -4288,7 +4288,7 @@ Pontevedra
 Galicia
 Turismo
 1349 457 1241 1388 501 412
-Pontevedra;Villagarcía de Arousa;Caldas
+Pontevedra;Caldas;Villagarcía de Arousa
 23 21 1 23 20
 Camargue
 France
@@ -4309,14 +4309,14 @@ Ourense
 Galicia
 Viña
 1651 528 1605 1693 573 480
-Quiroga;Monforte de Lemos;Chantada;O Pereiro de Aguiar;Allariz.Maceda;Oimbra;Trives
+Allariz.Maceda;Quiroga;Monforte de Lemos;O Pereiro de Aguiar;Chantada;Oimbra;Trives
 1 0 1 1 0
 Deza
 Pontevedra
 Galicia
 Vacuno
 1509 402 1438 1579 452 338
-Vedra-Boqueixon;Melida;Arzúa;Ulloa;Chantada;Boborás;San Cristovo de Cea;Tabeiro
+Tabeiro;Vedra-Boqueixon;Melida;Arzúa;Boborás;Ulloa;San Cristovo de Cea;Chantada
 10 10 1 9 10
 Toulouse
 France
@@ -4351,7 +4351,7 @@ Ourense
 Galicia
 Patatas
 1526 613 1450 1573 692 521
-Ribadavia;Cartelle;Allariz.Maceda;Xinzo de Limia;A Cañiza
+Allariz.Maceda;Xinzo de Limia;A Cañiza;Ribadavia;Cartelle
 6 3 1 5 5
 Navarra 6_HE
 Navarra
@@ -4407,7 +4407,7 @@ Ourense
 Galicia
 Vacuno
 1501 523 1453 1547 560 476
-Avión;Boborás;O Carballiño;San Cristovo de Cea;Cartelle;Celanova-Bande;San Ciprán de Viñas;A Cañiza
+O Carballiño;Avión;Boborás;A Cañiza;San Cristovo de Cea;San Ciprán de Viñas;Celanova-Bande;Cartelle
 3 2 1 3 3
 Castro Verde
 Portugal
@@ -4428,7 +4428,7 @@ Lugo
 Galicia
 Aves de Corral
 1713 212 1667 1750 265 173
-Mondoñedo;Vilalba;Castro de Rei;A Pontenova;Castroverde;A Fonsagrada
+Castroverde;Mondoñedo;A Pontenova;A Fonsagrada;Vilalba;Castro de Rei
 1 1 1 2 2
 Oleiros
 A Coruña
@@ -4456,21 +4456,21 @@ Lugo
 Galicia
 Oficinistas
 1631 267 1585 1671 303 220
-Vilalba;Castro de Rei;Guitiriz;Lugo
+Guitiriz;Lugo;Vilalba;Castro de Rei
 3 1 1 2 5
 Castro de Rei
 Lugo
 Galicia
 
 1686 258 1634 1719 300 209
-Vilalba;Meira;Outeiro de Rei;Lugo;Castroverde
+Castroverde;Lugo;Vilalba;Meira;Outeiro de Rei
 1 1 1 1 1
 Cartelle
 Ourense
 Galicia
 Lácteo
 1529 545 1492 1570 577 517
-Ribadavia;Celanova-Bande;San Ciprán de Viñas;Allariz.Maceda
+Allariz.Maceda;San Ciprán de Viñas;Celanova-Bande;Ribadavia
 1 0 1 1 1
 Pirineos Franceses
 France
@@ -4484,7 +4484,7 @@ Pontevedra
 Galicia
 Pesca
 1358 412 1329 1390 435 383
-ACÑ5;O Salnès;Caldas
+ACÑ5;Caldas;O Salnès
 11 9 1 12 9
 Navarra 11_HE
 Navarra
@@ -4519,7 +4519,7 @@ Ourense
 Galicia
 Turismo
 1697 541 1641 1751 593 487
-Quiroga;Oimbra;Viana;Caldelas;Valdeorras
+Quiroga;Viana;Valdeorras;Caldelas;Oimbra
 1 1 1 0 1
 Z10
 Zamora
