@@ -1,4 +1,11 @@
 652
+O Carballiño
+Ourense
+Galicia
+Operarios
+1511 486 1482 1531 498 444
+Boborás;San Cristovo de Cea;Ribadavia
+3 2 1 4 4
 Soneira
 A Coruña
 Galicia
@@ -13,6 +20,13 @@ Cerdo
 3402 1206 3352 3450 1250 1156
 AR71;V1;V5;V12;V13
 1 1 1 1 1
+Castroverde
+Lugo
+Galicia
+Lácteo
+1713 293 1669 1767 347 226
+Castro de Rei;Meira;Lugo;O Corgo;A Fonsagrada;Os Ancares
+1 1 1 1 2
 Puçol
 Valencia
 Valencia
@@ -111,6 +125,20 @@ Riders
 1392 790 1266 1983 835 767
 
 0 0 0 0 0
+O Corgo
+Lugo
+Galicia
+Transportistas
+1679 329 1640 1715 359 292
+Guntín;Lugo;Castroverde;Os Ancares;Sarria
+1 0 1 1 1
+Vigo Norte
+Pontevedra
+Galicia
+Oficinistas
+1361 539 1341 1381 559 521
+Vigo Sur;Mos;Redondela
+38 35 1 32 37
 Basauri_HE
 Bizkaia
 Euskadi
@@ -118,6 +146,13 @@ Operarios
 2750 265 2740 2755 271 256
 
 10 7 1 9 9
+Guitiriz
+Lugo
+Galicia
+Vacuno
+1580 262 1528 1642 333 183
+Melida;Curtis;As Pontes de García Rodríguez;Vilalba;Ulloa;Guntín;Outeiro de Rei;Lugo
+2 2 1 2 2
 AVL5
 Ávila
 Ávila
@@ -174,6 +209,13 @@ Operarios
 1484 131 1455 1508 151 102
 San Sadurniño
 17 12 1 15 15
+Avión
+Ourense
+Galicia
+Lácteo
+1465 485 1432 1484 524 434
+Boborás;Ribadavia;A Cañiza;A Lama;Tabeiro
+1 0 1 1 1
 AVL2
 Ávila
 Ávila
@@ -377,6 +419,13 @@ Riders
 2510 964 2465 2546 995 916
 SG3;SG5;SG14;M16;M15
 1 1 1 1 1
+Os Ancares
+Lugo
+Galicia
+Lácteo
+1765 360 1678 1830 453 270
+AS11;LN4;O Corgo;Castroverde;A Fonsagrada;Quiroga;O Inicio;Sarria
+2 2 1 2 2
 SG7
 Segovia
 Segovia
@@ -433,6 +482,13 @@ Riders
 2560 754 2524 2590 770 726
 CL11;CL10;CL29;CL26
 1 1 1 1 1
+Tabeiro
+Pontevedra
+Galicia
+Cerdo
+1442 415 1378 1486 468 353
+Vedra-Boqueixon;ACÑ1;Avión;Boborás;A Lama;Caldas;Deza
+6 5 1 6 5
 CL26
 Burgos
 Burgos
@@ -468,6 +524,13 @@ Universitarios
 2735 249 2727 2747 255 240
 EK29
 15 10 0 10 12
+Lugo
+Lugo
+Galicia
+Dependientes
+1660 300 1600 1694 331 262
+Castro de Rei;Guitiriz;Guntín;Outeiro de Rei;O Corgo;Castroverde
+21 20 1 19 23
 CL21
 Burgos
 Burgos
@@ -601,6 +664,20 @@ Riders
 2586 591 2534 2648 615 571
 CL13;CL12;CL24;CL23;CL31;CL41
 1 1 1 1 1
+Burela-Xove
+Lugo
+Galicia
+Pesca
+1683 95 1642 1716 177 60
+Viveiro;Foz;Mondoñedo;Muras-Orol;Vilalba
+6 3 1 6 5
+Redondela
+Pontevedra
+Galicia
+Transportistas
+1394 521 1357 1416 544 481
+Vigo Norte;Mos;Ponteareas;O Morrazo;A Lama
+8 6 1 7 7
 Betanzos
 A Coruña
 Galicia
@@ -678,6 +755,20 @@ Riders
 2353 1142 2282 2416 1205 1070
 SG7;SG6;AVL16;AVL18;AVL12;AVL14;AVL15;M18;San Martín de Valdeiglesias
 1 1 1 1 1
+Foz
+Lugo
+Galicia
+Turismo
+1716 125 1685 1736 149 89
+Burela-Xove;Mondoñedo;Ribadeo
+1 2 1 2 2
+Allariz.Maceda
+Ourense
+Galicia
+Viña
+1589 559 1533 1648 619 511
+Cartelle;Celanova-Bande;San Ciprán de Viñas;O Pereiro de Aguiar;Xinzo de Limia;Oimbra;Caldelas
+3 2 1 4 4
 CL41
 Burgos
 Burgos
@@ -685,40 +776,19 @@ Riders
 2540 566 2522 2556 581 547
 CL23;CL39;CL38;CL31;CL30
 1 1 1 1 1
+Guntín
+Lugo
+Galicia
+Hostelería
+1627 339 1573 1662 395 292
+Guitiriz;Ulloa;Lugo;O Corgo;Sarria;Chantada
+2 2 1 1 1
 CL40
 Burgos
 Burgos
 Riders
 2562 550 2551 2571 554 540
 CL38;CL37;CL31
-1 1 1 1 1
-LG19
-Lugo
-Galicia
-Riders
-1713 293 1669 1767 347 226
-LG16;LG14;LG17;LG20;LG13;LG22
-1 1 1 1 1
-LG18
-Lugo
-Galicia
-Riders
-1631 267 1585 1671 303 220
-LG7;LG8;LG17;LG20
-1 1 1 1 1
-LG17
-Lugo
-Galicia
-Riders
-1686 258 1634 1719 300 209
-LG19;LG18;LG16;LG7;LG20
-1 1 1 1 1
-LG16
-Lugo
-Galicia
-Riders
-1713 212 1667 1750 265 173
-LG19;LG17;LG2;LG15;LG7;LG14
 1 1 1 1 1
 Beja
 Portugal
@@ -755,13 +825,6 @@ Riders
 4295 1348 4251 4337 1392 1293
 
 1 1 1 1 1
-LG22
-Lugo
-Galicia
-Riders
-1679 329 1640 1715 359 292
-LG19;LG20;LG13;LG23;LG21
-1 1 1 1 1
 IB13
 Islas Baleares
 Valencia
@@ -769,26 +832,12 @@ Riders
 4503 1265 4460 4542 1300 1203
 
 1 1 1 1 1
-LG21
-Lugo
-Galicia
-Riders
-1627 339 1573 1662 395 292
-LG22;LG20;LG8;LG9;LG23;LG10
-1 1 1 1 1
 IB10
 Islas Baleares
 Valencia
 Riders
 4240 1438 4178 4304 1504 1378
 
-1 1 1 1 1
-LG20
-Lugo
-Galicia
-Riders
-1660 300 1600 1694 331 262
-LG19;LG18;LG17;LG22;LG21;LG8
 1 1 1 1 1
 IB11
 Islas Baleares
@@ -832,26 +881,12 @@ Riders
 4452 1235 4384 4513 1280 1185
 
 1 1 1 1 1
-LG24
-Lugo
-Galicia
-Riders
-1692 427 1610 1756 502 358
-LG23;LG13;LG12;LG11;LG10
-1 1 1 1 1
 IB15
 Islas Baleares
 Valencia
 Riders
 4204 1526 4192 4215 1533 1505
 
-1 1 1 1 1
-LG23
-Lugo
-Galicia
-Riders
-1669 375 1599 1739 425 327
-LG22;LG21;LG24;LG13;LG10
 1 1 1 1 1
 CL2
 Burgos
@@ -944,13 +979,6 @@ Riders
 3472 1266 3456 3510 1284 1238
 V10;V12
 1 1 1 1 1
-LG11
-Lugo
-Galicia
-Riders
-1658 464 1622 1679 501 425
-LG24;LG10;LG12;OR5
-1 1 1 1 1
 SL2
 Salamanca
 Salamanca
@@ -964,13 +992,6 @@ Valencia
 Riders
 3406 1235 3365 3454 1293 1177
 Atzeneta del Maestrat;V12;V5;V15
-1 1 1 1 1
-LG10
-Lugo
-Galicia
-Riders
-1597 435 1533 1672 517 355
-LG21;LG24;LG23;LG11;LG9;PV1;OR3;OR4;OR5
 1 1 1 1 1
 SL1
 Salamanca
@@ -1028,13 +1049,6 @@ Riders
 3150 1434 3085 3201 1508 1347
 
 1 1 1 1 1
-LG15
-Lugo
-Galicia
-Riders
-1744 204 1716 1770 230 172
-LG16;LG14;LG1;AS7
-1 1 1 1 1
 SL6
 Salamanca
 Salamanca
@@ -1049,26 +1063,12 @@ Riders
 3230 1361 3166 3327 1435 1291
 
 1 1 1 1 1
-LG14
-Lugo
-Galicia
-Riders
-1767 269 1715 1838 340 191
-LG19;LG16;LG15;LG13;AS10;AS11
-1 1 1 1 1
 SL5
 Salamanca
 Salamanca
 Riders
 2176 942 2119 2213 976 889
 AVL1;SL4;SL6;SL26;Z6;VLL6
-1 1 1 1 1
-LG13
-Lugo
-Galicia
-Riders
-1765 360 1678 1830 453 270
-LG19;LG22;LG24;LG23;LG14;LG12;AS11;LN4
 1 1 1 1 1
 SL8
 Salamanca
@@ -1083,13 +1083,6 @@ Valencia
 Riders
 3198 1473 3126 3250 1530 1401
 
-1 1 1 1 1
-LG12
-Lugo
-Galicia
-Riders
-1721 474 1640 1775 539 390
-LG24;LG11;LG13;LN4;OR5;OR6;OR7
 1 1 1 1 1
 SL7
 Salamanca
@@ -1126,6 +1119,13 @@ Riders
 2363 532 2326 2386 566 498
 PL14;PL4;PL5;PL10;PL13
 1 1 1 1 1
+Ribadeo
+Lugo
+Galicia
+Dependientes
+1743 154 1700 1789 200 116
+AS7;Foz;Mondoñedo;A Pontenova
+3 4 1 3 3
 PL17
 Palencia
 Palencia
@@ -1217,6 +1217,20 @@ Riders
 3394 1527 3351 3425 1585 1441
 
 1 1 1 1 1
+Pontevedra
+Pontevedra
+Galicia
+Dependientes
+1382 470 1358 1402 496 443
+O Morrazo;A Lama;O Salnès;Caldas
+19 18 1 18 20
+Nigrán
+Pontevedra
+Galicia
+Turismo
+1339 575 1285 1368 598 516
+O Baixo Miño;Tuy;O Porriño;Vigo Sur
+9 10 1 8 8
 IB18
 Islas Baleares
 Valencia
@@ -1299,14 +1313,14 @@ A Coruña
 Galicia
 Riders
 1348 392 1326 1366 412 362
-ACÑ6;PV4;ACÑ1
+ACÑ6;ACÑ1;Villagarcía de Arousa
 1 1 1 1 1
 Vedra-Boqueixon
 A Coruña
 Galicia
 Empleados
 1432 358 1394 1461 382 321
-Santiago de Compostela;San Marcos;PV1;PV2;ACÑ1;Arzúa
+Santiago de Compostela;San Marcos;ACÑ1;Arzúa;Tabeiro;Deza
 2 1 1 2 3
 V35
 Valencia
@@ -1362,7 +1376,7 @@ A Coruña
 Galicia
 Riders
 1377 360 1329 1417 403 313
-Santiago de Compostela;ACÑ5;Vedra-Boqueixon;PV2;PV3;Noia;A Barcala
+Santiago de Compostela;ACÑ5;Vedra-Boqueixon;Noia;A Barcala;Caldas;Tabeiro
 1 1 1 1 1
 V39
 Valencia
@@ -1378,12 +1392,26 @@ Riders
 2396 554 2352 2434 601 487
 CL4;PL15;PL11;PL13;PL9;PL3
 1 1 1 1 1
+Ponteareas
+Pontevedra
+Galicia
+Vacuno
+1416 560 1361 1456 607 508
+Tuy;O Porriño;Mos;A Cañiza;Redondela;A Lama
+10 8 1 9 9
 LN332
 León
 León
 Riders
 2124 484 2086 2158 512 455
 LN23;LN30;LN10;LN21;LN28
+1 1 1 1 1
+Mondoñedo
+Lugo
+Galicia
+Profesionales
+1700 170 1668 1727 200 129
+Burela-Xove;Foz;Ribadeo;Vilalba;Meira
 1 1 1 1 1
 EK20_HE
 Araba
@@ -1455,6 +1483,13 @@ Riders
 2702 237 2681 2726 253 214
 Portugalete;EK3;CR1;EK32
 1 1 1 1 1
+Muras-Orol
+Lugo
+Galicia
+Técnicos
+1639 139 1587 1672 179 96
+As Pontes de García Rodríguez;Ortegal;Viveiro;Burela-Xove;Vilalba
+1 0 1 1 0
 EK29_HE
 Bizkaia
 Euskadi
@@ -1495,7 +1530,7 @@ A Coruña
 Galicia
 Dependientes
 1538 327 1485 1567 362 286
-LG9;LG8;PV1;Arzúa;Curtis
+Arzúa;Curtis;Guitiriz;Ulloa;Deza
 3 2 1 2 2
 V45
 Valencia
@@ -1546,6 +1581,13 @@ Riders
 3934 98 3867 4053 166 0
 
 0 0 0 0 0
+O Inicio
+Lugo
+Galicia
+Vacuno
+1692 427 1610 1756 502 358
+Os Ancares;Quiroga;Sarria;Monforte de Lemos;Chantada
+1 1 1 2 1
 EK10_HE
 Gipuzkoa
 Euskadi
@@ -1623,13 +1665,27 @@ Riders
 3116 85 3061 3133 166 0
 
 0 0 0 0 0
+Xinzo de Limia
+Ourense
+Galicia
+Cereal
+1577 632 1520 1625 680 574
+Celanova-Bande;Allariz.Maceda;Oimbra
+2 2 1 3 3
 Arzúa
 A Coruña
 Galicia
 Aves de Corral
 1477 321 1407 1540 362 267
-Vedra-Boqueixon;Melida;PV1;San Marcos;Ordes;Frades;Curtis
+Vedra-Boqueixon;Melida;San Marcos;Ordes;Frades;Curtis;Deza
 4 3 1 4 4
+Quiroga
+Lugo
+Galicia
+Viña
+1721 474 1640 1775 539 390
+LN4;Os Ancares;O Inicio;Monforte de Lemos;Caldelas;Trives;Valdeorras
+1 1 1 1 1
 M1
 Madrid
 Madrid
@@ -1672,6 +1728,13 @@ Riders
 2602 1265 2583 2614 1279 1246
 M5;M7;M8
 1 1 1 1 1
+Vigo Sur
+Pontevedra
+Galicia
+Estibadores
+1345 550 1319 1369 571 524
+Nigrán;O Porriño;Vigo Norte;Mos
+37 30 1 33 34
 M7
 Madrid
 Madrid
@@ -1854,6 +1917,13 @@ Riders
 2421 399 2367 2463 435 360
 BG1;CR4;PL2;PL3
 1 1 1 1 1
+Boborás
+Ourense
+Galicia
+Vacuno
+1493 476 1465 1528 518 425
+Avión;O Carballiño;San Cristovo de Cea;Ribadavia;Tabeiro;Deza
+1 0 1 1 1
 S12
 Soria
 Soria
@@ -2001,6 +2071,13 @@ Riders
 2326 782 2312 2337 796 766
 VLL18;VLL11;VLL25;VLL30;VLL31
 1 1 1 1 1
+Ulloa
+Lugo
+Galicia
+Vacuno
+1578 349 1514 1623 412 286
+Melida;Guitiriz;Guntín;Chantada;Deza
+3 1 1 2 2
 AS15
 Asturias
 Asturias
@@ -2062,7 +2139,7 @@ Asturias
 Asturias
 Riders
 1871 282 1777 1951 356 182
-LG14;LG13;AS6;AS7;AS10;AS12;LN3;LN4
+AS6;AS7;AS10;AS12;LN3;LN4;A Fonsagrada;Os Ancares
 1 1 1 1 1
 AS12
 Asturias
@@ -2076,7 +2153,7 @@ Asturias
 Asturias
 Riders
 1806 220 1762 1850 280 178
-LG14;AS11;AS7
+AS11;AS7;A Fonsagrada
 1 1 1 1 1
 San Marcos
 A Coruña
@@ -2120,6 +2197,13 @@ Riders
 2354 226 2324 2370 248 190
 CR5;AS14;AS1;CR14
 1 1 1 1 1
+Sarria
+Lugo
+Galicia
+Lácteo
+1669 375 1599 1739 425 327
+Guntín;O Corgo;Os Ancares;O Inicio;Chantada
+4 3 1 4 5
 AS24
 Asturias
 Asturias
@@ -2176,6 +2260,20 @@ Riders
 2112 156 2103 2121 164 141
 AS20;AS3;AS2
 1 1 1 1 1
+A Cañiza
+Pontevedra
+Galicia
+Lácteo
+1458 556 1411 1508 596 498
+Avión;Ribadavia;Celanova-Bande;Ponteareas;A Lama
+2 2 1 4 3
+Tuy
+Pontevedra
+Galicia
+Dependientes
+1363 595 1339 1397 614 573
+O Baixo Miño;Nigrán;O Porriño;Ponteareas
+4 4 1 3 3
 Boutx
 France
 None
@@ -2253,6 +2351,13 @@ Riders
 2867 507 2850 2885 524 491
 EK20;Navarra 18;LR6
 1 1 1 1 1
+A Pontenova
+Lugo
+Galicia
+Vacuno
+1744 204 1716 1770 230 172
+AS7;Ribadeo;Meira;A Fonsagrada
+1 0 1 1 0
 AR15
 Huesca
 Aragón
@@ -2295,40 +2400,12 @@ Riders
 3418 781 3346 3466 854 677
 AR12;AR10;AR29;AR41;AR42
 1 1 1 1 1
-LG2
-Lugo
-Galicia
-Riders
-1700 170 1668 1727 200 129
-LG16;LG4;LG1;LG3;LG7
-1 1 1 1 1
-LG1
-Lugo
-Galicia
-Riders
-1743 154 1700 1789 200 116
-LG15;LG2;LG3;AS7
-1 1 1 1 1
-LG4
-Lugo
-Galicia
-Riders
-1683 95 1642 1716 177 60
-LG2;LG3;LG5;LG6;LG7
-1 1 1 1 1
 SL16
 Salamanca
 Salamanca
 Riders
 2008 1047 1913 2073 1105 976
 SL3;SL8;SL17;SL14;SL10;SL18;SL11
-1 1 1 1 1
-LG3
-Lugo
-Galicia
-Riders
-1716 125 1685 1736 149 89
-LG2;LG1;LG4
 1 1 1 1 1
 SL17
 Salamanca
@@ -2337,26 +2414,19 @@ Riders
 2036 987 1973 2076 1026 930
 SL3;SL16;SL23;SL20;SL21;SL18
 1 1 1 1 1
-LG6
-Lugo
+San Cristovo de Cea
+Ourense
 Galicia
-Riders
-1639 139 1587 1672 179 96
-LG4;LG5;LG7;As Pontes de García Rodríguez;Ortegal
-1 1 1 1 1
+Madera
+1542 468 1505 1578 518 425
+Chantada;Boborás;O Carballiño;Ribadavia;San Ciprán de Viñas;Ourense Norte;O Pereiro de Aguiar;Deza
+2 1 1 2 2
 SL14
 Salamanca
 Salamanca
 Riders
 1922 1002 1831 2004 1095 897
 SL2;SL3;SL16;SL11;SL15;SL13
-1 1 1 1 1
-LG5
-Lugo
-Galicia
-Riders
-1643 95 1608 1676 130 58
-LG4;LG6;Ortegal
 1 1 1 1 1
 SL15
 Salamanca
@@ -2365,26 +2435,12 @@ Riders
 1875 1089 1821 1917 1147 1013
 SL14;SL11;SL12;SL13
 1 1 1 1 1
-LG8
-Lugo
-Galicia
-Riders
-1580 262 1528 1642 333 183
-LG18;LG21;LG20;Melida;LG7;LG9;Curtis;As Pontes de García Rodríguez
-1 1 1 1 1
 SL12
 Salamanca
 Salamanca
 Riders
 1829 1145 1743 1915 1210 1034
 SL15;SL13;SL11
-1 1 1 1 1
-LG7
-Lugo
-Galicia
-Riders
-1638 202 1556 1702 273 143
-LG18;LG17;LG16;LG2;LG4;LG6;LG8;As Pontes de García Rodríguez
 1 1 1 1 1
 SL13
 Salamanca
@@ -2400,13 +2456,13 @@ Riders
 1981 1125 1931 2053 1210 1061
 SL9;SL16;SL11
 1 1 1 1 1
-LG9
+Monforte de Lemos
 Lugo
 Galicia
-Riders
-1578 349 1514 1623 412 286
-LG21;LG10;Melida;LG8;PV1
-1 1 1 1 1
+Operarios
+1658 464 1622 1679 501 425
+Quiroga;O Inicio;Chantada;Caldelas
+4 4 1 5 5
 SL11
 Salamanca
 Salamanca
@@ -2727,7 +2783,7 @@ Asturias
 Asturias
 Riders
 1820 161 1740 1890 220 125
-LG15;AS11;AS10;LG1;AS6
+AS11;AS10;AS6;Ribadeo;A Pontenova
 1 1 1 1 1
 S8
 Soria
@@ -2764,6 +2820,13 @@ Riders
 3127 927 3020 3225 1005 880
 AR37;AR39;AR53;AR54;AR64
 1 1 1 1 1
+O Pereiro de Aguiar
+Ourense
+Galicia
+Vacuno
+1594 505 1550 1638 544 455
+Chantada;San Cristovo de Cea;Ourense Norte;Ourense Sur;Allariz.Maceda;Caldelas
+2 2 1 3 4
 AR39
 Zaragoza
 Aragón
@@ -2974,33 +3037,19 @@ Riders
 2076 972 2061 2085 982 959
 SL19;SL23;SL21
 1 1 1 1 1
-PV10
-Pontevedra
+San Ciprán de Viñas
+Ourense
 Galicia
-Riders
-1363 595 1339 1397 614 573
-PV11;PV8;PV9;PV13
-1 1 1 1 1
-PV12
-Pontevedra
-Galicia
-Riders
-1458 556 1411 1508 596 498
-PV8;OR1;PV7;OR12;OR18
-1 1 1 1 1
-PV11
-Pontevedra
-Galicia
-Riders
-1334 616 1286 1383 656 571
-PV10;PV13
-1 1 1 1 1
+Operarios
+1544 523 1511 1586 558 488
+San Cristovo de Cea;Ribadavia;Cartelle;Ourense Norte;Ourense Sur;Allariz.Maceda
+5 3 1 7 5
 Curtis
 A Coruña
 Galicia
 Lácteo
 1532 264 1473 1579 312 202
-Miño;Melida;Arzúa;LG8;Frades;As Pontes de García Rodríguez
+Miño;Melida;Arzúa;Frades;As Pontes de García Rodríguez;Guitiriz
 3 2 1 4 4
 VLL6
 Valladolid
@@ -3016,13 +3065,6 @@ Vacuno
 1364 272 1310 1412 317 230
 Soneira;Carballo;Coristanco;A Barcala;Ordes
 2 2 1 3 2
-PV17
-Pontevedra
-Galicia
-Riders
-1361 509 1293 1392 538 456
-PV6;PV16
-1 1 1 1 1
 VLL7
 Valladolid
 Valladolid
@@ -3051,26 +3093,12 @@ Riders
 2305 878 2247 2348 920 821
 VLL10;SG8;VLL28;VLL27;VLL8
 1 1 1 1 1
-PV14
-Pontevedra
-Galicia
-Riders
-1345 550 1319 1369 571 524
-PV13;PV9;PV15;PTV1
-1 1 1 1 1
 AR57
 Zaragoza
 Aragón
 Riders
 3301 815 3278 3315 850 781
 AR41;AR40;AR58;AR88
-1 1 1 1 1
-PV13
-Pontevedra
-Galicia
-Riders
-1339 575 1285 1368 598 516
-PV10;PV11;PV14;PV9
 1 1 1 1 1
 AR54
 Zaragoza
@@ -3079,26 +3107,12 @@ Riders
 3170 870 3118 3233 914 818
 AR38;AR53;AR55;AR88
 1 1 1 1 1
-PV16
-Pontevedra
-Galicia
-Riders
-1394 521 1357 1416 544 481
-PV17;PTV1;PV7;PV8;PV15
-1 1 1 1 1
 AR55
 Zaragoza
 Aragón
 Riders
 3158 823 3116 3206 855 795
 AR49;AR54;AR50;AR88
-1 1 1 1 1
-PV15
-Pontevedra
-Galicia
-Riders
-1379 551 1352 1396 566 527
-PV14;PV16;PV8;PV9;PTV1
 1 1 1 1 1
 AR52
 Zaragoza
@@ -3226,26 +3240,12 @@ Riders
 3091 1163 3010 3174 1246 1070
 AR64;AR66;AR79
 1 1 1 1 1
-OR2
-Ourense
-Galicia
-Riders
-1493 476 1465 1528 518 425
-OR1;OR19;OR18;PV1;PV2;OR3
-1 1 1 1 1
 AR66
 Teruel
 Aragón
 Riders
 3165 1230 3093 3230 1267 1165
 Ademuz;AR68;AR65;AR79;AR80
-1 1 1 1 1
-OR1
-Ourense
-Galicia
-Riders
-1465 485 1432 1484 524 434
-PV12;OR2;PV2;PV7;OR18
 1 1 1 1 1
 AR63
 Zaragoza
@@ -3261,13 +3261,6 @@ Dependientes
 2732 239 2725 2741 246 223
 EK21;EK29;EK30
 5 5 1 4 5
-OR4
-Ourense
-Galicia
-Riders
-1594 505 1550 1638 544 455
-LG10;OR3;OR5;OR15;OR17;OR13
-1 1 1 1 1
 AR64
 Teruel
 Aragón
@@ -3275,40 +3268,12 @@ Riders
 3142 1014 3050 3218 1098 907
 AR38;AR39;AR65;AR77;AR78;AR79
 1 1 1 1 1
-OR3
-Ourense
-Galicia
-Riders
-1542 468 1505 1578 518 425
-LG10;OR2;OR4;OR19;OR18;OR17;OR16;PV1
-1 1 1 1 1
-OR6
-Ourense
-Galicia
-Riders
-1697 541 1641 1751 593 487
-LG12;OR5;OR7;OR8;OR10
-1 1 1 1 1
-OR5
-Ourense
-Galicia
-Riders
-1651 528 1605 1693 573 480
-LG11;LG10;LG12;OR4;OR6;OR13;OR10
-1 1 1 1 1
 VLL1
 Valladolid
 Valladolid
 Riders
 2221 598 2173 2272 650 542
 PL7;PL6;VLL2;VLL3;LN11;LN10
-1 1 1 1 1
-OR8
-Ourense
-Galicia
-Riders
-1719 607 1627 1795 690 546
-OR6;OR7;OR9;OR10;Z1
 1 1 1 1 1
 VLL2
 Valladolid
@@ -3324,13 +3289,6 @@ Riders
 3237 751 3200 3251 775 734
 AR81;AR86
 1 1 1 1 1
-OR7
-Ourense
-Galicia
-Riders
-1779 525 1691 1849 596 448
-LG12;OR6;OR8;LN5;LN6;Z1
-1 1 1 1 1
 VLL3
 Valladolid
 Valladolid
@@ -3345,13 +3303,6 @@ Riders
 2226 759 2145 2296 816 692
 VLL17;VLL29;VLL26;VLL23;VLL3;VLL5;Z8
 1 1 1 1 1
-OR9
-Ourense
-Galicia
-Riders
-1664 651 1639 1679 666 624
-OR8
-1 1 1 1 1
 VLL5
 Valladolid
 Valladolid
@@ -3364,8 +3315,15 @@ Ortegal
 
 Pesca
 1586 97 1514 1648 137 26
-Narón;LG5;LG6;As Pontes de García Rodríguez
+Narón;As Pontes de García Rodríguez;Viveiro;Muras-Orol
 4 3 1 4 4
+A Lama
+Pontevedra
+Galicia
+Lácteo
+1421 483 1379 1458 531 436
+Avión;Ponteareas;A Cañiza;Redondela;Pontevedra;Caldas;Tabeiro
+2 1 1 3 3
 Vitoria Grande_HE
 Araba
 Euskadi
@@ -3429,6 +3387,13 @@ Riders
 2523 203 2512 2536 212 190
 CR11;CR12
 1 1 1 1 1
+Viana
+Ourense
+Galicia
+Vacuno
+1719 607 1627 1795 690 546
+Z1;Oimbra;Verín;Trives;Valdeorras
+2 2 1 2 2
 AR79
 Teruel
 Aragón
@@ -3532,7 +3497,7 @@ A Coruña
 Galicia
 Energía
 1567 164 1506 1623 220 104
-Miño;LG6;LG8;LG7;Curtis;Fene;Narón;Ortegal
+Miño;Curtis;Ortegal;Fene;Narón;Muras-Orol;Vilalba;Guitiriz
 3 2 1 3 3
 Villafranca del Cid
 Castellón
@@ -3541,27 +3506,13 @@ Operarios
 3397 1152 3367 3426 1186 1124
 V1;AR71
 1 1 1 1 1
-PV1
+O Porriño
 Pontevedra
 Galicia
-Riders
-1509 402 1438 1579 452 338
-LG10;Vedra-Boqueixon;Melida;Arzúa;LG9;OR2;OR3;PV2
-1 1 1 1 1
-PV3
-Pontevedra
-Galicia
-Riders
-1389 425 1350 1432 463 375
-ACÑ1;PV2;PV4;PV7;PV6;PV5
-1 1 1 1 1
-PV2
-Pontevedra
-Galicia
-Riders
-1442 415 1378 1486 468 353
-Vedra-Boqueixon;ACÑ1;OR2;OR1;PV1;PV3;PV7
-1 1 1 1 1
+Operarios
+1374 574 1347 1391 589 545
+Nigrán;Tuy;Vigo Sur;Mos;Ponteareas
+5 3 1 5 5
 AR87
 Zaragoza
 Aragón
@@ -3576,26 +3527,12 @@ Riders
 2254 338 2193 2328 421 236
 CR5;PL2;AS13;AS14;LN2;LN12;LN13
 1 1 1 1 1
-PV5
-Pontevedra
-Galicia
-Riders
-1349 457 1241 1388 501 412
-PV3;PV4;PV6
-1 1 1 1 1
 AR88
 Zaragoza
 Aragón
 Riders
 3231 816 3154 3303 883 755
 AR39;AR49;AR40;AR58;AR57;AR54;AR55;AR63
-1 1 1 1 1
-PV4
-Pontevedra
-Galicia
-Riders
-1358 412 1329 1390 435 383
-ACÑ5;PV3;PV5
 1 1 1 1 1
 AR85
 Zaragoza
@@ -3611,13 +3548,13 @@ Riders
 2003 335 1888 2121 403 283
 AS11;AS12;LN2;LN4;LN17;LN15
 1 1 1 1 1
-PV7
+Mos
 Pontevedra
 Galicia
-Riders
-1421 483 1379 1458 531 436
-PV12;PV16;OR1;PV3;PV2;PV6;PV8
-1 1 1 1 1
+Transportistas
+1379 551 1352 1396 566 527
+O Porriño;Vigo Sur;Vigo Norte;Ponteareas;Redondela
+3 3 1 3 3
 AR86
 Zaragoza
 Aragón
@@ -3632,13 +3569,6 @@ Riders
 2165 345 2083 2224 400 287
 AS13;LN1;LN3;LN15;LN14;LN13
 1 1 1 1 1
-PV6
-Pontevedra
-Galicia
-Riders
-1382 470 1358 1402 496 443
-PV17;PV3;PV5;PV7
-1 1 1 1 1
 AR83
 Zaragoza
 Aragón
@@ -3651,14 +3581,7 @@ León
 León
 Riders
 1830 471 1746 1874 520 430
-OR7;LN4;LN6;LN18
-1 1 1 1 1
-PV9
-Pontevedra
-Galicia
-Riders
-1374 574 1347 1391 589 545
-PV10;PV14;PV13;PV15;PV8
+LN4;LN6;LN18;Valdeorras
 1 1 1 1 1
 AR84
 Zaragoza
@@ -3672,14 +3595,7 @@ León
 León
 Riders
 1861 396 1720 1954 454 306
-LG13;LG12;AS11;LN3;LN5;LN17;LN18
-1 1 1 1 1
-PV8
-Pontevedra
-Galicia
-Riders
-1416 560 1361 1456 607 508
-PV10;PV12;PV16;PV15;PV7;PV9
+AS11;LN3;LN5;LN17;LN18;Os Ancares;Quiroga
 1 1 1 1 1
 AR81
 Zaragoza
@@ -3695,6 +3611,13 @@ Riders
 1998 574 1920 2052 618 530
 LN6;LN8;LN20;Z2
 1 1 1 1 1
+O Baixo Miño
+Pontevedra
+Galicia
+Viña
+1334 616 1286 1383 656 571
+Nigrán;Tuy
+7 6 1 7 9
 AR82
 Zaragoza
 Aragón
@@ -3707,7 +3630,7 @@ León
 León
 Riders
 1897 535 1802 1988 591 455
-OR7;LN5;LN7;LN18;LN19;LN20;LN17;Z1;Z2
+LN5;LN7;LN18;LN19;LN20;LN17;Z1;Z2;Valdeorras
 1 1 1 1 1
 LN9
 León
@@ -3716,6 +3639,13 @@ Riders
 2135 606 2102 2161 648 559
 VLL2;LN8;LN10;LN22;Z9
 1 1 1 1 1
+Caldas
+Pontevedra
+Galicia
+Lácteo
+1389 425 1350 1432 463 375
+ACÑ1;A Lama;Pontevedra;O Salnès;Villagarcía de Arousa;Tabeiro
+10 7 1 9 9
 AR80
 Teruel
 Aragón
@@ -3828,12 +3758,19 @@ Oficinistas
 2800 384 2792 2808 390 372
 
 35 27 0 26 28
+Verín
+Ourense
+Galicia
+Agua
+1664 651 1639 1679 666 624
+Viana
+4 2 1 3 4
 Z1
 Zamora
 Zamora
 Riders
 1835 606 1729 1930 677 535
-OR8;OR7;LN6;Z2;Z3
+LN6;Z2;Z3;Viana;Valdeorras
 1 1 1 1 1
 Z2
 Zamora
@@ -3989,6 +3926,13 @@ Riders
 1775 751 1294 1963 767 717
 
 0 0 0 0 0
+A Fonsagrada
+Lugo
+Galicia
+Vacuno
+1767 269 1715 1838 340 191
+AS10;AS11;Meira;A Pontenova;Castroverde;Os Ancares
+1 1 1 2 1
 A Barcala
 A Coruña
 Galicia
@@ -4015,7 +3959,7 @@ A Coruña
 Galicia
 Pesca
 1504 124 1468 1538 151 90
-Ferrol;Narón;Fene
+Ferrol;Fene;Narón
 2 1 1 3 3
 Penela
 Portugal
@@ -4024,6 +3968,13 @@ Riders
 1321 1298 1191 1798 1326 1260
 
 0 0 0 0 0
+Ourense Sur
+Ourense
+Galicia
+Dependientes
+1567 515 1539 1579 533 490
+San Ciprán de Viñas;Ourense Norte;O Pereiro de Aguiar
+14 13 1 10 9
 Sada
 A Coruña
 Galicia
@@ -4066,6 +4017,13 @@ Riders
 2451 842 2414 2492 886 808
 VLL12;SG9;SG14;SG11;SG18
 1 1 1 1 1
+Viveiro
+Lugo
+Galicia
+Pesca
+1643 95 1608 1676 130 58
+Ortegal;Burela-Xove;Muras-Orol
+4 3 1 5 5
 SG17
 Segovia
 Segovia
@@ -4080,6 +4038,13 @@ Riders
 2422 916 2381 2456 953 850
 SG7;SG8;SG14;SG10
 1 1 1 1 1
+Chantada
+Lugo
+Galicia
+Lácteo
+1597 435 1533 1672 517 355
+Ulloa;Guntín;O Inicio;Sarria;Monforte de Lemos;San Cristovo de Cea;O Pereiro de Aguiar;Caldelas;Deza
+4 2 1 5 5
 SG15
 Segovia
 Segovia
@@ -4101,26 +4066,12 @@ Riders
 2080 477 2020 2118 513 433
 LN332;LN16;LN15;LN31;LN21;LN24
 1 1 1 1 1
-OR13
-Ourense
-Galicia
-Riders
-1589 559 1533 1648 619 511
-OR4;OR5;OR14;OR12;OR16;OR11;OR10
-1 1 1 1 1
 LN22
 León
 León
 Riders
 2109 558 2084 2126 602 516
 LN9;LN8;LN10;LN21
-1 1 1 1 1
-OR12
-Ourense
-Galicia
-Riders
-1526 613 1450 1573 692 521
-PV12;OR13;OR11;OR14;OR18
 1 1 1 1 1
 LN21
 León
@@ -4129,13 +4080,6 @@ Riders
 2071 541 2027 2130 600 478
 LN332;LN8;LN31;LN23;LN22;LN20
 1 1 1 1 1
-OR15
-Ourense
-Galicia
-Riders
-1567 515 1539 1579 533 490
-OR4;OR17;OR16
-1 1 1 1 1
 LN20
 León
 León
@@ -4143,19 +4087,12 @@ Riders
 2010 536 1957 2051 566 490
 LN7;LN6;LN19;LN31;LN21
 1 1 1 1 1
-OR14
-Ourense
-Galicia
-Riders
-1529 545 1492 1570 577 517
-OR13;OR12;OR18;OR16
-1 1 1 1 1
 Narón
 A Coruña
 Galicia
 Transportistas
 1534 111 1477 1579 162 73
-As Pontes de García Rodríguez;Fene;San Sadurniño;Ortegal
+Ortegal;As Pontes de García Rodríguez;Fene;San Sadurniño
 9 7 1 9 9
 LN27
 León
@@ -4178,26 +4115,12 @@ Riders
 2098 437 2078 2114 448 414
 LN15;LN14;LN26;LN24
 1 1 1 1 1
-OR11
-Ourense
-Galicia
-Riders
-1577 632 1520 1625 680 574
-OR13;OR12;OR10
-1 1 1 1 1
 LN24
 León
 León
 Riders
 2091 448 2066 2111 462 422
 LN15;LN23;LN26;LN25;LN29
-1 1 1 1 1
-OR10
-Ourense
-Galicia
-Riders
-1637 607 1575 1690 693 541
-OR6;OR5;OR8;OR13;OR11
 1 1 1 1 1
 LR1
 La Rioja
@@ -4227,26 +4150,19 @@ Riders
 2855 590 2770 2967 676 534
 LR11;S1;S8;S9;LR1;LR2;LR4;LR6;LR8;LR9
 1 1 1 1 1
-OR17
+Valdeorras
 Ourense
 Galicia
-Riders
-1558 504 1536 1573 517 484
-OR4;OR3;OR15;OR16
-1 1 1 1 1
+Viña
+1779 525 1691 1849 596 448
+LN5;LN6;Z1;Quiroga;Viana;Trives
+6 4 1 6 7
 LR2
 La Rioja
 Brieva de Cameros
 Riders
 2970 643 2940 3018 685 600
 S1;S2;LR1;LR3;Navarra 16
-1 1 1 1 1
-OR16
-Ourense
-Galicia
-Riders
-1544 523 1511 1586 558 488
-OR3;OR13;OR15;OR14;OR17;OR18
 1 1 1 1 1
 LR5
 La Rioja
@@ -4255,26 +4171,12 @@ Riders
 2975 562 2950 3006 580 530
 LR1;Navarra 13;LR4
 1 1 1 1 1
-OR19
-Ourense
-Galicia
-Riders
-1511 486 1482 1531 498 444
-OR2;OR3;OR18
-1 1 1 1 1
 LR4
 La Rioja
 Brieva de Cameros
 Riders
 2937 570 2907 2971 612 525
 LR1;LR3;LR5;Navarra 17;LR6
-1 1 1 1 1
-OR18
-Ourense
-Galicia
-Riders
-1501 523 1453 1547 560 476
-PV12;OR2;OR1;OR3;OR12;OR14;OR16;OR19
 1 1 1 1 1
 LR6
 La Rioja
@@ -4304,6 +4206,20 @@ Riders
 2138 453 2112 2160 486 417
 LN332;LN13;LN27;LN29
 1 1 1 1 1
+Ourense Norte
+Ourense
+Galicia
+Hostelería
+1558 504 1536 1573 517 484
+San Cristovo de Cea;San Ciprán de Viñas;Ourense Sur;O Pereiro de Aguiar
+12 12 0 9 12
+Vilalba
+Lugo
+Galicia
+Vacuno
+1638 202 1556 1702 273 143
+As Pontes de García Rodríguez;Burela-Xove;Mondoñedo;Muras-Orol;Castro de Rei;Meira;Guitiriz;Outeiro de Rei
+6 4 1 5 6
 Navarra 20_HE
 Navarra
 Navarra
@@ -4367,6 +4283,13 @@ Riders
 2890 472 2837 2967 510 415
 EK7;EK20;LR14;LR6;Navarra 20;Navarra 17;Navarra 19
 1 1 1 1 1
+O Salnès
+Pontevedra
+Galicia
+Turismo
+1349 457 1241 1388 501 412
+Pontevedra;Villagarcía de Arousa;Caldas
+23 21 1 23 20
 Camargue
 France
 None
@@ -4381,6 +4304,20 @@ Lácteo
 1433 267 1373 1484 315 203
 Carballo;Arzúa;San Marcos;Santa Comba;Culleredo;Frades;Cambre
 8 6 1 8 8
+Caldelas
+Ourense
+Galicia
+Viña
+1651 528 1605 1693 573 480
+Quiroga;Monforte de Lemos;Chantada;O Pereiro de Aguiar;Allariz.Maceda;Oimbra;Trives
+1 0 1 1 0
+Deza
+Pontevedra
+Galicia
+Vacuno
+1509 402 1438 1579 452 338
+Vedra-Boqueixon;Melida;Arzúa;Ulloa;Chantada;Boborás;San Cristovo de Cea;Tabeiro
+10 10 1 9 10
 Toulouse
 France
 None
@@ -4388,6 +4325,13 @@ Riders
 3760 82 3653 3867 166 0
 
 0 0 0 0 0
+O Morrazo
+Pontevedra
+Galicia
+Turismo
+1361 509 1293 1392 538 456
+Redondela;Pontevedra
+19 21 1 22 22
 Navarra 9_HE
 Navarra
 Navarra
@@ -4402,6 +4346,13 @@ Riders
 3040 380 3020 3060 390 358
 Navarra 4;Navarra 6;Navarra 7
 1 1 1 1 1
+Celanova-Bande
+Ourense
+Galicia
+Patatas
+1526 613 1450 1573 692 521
+Ribadavia;Cartelle;Allariz.Maceda;Xinzo de Limia;A Cañiza
+6 3 1 5 5
 Navarra 6_HE
 Navarra
 Navarra
@@ -4423,6 +4374,13 @@ Riders
 3046 395 3036 3055 401 386
 Navarra 9;Navarra 6;Navarra 7
 1 1 1 1 1
+Oimbra
+Ourense
+Galicia
+Hortalizas
+1637 607 1575 1690 693 541
+Allariz.Maceda;Xinzo de Limia;Viana;Caldelas;Trives
+3 2 1 2 2
 Navarra 2_HE
 Navarra
 Navarra
@@ -4437,13 +4395,6 @@ Riders
 3025 275 2963 3067 320 216
 EK25;EK26;EK27;EKG38;Navarra 2;Navarra 4
 1 1 1 1 1
-PTV1
-Pontevedra
-Galicia
-Riders
-1361 539 1341 1381 559 521
-PV14;PV16;PV15
-1 1 1 1 1
 Navarra 4_HE
 Navarra
 Navarra
@@ -4451,6 +4402,13 @@ Riders
 3008 344 2942 3070 397 278
 Navarra1;Navarra 20;Navarra 22;Navarra 21;Navarra 5;Navarra 2;Navarra 3
 1 1 1 1 1
+Ribadavia
+Ourense
+Galicia
+Vacuno
+1501 523 1453 1547 560 476
+Avión;Boborás;O Carballiño;San Cristovo de Cea;Cartelle;Celanova-Bande;San Ciprán de Viñas;A Cañiza
+3 2 1 3 3
 Castro Verde
 Portugal
 None
@@ -4465,6 +4423,13 @@ Riders
 4260 177 4226 4307 205 166
 
 0 0 0 0 0
+Meira
+Lugo
+Galicia
+Aves de Corral
+1713 212 1667 1750 265 173
+Mondoñedo;Vilalba;Castro de Rei;A Pontenova;Castroverde;A Fonsagrada
+1 1 1 2 2
 Oleiros
 A Coruña
 Galicia
@@ -4486,6 +4451,27 @@ Vacuno
 1468 204 1448 1488 219 189
 Culleredo;Frades;Sada;Ordes;Oleiros
 5 3 1 5 4
+Outeiro de Rei
+Lugo
+Galicia
+Oficinistas
+1631 267 1585 1671 303 220
+Vilalba;Castro de Rei;Guitiriz;Lugo
+3 1 1 2 5
+Castro de Rei
+Lugo
+Galicia
+
+1686 258 1634 1719 300 209
+Vilalba;Meira;Outeiro de Rei;Lugo;Castroverde
+1 1 1 1 1
+Cartelle
+Ourense
+Galicia
+Lácteo
+1529 545 1492 1570 577 517
+Ribadavia;Celanova-Bande;San Ciprán de Viñas;Allariz.Maceda
+1 0 1 1 1
 Pirineos Franceses
 France
 None
@@ -4493,6 +4479,13 @@ Riders
 3320 308 3272 3402 400 166
 
 0 0 0 0 0
+Villagarcía de Arousa
+Pontevedra
+Galicia
+Pesca
+1358 412 1329 1390 435 383
+ACÑ5;O Salnès;Caldas
+11 9 1 12 9
 Navarra 11_HE
 Navarra
 Navarra
@@ -4521,6 +4514,13 @@ Riders
 3035 490 3006 3061 513 468
 Navarra 17;Navarra 11;Navarra 10;Navarra 13
 1 1 1 1 1
+Trives
+Ourense
+Galicia
+Turismo
+1697 541 1641 1751 593 487
+Quiroga;Oimbra;Viana;Caldelas;Valdeorras
+1 1 1 0 1
 Z10
 Zamora
 Zamora
