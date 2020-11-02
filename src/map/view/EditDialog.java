@@ -5,6 +5,7 @@ import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
@@ -24,6 +25,7 @@ import javax.swing.SpinnerNumberModel;
 import map.controller.Controller;
 import map.model.MapGenObserver;
 import map.model.Province;
+import map.util.SortByName;
 
 public class EditDialog extends JDialog implements MapGenObserver {
 	private DialogStatus status;
@@ -258,7 +260,9 @@ public class EditDialog extends JDialog implements MapGenObserver {
 	@Override
 	public void onRegister(Map<String, Province> provinces, Set<String> nations) {
 		// TODO Auto-generated method stub
-		for (Province prov : provinces.values())
+		List<Province> temp = new ArrayList<Province>(provinces.values());
+		Collections.sort(temp, new SortByName());
+		for (Province prov : temp)
 			this.provinces.addItem(prov);
 	}
 

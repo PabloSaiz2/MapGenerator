@@ -629,13 +629,13 @@ Hostelería
 3150 1270 3093 3206 1300 1224
 AR66;AR68
 10 10 1 9 9
-AS17
+Mieres
 Asturias
 Asturias
-Riders
+Universitarios
 2074 245 2048 2112 270 204
 Oviedo Este;Lena;Laviana;Langreo
-1 1 1 1 1
+9 9 1 9 9
 BG1
 Burgos
 Burgos
@@ -823,7 +823,7 @@ León
 León
 Cereal
 2071 541 2027 2130 600 478
-Villarejo de Órbigo;La Bañeza;Villadangos;Alija del Infantado;Laguna de Negrillos;Villaturiel
+Villarejo de Órbigo;Villadangos;Alija del Infantado;Laguna de Negrillos;Villaturiel;La Bañeza
 1 1 1 1 1
 Torrelavega
 Cantabria
@@ -858,7 +858,7 @@ León
 León
 Hostelería
 2254 338 2193 2328 421 236
-PL2;Laviana;Llanes-Ribadesella;Liébana;Boñar;Burgo Ranero;Almanza
+Almanza;PL2;Laviana;Llanes-Ribadesella;Liébana;Boñar;Burgo Ranero
 2 1 1 1 1
 Beja
 Portugal
@@ -893,7 +893,7 @@ León
 León
 Dependientes
 2091 448 2066 2111 462 422
-La Robla;Villadangos;Santo Domingo;San Marcos de León;Sariegos
+La Robla;Villadangos;Santo Domingo;Sariegos;LN26
 6 5 1 5 6
 IB12
 Islas Baleares
@@ -970,14 +970,14 @@ León
 León
 Oficinistas
 2119 457 2106 2126 464 447
-Bernesga;San Marcos de León;San Andrés del Rabanedo;Valdefresno
+San Andrés del Rabanedo;Bernesga;Valdefresno;LN26
 10 10 0 9 11
 La Arena
 Asturias
 Asturias
 Profesionales
 2112 156 2103 2121 164 141
-Siero;La Calzada-Sur;Llano-Poniente;Villaviciosa
+Llano-Poniente;Siero;La Calzada-Sur;Villaviciosa
 12 10 0 9 11
 CL2
 Burgos
@@ -1257,7 +1257,7 @@ León
 León
 Cereal
 2020 498 1989 2043 523 469
-Astorga;Carrizo de la Ribera;La Bañeza;Villadangos;Santa María
+Santa María;Astorga;Carrizo de la Ribera;Villadangos;La Bañeza
 1 1 1 2 2
 V21
 Valencia
@@ -1285,7 +1285,7 @@ León
 León
 Oficinistas
 2098 437 2078 2114 448 414
-La Robla;San Marcos de León;San Andrés del Rabanedo;Garrafe de Torio
+San Andrés del Rabanedo;La Robla;Garrafe de Torio;LN26
 1 1 1 1 1
 V22
 Valencia
@@ -1383,7 +1383,7 @@ Asturias
 Asturias
 Turismo
 2045 256 1990 2075 280 188
-Llanera;Oviedo Oeste;Grado;Quirós;Laviana;Mieres
+Mieres;Llanera;Oviedo Oeste;Grado;Quirós;Laviana
 2 3 1 2 2
 V30
 Valencia
@@ -1509,7 +1509,7 @@ Cantabria
 Cantabria
 Vacuno
 2535 234 2494 2586 264 202
-Torrelavega;Asón;Santoña;Laredo;Piélagos;El Astillero
+El Astillero;Torrelavega;Asón;Santoña;Laredo;Piélagos
 4 4 1 4 5
 Ponteareas
 Pontevedra
@@ -1530,7 +1530,7 @@ Asturias
 Asturias
 Turismo
 2160 274 2057 2242 326 224
-Lena;Quirós;San Martín del Rey Aurelio;Mieres;Villaviciosa;Llanes-Ribadesella;Boñar;Riaño
+Mieres;Riaño;San Martín del Rey Aurelio;Lena;Quirós;Villaviciosa;Llanes-Ribadesella;Boñar
 5 5 1 4 4
 EK20_HE
 Araba
@@ -1670,7 +1670,7 @@ Cantabria
 Cantabria
 Operarios
 2472 357 2428 2532 413 282
-BG1;CL2;CL3;PL2;PL1;Liébana;Torrelavega;Asón
+BG1;Torrelavega;CL2;CL3;PL2;PL1;Liébana;Asón
 5 4 1 5 5
 V44
 Valencia
@@ -1747,7 +1747,7 @@ León
 León
 Cereal
 2124 484 2086 2158 512 455
-Villadangos;Santa María;Valencia de Don Juan;Bernesga;Valdefresno
+Santa María;Villadangos;Valencia de Don Juan;Bernesga;Valdefresno
 1 1 1 1 1
 EK14_HE
 Bizkaia
@@ -1915,7 +1915,7 @@ Asturias
 Asturias
 Licoreros
 2173 200 2110 2236 253 141
-Laviana;San Martín del Rey Aurelio;Siero;La Arena;Llanes-Ribadesella;Cangas de Onís
+La Arena;San Martín del Rey Aurelio;Laviana;Siero;Llanes-Ribadesella;Cangas de Onís
 8 8 1 10 10
 Carracedelo
 León
@@ -1929,7 +1929,7 @@ León
 León
 Cereal
 2073 598 2023 2123 639 575
-Z2;Z10;Z9;Santa Elena;Santa María;Valderas;Laguna de Negrillos
+Santa María;Z2;Z10;Z9;Santa Elena;Valderas;Laguna de Negrillos
 1 1 1 1 1
 Castro Daire
 Portugal
@@ -2020,7 +2020,7 @@ Cantabria
 Cantabria
 Lácteo
 2561 270 2485 2630 324 237
-EK4;CL2;CL1;Reinosa;Torrelavega;Medio Cudeyo;Laredo
+EK4;Torrelavega;CL2;CL1;Medio Cudeyo;Reinosa;Laredo
 1 0 1 2 2
 S10
 Soria
@@ -2041,7 +2041,7 @@ Palencia
 Palencia
 Riders
 2421 399 2367 2463 435 360
-BG1;PL2;PL3;Reinosa
+BG1;Reinosa;PL2;PL3
 1 1 1 1 1
 Boborás
 Ourense
@@ -2083,14 +2083,14 @@ Palencia
 Palencia
 Riders
 2354 370 2242 2446 432 305
-PL1;PL3;PL5;PL4;Liébana;Reinosa;Riaño;Almanza
+Almanza;Riaño;Reinosa;PL1;PL3;PL5;PL4;Liébana
 1 1 1 1 1
 PL5
 Palencia
 Palencia
 Riders
 2301 478 2254 2380 547 393
-PL15;PL14;PL2;PL6;PL4;Sahagún;Almanza
+Almanza;PL15;PL14;PL2;PL6;PL4;Sahagún
 1 1 1 1 1
 PL4
 Palencia
@@ -2139,7 +2139,7 @@ León
 León
 Empleados
 1998 574 1920 2052 618 530
-Z2;Cabrera;La Bañeza;Alija del Infantado
+Alija del Infantado;Z2;Cabrera;La Bañeza
 1 1 1 1 1
 VLL29
 Valladolid
@@ -2223,7 +2223,7 @@ Asturias
 Asturias
 Lácteo
 2003 286 1924 2103 341 242
-Cangas del Narcea;Lena;Grado;Laviana;Villablino
+Lena;Laviana;Cangas del Narcea;Grado;Villablino
 2 1 1 1 1
 San Marcos
 A Coruña
@@ -2265,7 +2265,7 @@ León
 León
 Minería
 1861 396 1720 1954 454 306
-Os Ancares;Quiroga;Cangas del Narcea;Carracedelo;Ponferrada;Bembibre;Villablino
+Bembibre;Os Ancares;Quiroga;Carracedelo;Cangas del Narcea;Ponferrada;Villablino
 6 4 1 7 6
 Ames
 A Coruña
@@ -2321,7 +2321,7 @@ León
 León
 Operarios
 1881 483 1832 1921 524 431
-Fabero;Carracedelo;Bembibre;Cabrera
+Bembibre;Carracedelo;Fabero;Cabrera
 12 13 1 14 14
 LR12
 La Rioja
@@ -2356,7 +2356,7 @@ León
 León
 Dependientes
 2225 537 2173 2276 581 464
-PL5;PL6;VLL1;Valencia de Don Juan;Burgo Ranero;Almanza
+Almanza;PL5;PL6;VLL1;Valencia de Don Juan;Burgo Ranero
 1 1 1 1 1
 AR19
 Huesca
@@ -2405,7 +2405,7 @@ Lugo
 Galicia
 Vacuno
 1744 204 1716 1770 230 172
-Ribadeo;Meira;A Fonsagrada;Navia
+Ribadeo;Navia;Meira;A Fonsagrada
 1 0 1 1 0
 AR15
 Huesca
@@ -2461,7 +2461,7 @@ León
 León
 Dependientes
 1981 495 1932 2016 538 452
-Bembibre;Cabrera;Carrizo de la Ribera;Villarejo de Órbigo;La Bañeza
+Bembibre;Villarejo de Órbigo;Cabrera;Carrizo de la Ribera;La Bañeza
 3 3 1 2 3
 SL16
 Salamanca
@@ -2601,7 +2601,7 @@ León
 León
 Pesca
 1897 535 1802 1988 591 455
-Z1;Z2;Valdeorras;Carracedelo;Ponferrada;Bembibre;Astorga;La Bañeza;Santa Elena
+Bembibre;Carracedelo;Santa Elena;Ponferrada;Astorga;Z1;Z2;Valdeorras;La Bañeza
 0 0 0 0 1
 AR9
 Huesca
@@ -2699,7 +2699,7 @@ Cantabria
 Cantabria
 Pesca
 2615 236 2568 2654 263 185
-EK4;Asón;Medio Cudeyo;Santoña;Castro Urdiales
+EK4;Medio Cudeyo;Asón;Santoña;Castro Urdiales
 7 5 1 6 7
 AR20
 Huesca
@@ -2713,7 +2713,7 @@ León
 León
 Transportistas
 2080 477 2020 2118 513 433
-La Robla;Carrizo de la Ribera;Villarejo de Órbigo;Santa María;Villaturiel;San Andrés del Rabanedo
+Santa María;San Andrés del Rabanedo;Villarejo de Órbigo;Villaturiel;La Robla;Carrizo de la Ribera
 2 2 1 2 2
 IB2
 Islas Baleares
@@ -2860,7 +2860,7 @@ Asturias
 Asturias
 Operarios
 2051 185 2025 2085 210 154
-Castrillón;Avilés;Oviedo Oeste;Oviedo Este;Lena;Siero
+Lena;Castrillón;Avilés;Oviedo Oeste;Oviedo Este;Siero
 3 2 1 3 3
 AR39
 Zaragoza
@@ -2925,13 +2925,13 @@ Riders
 3160 594 3094 3245 710 448
 AR32;AR30;Navarra 10;Navarra 14;AR46;AR48
 1 1 1 1 1
-LN20
+La Bañeza
 León
 León
-Riders
+Cereal
 2010 536 1957 2051 566 490
-Cabrera;Astorga;Villarejo de Órbigo;Santa Elena;Santa María
-1 1 1 1 1
+Santa María;Villarejo de Órbigo;Santa Elena;Astorga;Cabrera
+3 3 1 3 3
 Alentejo Sur
 Portugal
 None
@@ -2944,7 +2944,7 @@ Asturias
 Asturias
 Vacuno
 2290 207 2208 2371 230 168
-Villaviciosa;Llanes-Ribadesella;Ribadeva
+Ribadeva;Villaviciosa;Llanes-Ribadesella
 3 1 1 3 2
 Laguna de Negrillos
 León
@@ -2993,7 +2993,7 @@ León
 León
 Cereal
 1999 448 1934 2069 508 393
-Bembibre;La Robla;Astorga;Villarejo de Órbigo;Villadangos
+Bembibre;Villarejo de Órbigo;Astorga;Villadangos;La Robla
 2 1 1 2 2
 AR45
 Zaragoza
@@ -3140,7 +3140,7 @@ Asturias
 Asturias
 Lácteo
 1973 183 1924 2005 220 132
-Valdés-Tineo;Cudillero;Castrillón;Grado
+Valdés-Tineo;Castrillón;Cudillero;Grado
 3 2 1 3 3
 AR58
 Zaragoza
@@ -3175,7 +3175,7 @@ León
 León
 Madera
 2165 345 2083 2224 400 287
-Laviana;Villablino;La Robla;Riaño;Burgo Ranero;Garrafe de Torio
+Riaño;Laviana;Villablino;La Robla;Burgo Ranero;Garrafe de Torio
 2 1 1 2 2
 AR54
 Zaragoza
@@ -3350,7 +3350,7 @@ Valladolid
 Valladolid
 Riders
 2221 598 2173 2272 650 542
-PL7;PL6;VLL2;VLL3;Valencia de Don Juan;Sahagún
+PL7;PL6;Sahagún;VLL2;VLL3;Valencia de Don Juan
 1 1 1 1 1
 VLL2
 Valladolid
@@ -3385,7 +3385,7 @@ Asturias
 Asturias
 Empleados
 2095 156 2083 2111 165 137
-Avilés;Siero;Llano-Poniente;La Arena
+Llano-Poniente;La Arena;Avilés;Siero
 23 16 1 22 20
 VLL5
 Valladolid
@@ -3406,7 +3406,7 @@ Asturias
 Asturias
 Pesca
 1972 145 1936 2002 167 122
-Valdés-Tineo;Pravia-Salas;Castrillón
+Valdés-Tineo;Castrillón;Pravia-Salas
 1 1 1 1 1
 A Lama
 Pontevedra
@@ -3462,7 +3462,7 @@ León
 León
 Cereal
 2185 429 2121 2240 537 354
-Boñar;Riaño;Valencia de Don Juan;Sahagún;Almanza;Garrafe de Torio;Valdefresno
+Almanza;Riaño;Sahagún;Boñar;Valencia de Don Juan;Garrafe de Torio;Valdefresno
 1 1 1 1 1
 AR76
 Teruel
@@ -3546,21 +3546,21 @@ León
 León
 Madera
 2126 410 2095 2147 437 374
-La Robla;Boñar;Burgo Ranero;Sariegos;Villaquilambre
+Sariegos;Boñar;Burgo Ranero;La Robla;Villaquilambre
 1 0 1 1 1
 Oviedo Este
 Asturias
 Asturias
 Dependientes
 2065 210 2052 2074 220 193
-Llanera;Oviedo Oeste;Mieres;Siero
+Mieres;Llanera;Oviedo Oeste;Siero
 28 24 0 25 24
 La Robla
 León
 León
 Energía
 2065 397 1958 2138 471 329
-Bembibre;Villablino;Boñar;Carrizo de la Ribera;Villadangos;San Andrés del Rabanedo;Sariegos;Garrafe de Torio
+Bembibre;San Andrés del Rabanedo;Sariegos;Villadangos;Carrizo de la Ribera;Boñar;Garrafe de Torio;Villablino
 2 2 1 3 2
 O Porriño
 Pontevedra
@@ -3651,7 +3651,7 @@ León
 León
 Técnicos
 2121 439 2109 2135 456 421
-San Marcos de León;Garrafe de Torio;Valdefresno
+Garrafe de Torio;Valdefresno;LN26
 3 4 1 4 3
 AR80
 Teruel
@@ -3679,7 +3679,7 @@ Cantabria
 Cantabria
 Operarios
 2523 203 2512 2536 212 190
-Piélagos;El Astillero
+El Astillero;Piélagos
 7 5 1 6 6
 Oza-Viña
 A Coruña
@@ -3693,7 +3693,7 @@ León
 León
 Minería
 2003 335 1888 2121 403 283
-Cangas del Narcea;Quirós;Fabero;Bembibre;La Robla;Boñar
+Bembibre;Quirós;Fabero;Boñar;La Robla;Cangas del Narcea
 2 2 1 3 3
 Vitoria Central_HE
 Araba
@@ -3714,21 +3714,21 @@ Zamora
 Zamora
 Riders
 1835 606 1729 1930 677 535
-Viana;Z2;Z3;Valdeorras;Cabrera
+Cabrera;Viana;Z2;Z3;Valdeorras
 1 1 1 1 1
 Valencia de Don Juan
 León
 León
 Operarios
 2150 537 2104 2192 592 475
-VLL1;VLL2;Valderas;Laguna de Negrillos;Villaturiel;Sahagún;Burgo Ranero
+Villaturiel;Sahagún;Laguna de Negrillos;VLL1;VLL2;Burgo Ranero;Valderas
 1 2 1 2 2
 Z2
 Zamora
 Zamora
 Riders
 1980 639 1870 2076 690 560
-Z1;Z10;Z12;Z11;Z3;Cabrera;Santa Elena;Alija del Infantado
+Alija del Infantado;Santa Elena;Cabrera;Z1;Z10;Z12;Z11;Z3
 1 1 1 1 1
 Z3
 Zamora
@@ -3784,7 +3784,7 @@ Zamora
 Zamora
 Riders
 2127 696 2034 2183 774 605
-VLL2;VLL3;Z8;Z10;Z11;Z14;Alija del Infantado;Valderas
+Alija del Infantado;VLL2;VLL3;Z8;Z10;Z11;Z14;Valderas
 1 1 1 1 1
 Mons
 France
@@ -3826,7 +3826,7 @@ Cantabria
 Cantabria
 Operarios
 2443 232 2405 2481 282 197
-Liébana;San Vicente de la Barquera;Torrelavega
+Torrelavega;Liébana;San Vicente de la Barquera
 4 3 1 5 5
 M12
 Madrid
@@ -3840,7 +3840,7 @@ Asturias
 Asturias
 Hidroeléctrica
 1806 220 1762 1850 280 178
-A Fonsagrada;Navia;Cangas del Narcea
+Navia;A Fonsagrada;Cangas del Narcea
 1 1 1 0 1
 Montpellier
 France
@@ -3903,7 +3903,7 @@ Lugo
 Galicia
 Vacuno
 1767 269 1715 1838 340 191
-Castroverde;Os Ancares;A Pontenova;Meira;Grandas de Salime;Cangas del Narcea
+Castroverde;Os Ancares;A Pontenova;Grandas de Salime;Meira;Cangas del Narcea
 1 1 1 2 1
 A Barcala
 A Coruña
@@ -4022,7 +4022,7 @@ Cantabria
 Cantabria
 Turismo
 2395 226 2356 2432 258 187
-Ribadeva;Liébana;Cabezón de la Sal
+Ribadeva;Cabezón de la Sal;Liébana
 2 2 1 1 1
 SG15
 Segovia
@@ -4050,8 +4050,15 @@ Cantabria
 Cantabria
 Pesca
 2587 202 2550 2633 236 164
-Medio Cudeyo;Laredo;El Astillero
+El Astillero;Medio Cudeyo;Laredo
 5 5 1 6 6
+LN26
+León
+León
+Riders
+2112 450 2100 2119 460 438
+San Andrés del Rabanedo;Santo Domingo;Sariegos;Villaquilambre
+1 1 1 1 1
 LR1
 La Rioja
 Brieva de Cameros
@@ -4071,7 +4078,7 @@ Ourense
 Galicia
 Viña
 1779 525 1691 1849 596 448
-Quiroga;Viana;Z1;Trives;Carracedelo;Cabrera
+Quiroga;Carracedelo;Cabrera;Viana;Z1;Trives
 6 4 1 6 7
 LR2
 La Rioja
@@ -4120,21 +4127,21 @@ Asturias
 Asturias
 Operarios
 2060 141 2031 2097 174 103
-Castrillón;Llanera;Siero;La Calzada-Sur
+Castrillón;Llanera;La Calzada-Sur;Siero
 28 25 1 26 26
 Valderas
 León
 León
 Cereal
 2135 606 2102 2161 648 559
-VLL2;Z9;Alija del Infantado;Laguna de Negrillos;Valencia de Don Juan
+Alija del Infantado;Laguna de Negrillos;VLL2;Valencia de Don Juan;Z9
 1 1 1 1 1
 Piélagos
 Cantabria
 Cantabria
 Empleados
 2506 213 2471 2543 233 177
-Torrelavega;Medio Cudeyo;Camargo;El Astillero
+El Astillero;Torrelavega;Medio Cudeyo;Camargo
 11 12 1 9 10
 Ourense Norte
 Ourense
@@ -4162,7 +4169,7 @@ Asturias
 Asturias
 Turismo
 2270 240 2204 2383 287 186
-Laviana;Villaviciosa;Cangas de Onís;Ribadeva;Liébana;Riaño
+Riaño;Laviana;Ribadeva;Villaviciosa;Cangas de Onís;Liébana
 5 5 1 4 4
 Navarra 22_HE
 Navarra
@@ -4183,7 +4190,7 @@ Asturias
 Asturias
 Minería
 1871 282 1777 1951 356 182
-Os Ancares;A Fonsagrada;Navia;Grandas de Salime;Valdés-Tineo;Quirós;Fabero;Villablino
+Os Ancares;Navia;Valdés-Tineo;Quirós;Fabero;Villablino;Grandas de Salime;A Fonsagrada
 4 3 1 4 5
 Navarra 15_HE
 Navarra
@@ -4232,7 +4239,7 @@ Cantabria
 Cantabria
 Turismo
 2380 286 2288 2476 357 227
-PL2;Llanes-Ribadesella;Ribadeva;San Vicente de la Barquera;Cabezón de la Sal;Reinosa;Torrelavega;Riaño
+Torrelavega;Riaño;Reinosa;Ribadeva;PL2;Cabezón de la Sal;San Vicente de la Barquera;Llanes-Ribadesella
 3 2 1 2 2
 O Salnès
 Pontevedra
@@ -4283,19 +4290,12 @@ Turismo
 1361 509 1293 1392 538 456
 Redondela;Pontevedra
 19 21 1 22 22
-LN26
-León
-León
-Riders
-2112 450 2100 2119 460 438
-Santo Domingo;San Andrés del Rabanedo;Sariegos;Villaquilambre
-1 1 1 1 1
 Valdefresno
 León
 León
 Cereal
 2138 453 2112 2160 486 417
-Villaturiel;Burgo Ranero;Santo Domingo;Villaquilambre
+Santo Domingo;Villaturiel;Burgo Ranero;Villaquilambre
 1 0 1 1 1
 Navarra 9_HE
 Navarra
@@ -4323,7 +4323,7 @@ Asturias
 Asturias
 Oficinistas
 2052 210 2036 2060 223 192
-Llanera;Oviedo Este;Lena
+Lena;Llanera;Oviedo Este
 30 23 0 23 26
 Navarra 6_HE
 Navarra
@@ -4421,14 +4421,14 @@ León
 León
 Dependientes
 2115 465 2095 2125 474 456
-Villaturiel;Santo Domingo
+Santo Domingo;Villaturiel
 11 12 0 11 11
 Langreo
 Asturias
 Asturias
 Técnicos
 2092 230 2070 2114 255 205
-San Martín del Rey Aurelio;Mieres;Siero
+Mieres;San Martín del Rey Aurelio;Siero
 9 7 1 11 9
 Hondarribia_HE
 Gipuzkoa
@@ -4456,7 +4456,7 @@ Asturias
 Asturias
 Hidroeléctrica
 1983 232 1923 2036 271 181
-Valdés-Tineo;Pravia-Salas;Castrillón;Lena;Quirós
+Lena;Valdés-Tineo;Quirós;Castrillón;Pravia-Salas
 2 2 1 2 3
 Castro de Rei
 Lugo
@@ -4512,7 +4512,7 @@ Asturias
 Asturias
 Lácteo
 2094 190 2060 2131 224 146
-Avilés;Llanera;Oviedo Este;San Martín del Rey Aurelio;Langreo;La Calzada-Sur;La Arena;Villaviciosa
+La Arena;San Martín del Rey Aurelio;Villaviciosa;Llanera;La Calzada-Sur;Oviedo Este;Avilés;Langreo
 14 10 1 11 12
 Navarra 12_HE
 Navarra
@@ -4533,7 +4533,7 @@ Zamora
 Zamora
 Riders
 2082 638 2047 2108 667 598
-Z2;Z9;Z11;Alija del Infantado
+Alija del Infantado;Z2;Z9;Z11
 1 1 1 1 1
 Z12
 Zamora

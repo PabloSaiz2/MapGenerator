@@ -64,8 +64,8 @@ public class Controller {
 				String dataLine = reader.readLine();
 				String [] data =dataLine.split(";");
 				if(data.length==11) {
-					name = data[2];
-					resource = data[3];
+					name = data[2].trim();
+					resource = data[3].trim();
 					for(int j = 4;j<9;++j) {
 						if(!data[j].trim().equals(""))
 							development[j-4]= Integer.parseInt(data[j]);
