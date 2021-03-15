@@ -200,7 +200,7 @@ León
 León
 Minería
 1931 431 1870 1996 497 378
-Fabero;Ponferrada;Villablino;La Robla;Astorga;Carrizo de la Ribera;Encinedo-Luyego
+Encinedo-Luyego;Fabero;Ponferrada;Villablino;La Robla;Astorga;Carrizo de la Ribera
 6 5 1 7 7
 Guitiriz
 Lugo
@@ -466,7 +466,7 @@ Burgos
 Burgos
 Empleados
 2516 581 2488 2551 613 537
-Villadiego;Quintanadueñas;Arcos de la Llana;Villalbilla de Burgos;Campolara;Villahoz;Villamanzo
+Villahoz;Villadiego;Quintanadueñas;Arcos de la Llana;Villalbilla de Burgos;Campolara;Villamanzo
 1 0 1 1 0
 Evora
 Portugal
@@ -515,7 +515,7 @@ Burgos
 Burgos
 Aves de Corral
 2595 527 2578 2634 544 510
-Santa María del Invierno;Gamonal;Quintanilla;Belorado;Pradoluengo
+Belorado;Santa María del Invierno;Gamonal;Quintanilla;Pradoluengo
 1 0 1 1 1
 AVL9
 Ávila
@@ -557,7 +557,7 @@ Burgos
 Burgos
 Cereal
 2608 741 2568 2650 772 712
-S6;Salas de los Infantes;Vadocondes;Aranda de Duero;Gumiel de Izán
+Gumiel de Izán;S6;Salas de los Infantes;Vadocondes;Aranda de Duero
 1 0 1 1 1
 Ademuz
 Valencia
@@ -795,7 +795,7 @@ Burgos
 Burgos
 Mecánicos
 2524 434 2433 2580 480 364
-Reinosa;Pomar;Villarcayo;Valle de Sedano;Villadiego;Quintanadueñas
+Villarcayo;Reinosa;Pomar;Valle de Sedano;Villadiego;Quintanadueñas
 1 1 1 0 0
 IB16
 Islas Baleares
@@ -851,14 +851,14 @@ Burgos
 Burgos
 Operarios
 2570 535 2554 2586 545 520
-Las Huelgas;Arco de Santa María;San Julián;Orbaneja;Quintanilla;Pradoluengo
+San Julián;Orbaneja;Las Huelgas;Arco de Santa María;Quintanilla;Pradoluengo
 12 9 1 14 17
 Pradoluengo
 Burgos
 Burgos
 Dependientes
 2600 558 2545 2667 594 530
-Arcos de la Llana;San Julián;Gamonal;Orbaneja;Belorado;Campolara;Quintanar de la Sierra
+San Julián;Belorado;Orbaneja;Arcos de la Llana;Gamonal;Campolara;Quintanar de la Sierra
 1 1 1 1 1
 Penacova
 Portugal
@@ -893,7 +893,7 @@ Burgos
 Burgos
 Cereal
 2582 683 2535 2626 724 634
-Salas de los Infantes;Villamanzo;Lerma;Sotillo de la Ribera;Gumiel de Izán
+Gumiel de Izán;Salas de los Infantes;Villamanzo;Lerma;Sotillo de la Ribera
 1 0 1 1 1
 SL2
 Salamanca
@@ -1033,7 +1033,7 @@ Palencia
 Palencia
 Riders
 2354 645 2333 2368 659 630
-PL17;Villarramiel;Becerril de Campos;Venta de Baños
+Becerril de Campos;PL17;Villarramiel;Venta de Baños
 1 1 1 1 1
 Bilbao Este_HE
 Bizkaia
@@ -1088,8 +1088,8 @@ Santiago de Compostela
 A Coruña
 Galicia
 Oficinistas
-1409 335 1409 1409 335 335
-Vedra-Boqueixon;Ames;A Barcala;Sabugueira
+1409 335 1383 1433 353 287
+Vedra-Boqueixon;Ames;A;Barcala;Sabugueira
 19 18 1 20 20
 Villarejo de Órbigo
 León
@@ -1103,7 +1103,7 @@ Burgos
 Burgos
 Mecánicos
 2542 656 2504 2572 687 620
-Villahoz;Villamanzo;Sotillo de la Ribera;Caleruega
+Villahoz;Caleruega;Villamanzo;Sotillo de la Ribera
 1 1 1 1 2
 V21
 Valencia
@@ -1243,14 +1243,14 @@ Palencia
 Palencia
 Operarios
 2413 688 2302 2512 741 619
-VLL16;VLL15;PL16;PL17;Villarramiel;Torquemada;Villahoz;Sotillo de la Ribera;Roa
+Villahoz;VLL16;VLL15;PL16;PL17;Villarramiel;Torquemada;Sotillo de la Ribera;Roa
 3 2 1 4 4
 Torquemada
 Palencia
 Palencia
 Cereal
 2428 627 2363 2492 675 553
-Becerril de Campos;Frómista;Venta de Baños;Villadiego;Villahoz
+Villahoz;Becerril de Campos;Venta de Baños;Frómista;Villadiego
 1 1 1 1 1
 V30
 Valencia
@@ -1292,7 +1292,7 @@ Burgos
 Burgos
 Cereal
 2665 431 2636 2728 456 398
-EK1;LR12;Medina de Pomar;Miranda de Ebro;Pancorbo;Briviesca;Oña
+EK1;Briviesca;Miranda de Ebro;LR12;Medina de Pomar;Pancorbo;Oña
 1 1 1 1 0
 V33
 Valencia
@@ -1397,7 +1397,7 @@ Palencia
 Palencia
 Hostelería
 2354 370 2242 2446 432 305
-Almanza;Riaño;Reinosa;Liébana;Aguilar de Campoo;Herrera de Pìsuegra;Valdavia;Saldaña
+Almanza;Riaño;Herrera de Pìsuegra;Reinosa;Liébana;Aguilar de Campoo;Valdavia;Saldaña
 3 3 1 3 4
 EK22_HE
 Gipuzkoa
@@ -1516,7 +1516,7 @@ Cantabria
 Cantabria
 Operarios
 2472 357 2428 2532 413 282
-Torrelavega;Liébana;Asón;Cervera de Pisuegra;Aguilar de Campoo;Pomar;Villarcayo;Merindad
+Villarcayo;Torrelavega;Merindad;Cervera de Pisuegra;Liébana;Asón;Aguilar de Campoo;Pomar
 5 4 1 5 5
 V44
 Valencia
@@ -1663,7 +1663,7 @@ Burgos
 Burgos
 Operarios
 2560 754 2524 2590 770 726
-Castrillo de la Vega;Vadocondes;Gumiel de Izán;La Viña
+Gumiel de Izán;La Viña;Castrillo de la Vega;Vadocondes
 5 6 1 9 6
 Arzúa
 A Coruña
@@ -1705,7 +1705,7 @@ Burgos
 Burgos
 Vacuno
 2638 663 2580 2705 736 588
-S6;S7;S8;Campolara;Quintanar de la Sierra;Caleruega;La Viña
+La Viña;Caleruega;Campolara;S6;S7;S8;Quintanar de la Sierra
 1 1 1 1 1
 M3
 Madrid
@@ -1782,7 +1782,7 @@ León
 León
 Madera
 1830 471 1746 1874 520 430
-Valdeorras;Fabero;Ponferrada;Encinedo-Luyego
+Encinedo-Luyego;Valdeorras;Fabero;Ponferrada
 4 4 1 4 4
 Alija del Infantado
 León
@@ -1796,7 +1796,7 @@ Burgos
 Burgos
 Hostelería
 2563 472 2536 2594 518 430
-Poza de la Sal;Merindad;Quintanadueñas;Quintanilla
+Merindad;Poza de la Sal;Quintanadueñas;Quintanilla
 0 0 1 1 1
 Castro Daire
 Portugal
@@ -1831,7 +1831,7 @@ Burgos
 Burgos
 Viña
 2490 751 2464 2511 791 706
-VLL15;VLL14;SG11;Venta de Baños;Sotillo de la Ribera;Castrillo de la Vega;Adrada de Haza
+VLL15;VLL14;Castrillo de la Vega;Venta de Baños;SG11;Sotillo de la Ribera;Adrada de Haza
 1 1 1 1 1
 EK33_HE
 Bizkaia
@@ -1894,7 +1894,7 @@ Cantabria
 Cantabria
 Lácteo
 2561 270 2485 2630 324 237
-EK4;Torrelavega;Medio Cudeyo;Reinosa;Laredo;Villarcayo;Medina de Pomar
+Villarcayo;EK4;Torrelavega;Medio Cudeyo;Reinosa;Laredo;Medina de Pomar
 1 0 1 2 2
 S10
 Soria
@@ -1950,7 +1950,7 @@ León
 León
 Empleados
 1998 574 1920 2052 618 530
-Alija del Infantado;Z2;La Bañeza;Encinedo-Luyego
+Encinedo-Luyego;Alija del Infantado;Z2;La Bañeza
 1 1 1 1 1
 VLL29
 Valladolid
@@ -2006,7 +2006,7 @@ Palencia
 Palencia
 Leguminosa
 2301 478 2254 2380 547 393
-Almanza;Sahagún;Cervera de Pisuegra;Valdavia;Arconada;Carrión de los Condes;Villada
+Almanza;Cervera de Pisuegra;Sahagún;Valdavia;Arconada;Carrión de los Condes;Villada
 1 1 1 1 1
 VLL23
 Valladolid
@@ -2132,28 +2132,28 @@ León
 León
 Operarios
 1881 483 1832 1921 524 431
-Bembibre;Carracedelo;Fabero;Encinedo-Luyego
+Encinedo-Luyego;Bembibre;Carracedelo;Fabero
 12 13 1 14 14
 LR12
 La Rioja
 Brieva de Cameros
 Riders
 2733 470 2681 2767 493 443
-EK1;LR10;Santa Gadea del Cid;Miranda de Ebro;Pancorbo;Belorado
+EK1;Belorado;Miranda de Ebro;Santa Gadea del Cid;LR10;Pancorbo
 1 1 1 1 1
 LR11
 La Rioja
 Brieva de Cameros
 Riders
 2745 585 2682 2805 654 530
-LR3;LR9;LR10;S8;Belorado;Quintanar de la Sierra
+Belorado;LR3;LR9;LR10;S8;Quintanar de la Sierra
 1 1 1 1 1
 LR10
 La Rioja
 Brieva de Cameros
 Riders
 2740 515 2693 2778 556 473
-LR12;LR11;LR9;Belorado
+Belorado;LR12;LR11;LR9
 1 1 1 1 1
 AR18
 Huesca
@@ -2167,7 +2167,7 @@ León
 León
 Dependientes
 2225 537 2173 2276 581 464
-Almanza;VLL1;Valencia de Don Juan;Burgo Ranero;Saldaña;Villada
+Almanza;Saldaña;VLL1;Valencia de Don Juan;Burgo Ranero;Villada
 1 1 1 1 1
 AR19
 Huesca
@@ -2272,7 +2272,7 @@ León
 León
 Dependientes
 1981 495 1932 2016 538 452
-Bembibre;Villarejo de Órbigo;Carrizo de la Ribera;La Bañeza;Encinedo-Luyego
+Encinedo-Luyego;Bembibre;Villarejo de Órbigo;Carrizo de la Ribera;La Bañeza
 3 3 1 2 3
 SL16
 Salamanca
@@ -2342,7 +2342,7 @@ Burgos
 Burgos
 Leguminosa
 2624 430 2581 2660 462 393
-Villarcayo;Medina de Pomar;Santa Gadea del Cid;Rojas;Poza de la Sal
+Villarcayo;Santa Gadea del Cid;Medina de Pomar;Rojas;Poza de la Sal
 1 1 1 1 1
 SL11
 Salamanca
@@ -2433,7 +2433,7 @@ Burgos
 Burgos
 Cereal
 2624 467 2601 2647 488 440
-Briviesca;Poza de la Sal;Oña;Santa María del Invierno
+Briviesca;Oña;Poza de la Sal;Santa María del Invierno
 1 0 1 1 0
 AR28
 Huesca
@@ -2461,7 +2461,7 @@ Palencia
 Palencia
 Mecánicos
 2321 599 2283 2347 624 555
-Villada;Villarramiel;Becerril de Campos;Manquillos
+Becerril de Campos;Villada;Villarramiel;Manquillos
 1 1 1 1 1
 AR26
 Huesca
@@ -2650,28 +2650,28 @@ Soria
 Soria
 Riders
 2663 806 2581 2745 886 676
-SG1;SG2;S15;S5;S7;Salas de los Infantes;Vadocondes;La Viña
+SG1;SG2;La Viña;Salas de los Infantes;S15;S5;S7;Vadocondes
 1 1 1 1 1
 S7
 Soria
 Soria
 Riders
 2696 742 2670 2732 774 708
-S6;S8;Salas de los Infantes
+Salas de los Infantes;S6;S8
 1 1 1 1 1
 Pomar
 Palencia
 Palencia
 Cereal
 2463 416 2400 2493 457 367
-CL4;CL3;Reinosa;Aguilar;de;Campoo;Merindad;Villadiego
+Merindad;Reinosa;Aguilar de Campoo;Villadiego
 1 1 1 1 1
 S8
 Soria
 Soria
 Riders
 2751 695 2667 2817 768 600
-S13;S12;LR11;S7;S9;LR3;Salas de los Infantes;Quintanar de la Sierra
+Salas de los Infantes;S13;S12;LR11;S7;S9;LR3;Quintanar de la Sierra
 1 1 1 1 1
 S9
 Soria
@@ -2769,7 +2769,7 @@ León
 León
 Cereal
 2010 536 1957 2051 566 490
-Santa María;Villarejo de Órbigo;Santa Elena;Astorga;Encinedo-Luyego
+Encinedo-Luyego;Santa María;Villarejo de Órbigo;Santa Elena;Astorga
 3 3 1 3 3
 Alentejo Sur
 Portugal
@@ -2783,7 +2783,7 @@ Burgos
 Burgos
 Cereal
 2510 700 2443 2560 756 654
-Venta de Baños;Lerma;Caleruega;Roa;Castrillo de la Vega;Gumiel de Izán
+Gumiel de Izán;Caleruega;Castrillo de la Vega;Lerma;Venta de Baños;Roa
 1 0 1 1 1
 Cangas de Onís
 Asturias
@@ -2958,7 +2958,7 @@ Palencia
 Palencia
 Cereal
 2286 566 2220 2336 635 495
-VLL1;Sahagún;Saldaña;Carrión de los Condes;Villarramiel;Paredes de la Nava;Manquillos
+Saldaña;Sahagún;Paredes de la Nava;VLL1;Carrión de los Condes;Villarramiel;Manquillos
 1 1 1 1 1
 Curtis
 A Coruña
@@ -3119,7 +3119,7 @@ Burgos
 Burgos
 Técnicos
 2534 550 2512 2551 561 531
-Quintanadueñas;Estépar;Arcos de la Llana;Las Huelgas
+Estépar;Arcos de la Llana;Quintanadueñas;Las Huelgas
 0 1 1 1 1
 V5
 Castellon
@@ -3133,7 +3133,7 @@ Palencia
 Palencia
 Cereal
 2363 532 2326 2386 566 498
-Valdavia;Saldaña;Carrión de los Condes;Manquillos;Frómista
+Saldaña;Valdavia;Carrión de los Condes;Manquillos;Frómista
 1 1 1 1 1
 V6
 Castellon
@@ -3168,7 +3168,7 @@ Burgos
 Burgos
 Cereal
 2582 503 2552 2605 531 464
-Poza de la Sal;Santa María del Invierno;Valle de Sedano;Quintanadueñas;Gamonal;Orbaneja
+Orbaneja;Gamonal;Valle de Sedano;Poza de la Sal;Santa María del Invierno;Quintanadueñas
 0 0 1 1 1
 AR69
 Teruel
@@ -3210,7 +3210,7 @@ Burgos
 Burgos
 Madera
 2688 628 2626 2746 695 556
-LR11;S8;Belorado;Pradoluengo;Campolara;Salas de los Infantes
+Belorado;Pradoluengo;Campolara;Salas de los Infantes;LR11;S8
 1 1 1 1 1
 AR63
 Zaragoza
@@ -3238,14 +3238,14 @@ Burgos
 Burgos
 Cereal
 2611 495 2590 2650 523 464
-Briviesca;Rojas;Orbaneja;Quintanilla;Belorado
+Briviesca;Belorado;Orbaneja;Rojas;Quintanilla
 0 0 1 1 1
 VLL1
 Valladolid
 Valladolid
 Riders
 2221 598 2173 2272 650 542
-Sahagún;VLL2;VLL3;Valencia de Don Juan;Villada;Villarramiel
+Sahagún;Villada;VLL2;VLL3;Valencia de Don Juan;Villarramiel
 1 1 1 1 1
 VLL2
 Valladolid
@@ -3329,14 +3329,14 @@ Burgos
 Burgos
 Cereal
 2651 343 2578 2743 435 260
-EK1;EK3;EK4;EK35;EK36;Asón;Villarcayo;Santa Gadea del Cid;Oña
+Villarcayo;EK1;EK3;EK4;Santa Gadea del Cid;EK35;EK36;Asón;Oña
 2 3 1 3 3
 Vadocondes
 Burgos
 Burgos
 Cereal
 2570 775 2532 2622 827 755
-S6;SG1;SG12;Castrillo de la Vega;Adrada de Haza;Aranda de Duero;La Viña
+SG1;La Viña;Castrillo de la Vega;Aranda de Duero;S6;SG12;Adrada de Haza
 1 0 1 1 1
 Coimbra
 Portugal
@@ -3350,7 +3350,7 @@ Palencia
 Palencia
 Cereal
 2338 447 2287 2396 527 391
-Cervera de Pisuegra;Herrera de Pìsuegra;Saldaña;Arconada
+Herrera de Pìsuegra;Cervera de Pisuegra;Saldaña;Arconada
 1 1 1 1 1
 AR78
 Teruel
@@ -3399,7 +3399,7 @@ Burgos
 Burgos
 Hostelería
 2557 543 2553 2561 547 539
-Las Huelgas;San Julián;Gamonal
+San Julián;Gamonal;Las Huelgas
 5 6 0 5 5
 AR74
 Teruel
@@ -3504,7 +3504,7 @@ Burgos
 Burgos
 Cereal
 2463 528 2397 2527 632 426
-Pomar;Herrera de Pìsuegra;Frómista;Torquemada;Merindad;Quintanadueñas;Estépar;Villahoz
+Villahoz;Estépar;Merindad;Herrera de Pìsuegra;Torquemada;Pomar;Frómista;Quintanadueñas
 2 1 1 2 2
 AR85
 Zaragoza
@@ -3609,7 +3609,7 @@ Burgos
 Burgos
 Aves de Corral
 2685 464 2655 2715 494 432
-LR12;Santa Gadea del Cid;Briviesca;Belorado
+Briviesca;Belorado;Santa Gadea del Cid;LR12
 1 0 1 1 1
 Oza-Viña
 A Coruña
@@ -3623,7 +3623,7 @@ Palencia
 Palencia
 Operarios
 2421 399 2367 2463 435 360
-Reinosa;Cervera de Pisuegra;Pomar;Herrera de Pìsuegra
+Herrera de Pìsuegra;Cervera de Pisuegra;Reinosa;Pomar
 1 1 1 2 2
 Villablino
 León
@@ -3651,7 +3651,7 @@ Zamora
 Zamora
 Riders
 1835 606 1729 1930 677 535
-Z2;Z3;Valdeorras;Viana do Bolo;Encinedo-Luyego
+Encinedo-Luyego;Z2;Z3;Valdeorras;Viana do Bolo
 1 1 1 1 1
 Valencia de Don Juan
 León
@@ -3665,7 +3665,7 @@ Zamora
 Zamora
 Riders
 1980 639 1870 2076 690 560
-Alija del Infantado;Santa Elena;Z1;Z10;Z12;Z11;Z3;Encinedo-Luyego
+Encinedo-Luyego;Alija del Infantado;Santa Elena;Z1;Z10;Z12;Z11;Z3
 1 1 1 1 1
 Z3
 Zamora
@@ -3735,7 +3735,7 @@ Palencia
 Palencia
 Leguminosa
 2353 574 2318 2374 608 541
-Arconada;Carrión de los Condes;Villada;Paredes de la Nava;Becerril de Campos;Frómista
+Becerril de Campos;Paredes de la Nava;Villada;Arconada;Carrión de los Condes;Frómista
 1 1 1 1 1
 M11
 Madrid
@@ -3777,7 +3777,7 @@ Palencia
 Palencia
 Cereal
 2396 554 2352 2434 601 487
-Herrera de Pìsuegra;Arconada;Becerril de Campos;Manquillos;Torquemada;Villadiego
+Becerril de Campos;Herrera de Pìsuegra;Torquemada;Arconada;Villadiego;Manquillos
 2 1 1 2 1
 M12
 Madrid
@@ -3812,7 +3812,7 @@ Burgos
 Burgos
 Cereal
 2566 630 2520 2614 652 584
-Estépar;Campolara;Villahoz;Lerma;Caleruega
+Villahoz;Estépar;Caleruega;Campolara;Lerma
 1 0 1 1 1
 M14
 Madrid
@@ -3882,7 +3882,7 @@ Ourense
 Galicia
 Vacuno
 1719 607 1627 1795 690 546
-Z1;Oimbra;Verín;Trives;Valdeorras
+Verín;Z1;Oimbra;Trives;Valdeorras
 2 2 1 2 2
 San Sadurniño
 A Coruña
@@ -3931,21 +3931,21 @@ Burgos
 Burgos
 Energía
 2595 446 2566 2617 480 418
-Villarcayo;Rojas;Oña;Valle de Sedano;Quintanilla
+Villarcayo;Valle de Sedano;Oña;Rojas;Quintanilla
 0 0 1 1 0
 SG11
 Segovia
 Segovia
 Riders
 2497 828 2458 2540 901 776
-VLL14;VLL12;SG13;SG14;SG12;SG10;Roa;Adrada de Haza
+VLL14;VLL12;Roa;SG13;SG14;SG12;SG10;Adrada de Haza
 1 1 1 1 1
 SG12
 Segovia
 Segovia
 Riders
 2546 858 2502 2602 914 790
-SG1;SG3;SG2;SG13;SG11;Adrada de Haza;Vadocondes
+SG1;SG3;SG2;Vadocondes;SG13;SG11;Adrada de Haza
 1 1 1 1 1
 SG10
 Segovia
@@ -4050,7 +4050,7 @@ Ourense
 Galicia
 Viña
 1779 525 1691 1849 596 448
-Quiroga;Carracedelo;Z1;Trives;Viana do Bolo;Encinedo-Luyego
+Encinedo-Luyego;Quiroga;Carracedelo;Z1;Viana do Bolo;Trives
 6 4 1 6 7
 LR2
 La Rioja
@@ -4211,7 +4211,7 @@ Cantabria
 Cantabria
 Turismo
 2380 286 2288 2476 357 227
-Torrelavega;Riaño;Reinosa;Ribadeva;Cabezón de la Sal;San Vicente de la Barquera;Llanes-Ribadesella;Cervera de Pisuegra
+Torrelavega;Riaño;Cervera de Pisuegra;Reinosa;Ribadeva;Cabezón de la Sal;San Vicente de la Barquera;Llanes-Ribadesella
 3 2 1 2 2
 O Salnès
 Pontevedra
@@ -4316,7 +4316,7 @@ Palencia
 Palencia
 Cereal
 2296 653 2229 2362 724 579
-VLL17;VLL16;PL16;PL17;VLL1;VLL3;Villada;Paredes de la Nava;Becerril de Campos;Venta de Baños
+VLL17;VLL16;Becerril de Campos;PL16;PL17;Venta de Baños;Paredes de la Nava;Villada;VLL1;VLL3
 1 1 1 1 1
 Navarra 8_HE
 Navarra
@@ -4330,7 +4330,7 @@ Ourense
 Galicia
 Hortalizas
 1637 607 1575 1690 693 541
-Allariz.Maceda;Xinzo de Limia;Caldelas;Trives;Viana do Bolo;Verín
+Allariz.Maceda;Xinzo de Limia;Verín;Viana do Bolo;Caldelas;Trives
 3 2 1 2 2
 Navarra 2_HE
 Navarra
@@ -4393,7 +4393,7 @@ Palencia
 Palencia
 Cereal
 2334 542 2304 2352 569 511
-Saldaña;Arconada;Villada;Manquillos
+Saldaña;Villada;Arconada;Manquillos
 1 1 1 1 1
 Oleiros
 A Coruña
@@ -4435,7 +4435,7 @@ Burgos
 Burgos
 Cereal
 2525 492 2488 2557 551 466
-Merindad;Valle de Sedano;Villadiego;Estépar;Villalbilla de Burgos;Las Huelgas;Quintanilla
+Estépar;Merindad;Valle de Sedano;Villalbilla de Burgos;Quintanilla;Villadiego;Las Huelgas
 1 1 1 1 2
 Cambre
 A Coruña
@@ -4477,7 +4477,7 @@ Burgos
 Burgos
 Universitarios
 2548 538 2531 2565 564 522
-Quintanadueñas;Arcos de la Llana;Villalbilla de Burgos;Arco de Santa María;San Julián;Gamonal
+San Julián;Arcos de la Llana;Gamonal;Villalbilla de Burgos;Arco de Santa María;Quintanadueñas
 8 7 1 7 10
 Pirineos Franceses
 France
@@ -4533,7 +4533,7 @@ Ourense
 Galicia
 Turismo
 1697 541 1641 1751 593 487
-Quiroga;Valdeorras;Caldelas;Oimbra;Viana do Bolo
+Quiroga;Viana do Bolo;Valdeorras;Caldelas;Oimbra
 1 1 1 0 1
 Z10
 Zamora
@@ -4575,7 +4575,7 @@ Burgos
 Burgos
 Leguminosa
 2520 786 2496 2545 820 763
-SG11;SG12;Roa;Castrillo de la Vega;Vadocondes
+Castrillo de la Vega;Roa;Vadocondes;SG11;SG12
 1 0 1 1 1
 Z15
 Zamora
